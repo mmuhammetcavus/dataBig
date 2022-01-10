@@ -1,0 +1,2101 @@
+report,new_path
+ pneumothorax,val1.jpg
+" apicolateral pneumothorax,  bibasilar atelectasis",val2.jpg
+" lung,  pneumothorax",val3.jpg
+chest,val4.jpg
+" pulmonary vasculature,  pneumothorax",val5.jpg
+ thickening,val6.jpg
+ fractures,val7.jpg
+" pneumonia,  pneumothorax",val8.jpg
+ pneumothorax,val9.jpg
+" infection,  pneumothorax",val10.jpg
+ pneumothorax,val11.jpg
+chest,val12.jpg
+ pneumothorax,val13.jpg
+ pneumothorax,val14.jpg
+chest,val15.jpg
+ pneumothorax,val16.jpg
+" granuloma,  pneumothorax,  new pulmonary nodule,  pulmonary vasculature,  mediastinal hilar contours",val17.jpg
+ pneumothorax,val18.jpg
+ pneumothorax,val19.jpg
+" mediastinal hilar contours,  pneumothorax",val20.jpg
+ pneumothorax,val21.jpg
+" mediastinal hilar contours,  pneumothorax",val22.jpg
+" effusion,  effusion,  pneumonia,  pneumothorax",val23.jpg
+chest,val24.jpg
+chest,val25.jpg
+" consolidation,  pneumothorax",val26.jpg
+ lymphadenopathy,val27.jpg
+chest,val28.jpg
+" pneumothorax,  effusion,  fracture",val29.jpg
+chest,val30.jpg
+" hilar,  lesions,  pneumothorax",val31.jpg
+ pneumothorax,val32.jpg
+ pneumothorax,val33.jpg
+" consolidation,  pneumothorax",val34.jpg
+" atelectasis,  pneumothorax",val35.jpg
+" atelectasis,  infection,  pneumothorax",val36.jpg
+" normal hilar mediastinal structures,  lung nodules,  metastatic disease",val37.jpg
+" pulmonary vasculature,  pneumothorax",val38.jpg
+chest,val39.jpg
+ pneumothorax,val40.jpg
+" effusion,  pneumothorax",val41.jpg
+" pneumonia,  pneumothorax,  granuloma,  previously multiple lung nodules",val42.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val43.jpg
+chest,val44.jpg
+" pneumothorax,  effusion,  consolidation",val45.jpg
+ pneumothorax,val46.jpg
+" mediastinal hilar contours,  pneumothorax,  pulmonary vasculature",val47.jpg
+ pneumothorax,val48.jpg
+" pneumothorax,  mediastinal hilar structures",val49.jpg
+" infection,  atelectasis,  pneumothorax",val50.jpg
+" atelectasis,  pneumothorax",val51.jpg
+" consolidation,  nodules",val52.jpg
+chest,val53.jpg
+" atelectasis,  pneumonia,  pneumothorax",val54.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val55.jpg
+" mediastinal hilar contours,  effusion,  pneumothorax",val56.jpg
+" atelectasis,  consolidation",val57.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val58.jpg
+ pneumothorax,val59.jpg
+ pneumothorax,val60.jpg
+" pneumonia,  pneumothorax",val61.jpg
+" atelectasis,  effusion,  pneumonia",val62.jpg
+" cardiomegaly,  pulmonary vasculature,  pneumothorax,  acute abnormality intrathoracic malignancy",val63.jpg
+ pneumothorax,val64.jpg
+ pneumothorax,val65.jpg
+ pneumothorax,val66.jpg
+ pneumothorax,val67.jpg
+" effusion,  granuloma,  pneumothorax",val68.jpg
+ pneumothorax,val69.jpg
+ pneumothorax,val70.jpg
+" pulmonary edeam,  pneumothorax",val71.jpg
+chest,val72.jpg
+ pneumothorax,val73.jpg
+ pneumothorax,val74.jpg
+ pneumothorax,val75.jpg
+ mediastinal hilar contours,val76.jpg
+ pneumothorax pleural effusion,val77.jpg
+chest,val78.jpg
+" pneumothorax,  pneumonia",val79.jpg
+" pneumothorax,  effusion,  fracture",val80.jpg
+chest,val81.jpg
+ pneumonia,val82.jpg
+chest,val83.jpg
+" infection,  aneurysm",val84.jpg
+" consolidation,  parenchymal opacification,  pneumothorax",val85.jpg
+ pneumonia,val86.jpg
+" pneumothorax,  pulmonary vasculature,  pneumothorax",val87.jpg
+" emphysema,  hilar mediastinal silhouettes",val88.jpg
+ edema,val89.jpg
+" mediastinal , pleural pulmonary structures,  pneumothorax,  calcifications",val90.jpg
+ pneumothorax,val91.jpg
+" atelectasis,  pneumonia,  hilar",val92.jpg
+ pneumothorax pleural effusion,val93.jpg
+ emphysema,val94.jpg
+ support devices,val95.jpg
+ pneumonia,val96.jpg
+ effusion,val97.jpg
+" normal hilar mediastinal structures,  lung nodules,  metastatic disease",val98.jpg
+ pneumothorax,val99.jpg
+chest,val100.jpg
+" emphysema,  edema,  pneumothorax",val101.jpg
+chest,val102.jpg
+" small pulmonary nodules,  pneumothorax",val103.jpg
+ pneumonia,val104.jpg
+ mediastinal hilar contours,val105.jpg
+" atelectasis,  mediastinal hilar contours,  lung,  pneumothorax",val106.jpg
+ pneumothorax,val107.jpg
+ pneumothorax,val108.jpg
+ pneumothorax,val109.jpg
+ pneumothorax,val110.jpg
+ pneumothorax,val111.jpg
+ pneumothorax,val112.jpg
+ effusion,val113.jpg
+chest,val114.jpg
+" effusion,  consolidation,  pneumothorax",val115.jpg
+" calcifications,  pneumothorax",val116.jpg
+" edema,  pneumothorax",val117.jpg
+ pneumothorax,val118.jpg
+ pneumothorax,val119.jpg
+" consolidation,  pneumothorax",val120.jpg
+" pneumothorax,  pulmonary vasculature",val121.jpg
+chest,val122.jpg
+ pneumothorax pleural effusion,val123.jpg
+ pneumothorax,val124.jpg
+" pneumonia,  atelectasis",val125.jpg
+" pneumothorax,  lung",val126.jpg
+chest,val127.jpg
+" mediastinal hilar contours,  pneumonia,  pneumothorax",val128.jpg
+" pneumothorax,  pneumonia,  pulmonary vasculature",val129.jpg
+ pneumothorax,val130.jpg
+ pneumothorax,val131.jpg
+ pneumothorax pleural effusion,val132.jpg
+ mediastinal hilar contours,val133.jpg
+ pneumothorax,val134.jpg
+chest,val135.jpg
+ pneumothorax,val136.jpg
+" atelectasis,  pulmonary vasculature,  pneumothorax",val137.jpg
+ pneumothorax,val138.jpg
+chest,val139.jpg
+" atelectasis,  pneumothorax",val140.jpg
+" granuloma,  pneumothorax,  new pulmonary nodule,  pulmonary vasculature,  mediastinal hilar contours",val141.jpg
+ pneumothorax,val142.jpg
+ pneumothorax,val143.jpg
+chest,val144.jpg
+ pneumothorax,val145.jpg
+ pneumothorax,val146.jpg
+chest,val147.jpg
+" pneumonia,  pneumothorax",val148.jpg
+" mediastinal hilar contours,  pneumothorax",val149.jpg
+ pneumothorax,val150.jpg
+ pneumothorax,val151.jpg
+ pneumothorax,val152.jpg
+" pneumonia,  pneumothorax",val153.jpg
+ pneumothorax,val154.jpg
+ pneumothorax pleural effusion,val155.jpg
+ pneumothorax,val156.jpg
+" atelectasis,  focal pulmonary opacity,  pneumothorax",val157.jpg
+ atelectasis,val158.jpg
+" perihilar edema,  infection",val159.jpg
+ pneumothorax,val160.jpg
+" pneumonia,  pneumothorax,  granuloma,  previously multiple lung nodules",val161.jpg
+" consolidation,  consolidation,  pneumonia",val162.jpg
+" pneumonia,  pneumonia,  pneumothorax",val163.jpg
+ pneumothorax,val164.jpg
+ pneumothorax,val165.jpg
+" pulmonary vasculature,  pneumothorax,  pneumothorax",val166.jpg
+chest,val167.jpg
+chest,val168.jpg
+ pneumothorax,val169.jpg
+ pneumothorax,val170.jpg
+" mediastinal hilar contours,  pneumonia,  pneumothorax",val171.jpg
+" pneumonia,  mediastinal hilar contours",val172.jpg
+chest,val173.jpg
+" mediastinal hilar contours,  pneumothorax,  pulmonary vasculature",val174.jpg
+" atelectasis,  pneumothorax",val175.jpg
+ pneumothorax,val176.jpg
+ pneumothorax,val177.jpg
+ atelectasis,val178.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val179.jpg
+chest,val180.jpg
+" infection,  pneumothorax",val181.jpg
+" atelectasis,  consolidation",val182.jpg
+ effusion,val183.jpg
+" pneumothorax,  mediastinal hilar contours",val184.jpg
+" atelectasis,  pneumonia,  pneumothorax",val185.jpg
+ effusion,val186.jpg
+" atelectasis,  pneumothorax",val187.jpg
+" effusion,  pneumothorax",val188.jpg
+" pneumothorax,  cardiomegaly",val189.jpg
+" pleural,  pneumothorax",val190.jpg
+ atelectasis,val191.jpg
+ atelectasis,val192.jpg
+ pneumothorax,val193.jpg
+ pneumothorax,val194.jpg
+ thickening,val195.jpg
+ pneumothorax,val196.jpg
+ pneumothorax,val197.jpg
+chest,val198.jpg
+ consolidation,val199.jpg
+" consolidation,  pneumothorax,  sarcoidosis",val200.jpg
+ pneumothorax,val201.jpg
+" hilar mediastinal contours,  pneumothorax",val202.jpg
+ pneumothorax,val203.jpg
+" pneumothorax,  cardiomegaly",val204.jpg
+chest,val205.jpg
+chest,val206.jpg
+" effusion,  pneumothorax",val207.jpg
+" effusion,  pneumothorax",val208.jpg
+ pneumothorax,val209.jpg
+ bibasilar atelectasis,val210.jpg
+" edema,  pneumothorax",val211.jpg
+ pneumothorax,val212.jpg
+ pneumothorax,val213.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val214.jpg
+" pneumonia,  mediastinal hilar contours",val215.jpg
+" hilar mediastinal contours,  pneumothorax",val216.jpg
+" pneumothorax,  fracture",val217.jpg
+chest,val218.jpg
+ pneumonia,val219.jpg
+" pneumothorax,  edema",val220.jpg
+ pneumothorax,val221.jpg
+ pneumothorax,val222.jpg
+ pulmonary metastases,val223.jpg
+" mediastinal hilar contours,  atelectasis,  effusion,  pneumothorax",val224.jpg
+" pneumonia,  pneumothorax,  pulmonary vasculature,  mediastinal hilar contours",val225.jpg
+chest,val226.jpg
+ pneumothorax,val227.jpg
+ pneumonia,val228.jpg
+chest,val229.jpg
+" pneumonia,  effusion,  pneumothorax",val230.jpg
+" pneumothorax,  fracture",val231.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val232.jpg
+chest,val233.jpg
+chest,val234.jpg
+" pneumonia,  effusion,  pneumothorax",val235.jpg
+" atelectasis,  pneumothorax",val236.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val237.jpg
+chest,val238.jpg
+" pneumothorax,  edema",val239.jpg
+ effusion,val240.jpg
+ pneumothorax,val241.jpg
+ effusion,val242.jpg
+" pneumonia,  pneumothorax",val243.jpg
+" consolidation,  pneumothorax",val244.jpg
+" pneumothorax,  effusion,  consolidation",val245.jpg
+" effusion,  pneumothorax",val246.jpg
+" cardiomegaly,  bibasilar atelectasis,  pneumothorax",val247.jpg
+ pneumothorax,val248.jpg
+chest,val249.jpg
+ pneumothorax,val250.jpg
+ pneumothorax,val251.jpg
+chest,val252.jpg
+chest,val253.jpg
+chest,val254.jpg
+" infection,  pneumothorax",val255.jpg
+ pneumothorax,val256.jpg
+" consolidation,  nodules,  pneumothorax",val257.jpg
+" consolidation,  mediastinal hilar contours,  pneumothorax",val258.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val259.jpg
+" consolidation,  effusion,  pneumothorax,  fractures",val260.jpg
+ pneumothorax,val261.jpg
+" consolidation,  pneumonia,  pneumothorax",val262.jpg
+" pneumothorax,  fracture",val263.jpg
+ pneumothorax,val264.jpg
+" pneumothorax,  mediastinal hilar contours",val265.jpg
+ pneumothorax,val266.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val267.jpg
+ mediastinal hilar contours,val268.jpg
+ effusion,val269.jpg
+" hilar mediastinal contours,  pneumothorax,  granuloma",val270.jpg
+" lung,  effusion,  pneumothorax",val271.jpg
+" mediastinal hilar contours,  subsegmental atelectasis,  pneumothorax",val272.jpg
+chest,val273.jpg
+ pneumonia,val274.jpg
+" atelectasis,  infection,  pneumothorax",val275.jpg
+ pneumothorax,val276.jpg
+ pneumothorax,val277.jpg
+ pneumothorax,val278.jpg
+" mediastinal hilar contours,  pneumonia,  pneumothorax",val279.jpg
+chest,val280.jpg
+" pneumothorax,  subsegmental atelectasis",val281.jpg
+" consolidation,  tumor,  pneumothorax",val282.jpg
+" effusion,  pneumothorax",val283.jpg
+" nodules,  infection,  bibasilar atelectasis,  pneumothorax",val284.jpg
+ acute pneumonia,val285.jpg
+" atelectasis,  pneumonia,  pneumothorax",val286.jpg
+ pneumothorax,val287.jpg
+" pneumothorax,  consolidation",val288.jpg
+chest,val289.jpg
+" pneumonia,  pneumothorax,  effusion",val290.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val291.jpg
+chest,val292.jpg
+" pneumonia,  edema,  effusion,  pneumothorax",val293.jpg
+ pneumothorax,val294.jpg
+ pneumothorax,val295.jpg
+chest,val296.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val297.jpg
+ pneumothorax,val298.jpg
+" pneumothorax,  mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val299.jpg
+" consolidation,  lung,  pneumothorax",val300.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val301.jpg
+ pneumothorax,val302.jpg
+" lung,  effusion,  edema",val303.jpg
+ pneumothorax,val304.jpg
+" pneumothorax,  effusion",val305.jpg
+" pneumonia,  pneumothorax",val306.jpg
+" atelectasis pulmonary edema,  pneumothorax",val307.jpg
+ pneumothorax,val308.jpg
+ pneumothorax,val309.jpg
+" hilar mediastinal contours,  pneumothorax",val310.jpg
+" pneumonia,  pneumothorax",val311.jpg
+chest,val312.jpg
+chest,val313.jpg
+ pneumothorax,val314.jpg
+" mediastinal hilar contours,  pneumothorax",val315.jpg
+ lymphadenopathy,val316.jpg
+" mediastinal hilar contours,  subsegmental atelectasis,  pneumothorax",val317.jpg
+ pneumothorax,val318.jpg
+ pneumothorax,val319.jpg
+" pneumonia,  pneumothorax",val320.jpg
+ pneumothorax,val321.jpg
+" mediastinal hilar contours,  pneumothorax",val322.jpg
+" pneumonia,  fracture",val323.jpg
+" bronchovascular atelectasis,  pneumonia,  effusion,  pneumothorax",val324.jpg
+ pneumothorax,val325.jpg
+" vasculature,  edema,  pneumothorax,  pneumonia",val326.jpg
+ consolidation,val327.jpg
+" infection,  pneumothorax",val328.jpg
+chest,val329.jpg
+" mediastinal hilar contours,  pneumothorax",val330.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val331.jpg
+chest,val332.jpg
+chest,val333.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val334.jpg
+" atelectasis,  pneumothorax",val335.jpg
+ pneumothorax,val336.jpg
+" right lung nodules,  pneumothorax",val337.jpg
+" consolidation,  effusion,  edema",val338.jpg
+ pneumothorax,val339.jpg
+ pneumothorax,val340.jpg
+ effusion,val341.jpg
+ consolidation,val342.jpg
+" edema,  pneumothorax",val343.jpg
+" atelectasis,  infection,  pneumothorax",val344.jpg
+" consolidation,  effusion,  pneumothorax",val345.jpg
+" support devices,  consolidation,  pneumonia,  pneumothorax",val346.jpg
+ lobectomy,val347.jpg
+ pneumothorax,val348.jpg
+ pneumothorax,val349.jpg
+ pneumothorax,val350.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val351.jpg
+ pneumothorax,val352.jpg
+chest,val353.jpg
+" pneumonia,  lung nodules",val354.jpg
+" right lung nodules,  pneumothorax",val355.jpg
+" atelectasis,  pneumonia",val356.jpg
+" pneumothorax,  lobar consolidation",val357.jpg
+chest,val358.jpg
+ pneumothorax,val359.jpg
+ pneumothorax,val360.jpg
+ pneumothorax,val361.jpg
+ pneumothorax,val362.jpg
+" mediastinal hilar contours,  widespread pulmonary metastases",val363.jpg
+ effusion,val364.jpg
+ pneumothorax,val365.jpg
+ pneumothorax,val366.jpg
+" pulmonary vasculature,  pneumothorax",val367.jpg
+" edema,  infection",val368.jpg
+ pneumothorax,val369.jpg
+ pneumothorax,val370.jpg
+" bibasilar atelectasis,  evident pneumothorax pulmonary edema",val371.jpg
+ pneumothorax,val372.jpg
+ pneumothorax,val373.jpg
+ pneumothorax,val374.jpg
+chest,val375.jpg
+ pneumothorax,val376.jpg
+ pneumothorax,val377.jpg
+ pneumothorax,val378.jpg
+chest,val379.jpg
+" pneumothorax,  edema",val380.jpg
+ pneumothorax,val381.jpg
+" edema,  atelectasis,  edema,  pneumothorax",val382.jpg
+chest,val383.jpg
+ pneumothorax,val384.jpg
+ pneumothorax,val385.jpg
+" effusion,  pneumothorax",val386.jpg
+" atelectasis,  consolidation",val387.jpg
+" multiple pulmonary nodules,  effusion,  pneumothorax",val388.jpg
+" emphysema,  edema,  pneumothorax",val389.jpg
+" mediastinal hilar contours,  pneumothorax",val390.jpg
+chest,val391.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val392.jpg
+chest,val393.jpg
+ lung,val394.jpg
+" consolidation,  pneumothorax",val395.jpg
+ pneumothorax,val396.jpg
+ pneumonia,val397.jpg
+" bibasilar atelectasis,  pneumothorax",val398.jpg
+ edema,val399.jpg
+" pneumothorax,  fracture",val400.jpg
+chest,val401.jpg
+" lung,  pneumothorax pleural effusion",val402.jpg
+ lesions,val403.jpg
+chest,val404.jpg
+ pneumothorax,val405.jpg
+ pneumothorax,val406.jpg
+" infection,  pneumothorax",val407.jpg
+ effusion,val408.jpg
+chest,val409.jpg
+chest,val410.jpg
+ pneumothorax,val411.jpg
+" pulmonary vasculature,  pneumothorax",val412.jpg
+chest,val413.jpg
+ pneumothorax,val414.jpg
+ intrathoracic neoesophagus,val415.jpg
+" pneumothorax,  emphysema",val416.jpg
+ pneumothorax,val417.jpg
+ pneumothorax,val418.jpg
+" atelectasis,  pneumonia",val419.jpg
+" consolidation,  edema,  pneumothorax",val420.jpg
+" consolidation,  effusion,  pneumothorax",val421.jpg
+" atelectasis,  consolidation",val422.jpg
+" cardiomegaly,  pneumothorax",val423.jpg
+" pneumonia,  pneumothorax",val424.jpg
+" granuloma,  pneumothorax",val425.jpg
+chest,val426.jpg
+ pneumothorax,val427.jpg
+" pneumothorax,  pneumothorax",val428.jpg
+chest,val429.jpg
+ pneumothorax,val430.jpg
+chest,val431.jpg
+ pneumothorax,val432.jpg
+" effusion,  pneumothorax",val433.jpg
+ pneumothorax,val434.jpg
+" lymphadenopathy,  pneumothorax",val435.jpg
+ pneumothorax,val436.jpg
+" cardiomegaly,  consolidation,  consolidation",val437.jpg
+" bibasilar atelectasis,  pneumothorax",val438.jpg
+" infection,  pneumothorax",val439.jpg
+ pneumonia,val440.jpg
+ pneumothorax,val441.jpg
+" pneumonia,  pneumothorax",val442.jpg
+ pneumothorax,val443.jpg
+" consolidation,  atelectasis,  consolidation,  mediastinal hilar contours,  pneumothorax",val444.jpg
+" bronchus,  pneumothorax",val445.jpg
+ pneumothorax,val446.jpg
+" consolidation,  effusion,  edema",val447.jpg
+" pneumonia,  pneumothorax",val448.jpg
+ perihilar pneumonia,val449.jpg
+chest,val450.jpg
+ pneumothorax,val451.jpg
+" mediastinal hilar contours,  pneumothorax",val452.jpg
+" pulmonary vasculature,  pneumothorax",val453.jpg
+" lung,  effusion,  edema",val454.jpg
+chest,val455.jpg
+ atelectasis,val456.jpg
+chest,val457.jpg
+" atelectasis,  pneumonia,  pneumothorax",val458.jpg
+ pneumothorax,val459.jpg
+ diffuse metastatic lung disease,val460.jpg
+" pneumothorax,  fracture",val461.jpg
+chest,val462.jpg
+chest,val463.jpg
+ pneumothorax,val464.jpg
+ pneumothorax,val465.jpg
+" edema,  pneumothorax",val466.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val467.jpg
+ pneumothorax,val468.jpg
+ effusion,val469.jpg
+ pneumothorax,val470.jpg
+chest,val471.jpg
+ pneumothorax,val472.jpg
+" viral infection,  edema,  pneumothorax",val473.jpg
+" infection,  atelectasis,  pneumothorax",val474.jpg
+" pneumonia,  pneumothorax",val475.jpg
+" effusion,  pneumothorax",val476.jpg
+" effusion,  pneumothorax",val477.jpg
+chest,val478.jpg
+chest,val479.jpg
+" consolidation,  tumor,  pneumothorax",val480.jpg
+ atelectasis,val481.jpg
+" effusion,  pneumothorax",val482.jpg
+" pneumothorax,  bibasilar atelectasis",val483.jpg
+" calcifications,  pneumothorax",val484.jpg
+ pneumothorax,val485.jpg
+" normal hilar mediastinal structures,  pneumothorax,  lung nodules",val486.jpg
+ pneumothorax,val487.jpg
+ pneumothorax,val488.jpg
+" pneumothorax,  fracture",val489.jpg
+" mediastinal hilar contours,  pulmonary vasculature",val490.jpg
+ pneumothorax,val491.jpg
+" atelectasis,  pneumothorax,  calcifications",val492.jpg
+ pneumothorax,val493.jpg
+ consolidation,val494.jpg
+chest,val495.jpg
+chest,val496.jpg
+ pneumonia,val497.jpg
+ pneumothorax,val498.jpg
+ pneumothorax,val499.jpg
+ pneumothorax,val500.jpg
+chest,val501.jpg
+chest,val502.jpg
+" effusion,  pneumothorax",val503.jpg
+chest,val504.jpg
+" atelectasis,  pneumothorax,  calcifications",val505.jpg
+ pneumothorax,val506.jpg
+ pneumothorax,val507.jpg
+ pneumothorax,val508.jpg
+" atelectasis,  pneumothorax",val509.jpg
+" pneumothorax,  fracture",val510.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val511.jpg
+ pneumothorax,val512.jpg
+" atelectasis,  atelectasis,  infection",val513.jpg
+" atelectasis,  consolidation,  fracture",val514.jpg
+" atelectasis,  pneumothorax,  effusion",val515.jpg
+ pneumothorax,val516.jpg
+ pneumothorax,val517.jpg
+chest,val518.jpg
+ pneumothorax,val519.jpg
+ mediastinal hilar contours,val520.jpg
+ pneumothorax,val521.jpg
+" mediastinal hilar contours,  atelectasis,  granuloma,  pneumothorax",val522.jpg
+" atelectasis,  pneumothorax",val523.jpg
+chest,val524.jpg
+ pneumothorax,val525.jpg
+chest,val526.jpg
+ support devices,val527.jpg
+ pneumothorax,val528.jpg
+chest,val529.jpg
+" edema,  pulmonary vasculature",val530.jpg
+" pneumothorax,  pneumonia,  pulmonary vasculature",val531.jpg
+" pneumonia,  parenchymal lung disease",val532.jpg
+" lobar consolidation,  pneumothorax",val533.jpg
+ pneumothorax,val534.jpg
+ emphysema,val535.jpg
+" effusion,  pneumothorax",val536.jpg
+chest,val537.jpg
+" pneumothorax,  atelectasis",val538.jpg
+chest,val539.jpg
+ pneumothorax,val540.jpg
+ pneumothorax,val541.jpg
+" consolidation,  pancoast tumor",val542.jpg
+ pneumothorax,val543.jpg
+" pneumonia,  pneumothorax,  granuloma,  previously multiple lung nodules",val544.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val545.jpg
+ lung,val546.jpg
+ pneumothorax,val547.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val548.jpg
+ pneumothorax,val549.jpg
+" consolidation,  effusion",val550.jpg
+" atelectasis,  pneumothorax,  mediastinal hilar contours",val551.jpg
+" atelectasis,  pneumothorax",val552.jpg
+ pneumothorax,val553.jpg
+" atelectasis,  infection,  pneumothorax",val554.jpg
+ cardiomegaly,val555.jpg
+ pneumothorax,val556.jpg
+ pneumothorax,val557.jpg
+" acute pneumonia,  pneumothorax",val558.jpg
+chest,val559.jpg
+" pneumothorax,  fractures",val560.jpg
+chest,val561.jpg
+ pneumothorax,val562.jpg
+ effusion,val563.jpg
+" atelectasis,  pneumothorax",val564.jpg
+chest,val565.jpg
+chest,val566.jpg
+chest,val567.jpg
+" parenchymal disease,  pneumothorax",val568.jpg
+" cardiomegaly,  pulmonary vasculature,  pneumothorax,  acute abnormality intrathoracic malignancy",val569.jpg
+chest,val570.jpg
+chest,val571.jpg
+ pulmonary vasculature,val572.jpg
+" pneumothorax,  atelectasis",val573.jpg
+chest,val574.jpg
+ consolidation,val575.jpg
+" cardiomegaly,  bibasilar atelectasis,  pneumothorax",val576.jpg
+" pulmonary interstitium,  pneumothorax",val577.jpg
+" atelectasis,  pneumothorax",val578.jpg
+ pneumonia,val579.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val580.jpg
+ pneumothorax,val581.jpg
+ pneumothorax,val582.jpg
+ pneumothorax,val583.jpg
+chest,val584.jpg
+" mediastinal hilar contours,  pneumothorax",val585.jpg
+" mediastinal hilar contours,  pneumothorax",val586.jpg
+" mediastinal hilar contours,  atelectasis",val587.jpg
+ effusion,val588.jpg
+" atelectasis,  consolidation,  pneumothorax",val589.jpg
+chest,val590.jpg
+ pneumothorax,val591.jpg
+chest,val592.jpg
+ malignancy,val593.jpg
+" mediastinal hilar contours,  pneumothorax",val594.jpg
+ calcifications,val595.jpg
+" infection,  atelectasis,  pneumothorax",val596.jpg
+" pneumonia,  mediastinal hilar contours,  pneumothorax",val597.jpg
+ pneumothorax,val598.jpg
+ pneumothorax,val599.jpg
+ pneumothorax,val600.jpg
+ pneumothorax,val601.jpg
+chest,val602.jpg
+ pneumothorax,val603.jpg
+ pneumothorax,val604.jpg
+" pneumothorax,  cardiomegaly,  effusion,  atelectasis,  hematoma",val605.jpg
+" mediastinal hilar contours,  widespread pulmonary metastases",val606.jpg
+ mediastinal hilar contours,val607.jpg
+ cardiomegaly,val608.jpg
+chest,val609.jpg
+chest,val610.jpg
+ pneumothorax,val611.jpg
+" effusion,  pneumothorax",val612.jpg
+" effusion,  pneumothorax",val613.jpg
+" vasculature,  atelectasis,  mediastinal",val614.jpg
+" pneumothorax,  pulmonary vasculature hilar structures",val615.jpg
+ pneumothorax,val616.jpg
+" effusion,  pneumothorax",val617.jpg
+" vasculature,  pneumothorax",val618.jpg
+" pneumothorax,  fracture",val619.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val620.jpg
+chest,val621.jpg
+" mediastinal hilar contours,  atelectasis,  pneumothorax",val622.jpg
+" lung,  atelectasis,  infection",val623.jpg
+ atelectasis,val624.jpg
+" pneumothorax,  edema",val625.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val626.jpg
+" pulmonary interstitium,  pneumothorax",val627.jpg
+" pneumonia,  pneumonia,  pneumothorax",val628.jpg
+" mediastinal hilar contours,  pulmonary vasculature",val629.jpg
+chest,val630.jpg
+ pneumothorax,val631.jpg
+ pneumothorax,val632.jpg
+ calcifications,val633.jpg
+ pneumothorax,val634.jpg
+chest,val635.jpg
+" pneumothorax,  infection,  atelectasis,  cardiomegaly",val636.jpg
+chest,val637.jpg
+" mediastinal hilar contours,  pneumothorax",val638.jpg
+chest,val639.jpg
+" consolidation,  mediastinal hilar contours",val640.jpg
+ pneumothorax,val641.jpg
+" atelectasis,  infection,  pneumothorax",val642.jpg
+ edema,val643.jpg
+" infection,  pneumothorax",val644.jpg
+" atelectasis,  pneumonia,  pneumothorax",val645.jpg
+" mediastinal hilar contours,  pneumothorax",val646.jpg
+" nodule,  lymphadenopathy",val647.jpg
+" pneumothorax,  consolidation",val648.jpg
+" mediastinal hilar contours,  pneumothorax,  effusion",val649.jpg
+" effusion,  pneumothorax",val650.jpg
+ pneumothorax lungs,val651.jpg
+" consolidation,  effusion,  edema",val652.jpg
+ pneumothorax,val653.jpg
+" effusion,  pneumothorax",val654.jpg
+" cardiomegaly,  pneumothorax",val655.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val656.jpg
+ pneumothorax,val657.jpg
+" effusion,  consolidation",val658.jpg
+ effusion,val659.jpg
+chest,val660.jpg
+ acute pneumonia,val661.jpg
+" pulmonary vasculature,  pneumothorax",val662.jpg
+" pulmonary vasculature,  pneumonia,  pneumothorax",val663.jpg
+" effusion,  pneumothorax",val664.jpg
+ pneumothorax,val665.jpg
+ pneumothorax,val666.jpg
+chest,val667.jpg
+" calcifications,  pneumothorax",val668.jpg
+chest,val669.jpg
+" bibasilar atelectasis,  pneumothorax",val670.jpg
+chest,val671.jpg
+" consolidation,  pneumonia,  pneumothorax",val672.jpg
+ pneumothorax,val673.jpg
+ pneumothorax,val674.jpg
+" pneumothorax,  consolidation,  edema",val675.jpg
+" pleural effusion pneumothorax,  pneumonia",val676.jpg
+ pneumothorax,val677.jpg
+ pneumonia,val678.jpg
+ pneumothorax,val679.jpg
+ pneumothorax,val680.jpg
+" pulmonary vasculature,  pneumonia",val681.jpg
+" mid lung atelectasis,  pneumothorax",val682.jpg
+chest,val683.jpg
+chest,val684.jpg
+" emphysema,  hilar mediastinal silhouettes",val685.jpg
+chest,val686.jpg
+ calcifications,val687.jpg
+ aneurysm,val688.jpg
+" pneumothorax,  bibasilar atelectasis",val689.jpg
+" lymphadenopathy,  consolidation,  pneumothorax",val690.jpg
+ pneumothorax,val691.jpg
+" atelectasis,  pneumonia,  pneumothorax",val692.jpg
+chest,val693.jpg
+" lung,  cardiomegaly",val694.jpg
+" effusion,  atelectasis,  lymphadenopathy,  consolidation,  consolidation",val695.jpg
+ atelectasis,val696.jpg
+ pneumothorax,val697.jpg
+ pneumothorax,val698.jpg
+ pneumothorax,val699.jpg
+ pneumothorax,val700.jpg
+" pneumonia,  pneumothorax pleural effusion",val701.jpg
+ pneumothorax,val702.jpg
+" consolidation,  pneumothorax,  sarcoidosis",val703.jpg
+ pneumothorax,val704.jpg
+ pneumothorax,val705.jpg
+" mediastinal hilar contours,  pneumonia,  pneumothorax",val706.jpg
+" hilar mediastinal contours,  consolidation,  pneumothorax,  effusion",val707.jpg
+ pneumothorax,val708.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val709.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val710.jpg
+ pneumothorax,val711.jpg
+ support devices,val712.jpg
+" pneumothorax,  consolidation",val713.jpg
+" atelectasis,  pneumonia,  pneumothorax",val714.jpg
+ pneumothorax,val715.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val716.jpg
+" pleural,  pneumothorax",val717.jpg
+ pneumothorax,val718.jpg
+ pneumothorax,val719.jpg
+chest,val720.jpg
+chest,val721.jpg
+ pneumothorax,val722.jpg
+ emphysema,val723.jpg
+chest,val724.jpg
+chest,val725.jpg
+" cardiomegaly,  atelectasis",val726.jpg
+" pneumonia,  edema,  effusion,  pneumothorax",val727.jpg
+ pneumothorax,val728.jpg
+" pneumonia,  pneumothorax",val729.jpg
+chest,val730.jpg
+" effusion,  pneumothorax",val731.jpg
+chest,val732.jpg
+" mediastinal hilar contours,  bilateral hilar lymph,  pulmonary vasculature,  pneumothorax",val733.jpg
+" consolidation,  pneumothorax,  pulmonary edema pleural effusions",val734.jpg
+" mediastinal hilar contours,  atelectasis,  infection,  pneumothorax",val735.jpg
+" mediastinal hilar contours,  pneumothorax",val736.jpg
+ pneumonia,val737.jpg
+" effusion,  consolidation",val738.jpg
+" atelectasis,  consolidation",val739.jpg
+chest,val740.jpg
+" atelectasis,  pneumothorax",val741.jpg
+" pneumothorax,  edema",val742.jpg
+" mediastinal hilar contours,  subsegmental atelectasis,  pneumothorax",val743.jpg
+chest,val744.jpg
+" effusion,  pneumothorax",val745.jpg
+ pneumothorax,val746.jpg
+chest,val747.jpg
+" consolidation,  lung,  pneumothorax",val748.jpg
+" pneumothorax,  granuloma",val749.jpg
+" atelectasis,  vasculature",val750.jpg
+ pneumothorax,val751.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val752.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val753.jpg
+ pneumothorax pleural effusion,val754.jpg
+" effusion,  pneumothorax,  hilar mediastinal silhouettes",val755.jpg
+" pneumothorax,  cardiomegaly,  consolidation",val756.jpg
+" bibasilar atelectasis,  pneumothorax",val757.jpg
+" pneumothorax,  pneumonia,  pulmonary vasculature",val758.jpg
+ pneumothorax,val759.jpg
+ effusion,val760.jpg
+" consolidation,  bronchiectasis,  pneumonia,  pneumonia,  pneumothorax",val761.jpg
+ effusion,val762.jpg
+chest,val763.jpg
+" pulmonary vasculature,  pneumothorax",val764.jpg
+" mediastinal hilar contours,  pneumothorax",val765.jpg
+ pneumothorax,val766.jpg
+" hilar,  effusion,  pneumothorax",val767.jpg
+chest,val768.jpg
+ pneumothorax,val769.jpg
+" pneumonia,  pneumothorax",val770.jpg
+" mediastinal hilar contours,  pneumothorax",val771.jpg
+chest,val772.jpg
+ pneumothorax,val773.jpg
+" pulmonary vasculature,  pneumothorax,  effusion",val774.jpg
+chest,val775.jpg
+" pneumothorax,  consolidation",val776.jpg
+ pneumothorax,val777.jpg
+" effusion,  pneumothorax",val778.jpg
+chest,val779.jpg
+" lobar consolidation,  pneumothorax",val780.jpg
+chest,val781.jpg
+" granuloma,  effusion,  pneumothorax",val782.jpg
+" lung,  pneumothorax",val783.jpg
+chest,val784.jpg
+ pneumothorax,val785.jpg
+" pneumothorax,  effusion",val786.jpg
+chest,val787.jpg
+" atelectasis,  pneumothorax",val788.jpg
+ support devices,val789.jpg
+" bibasilar atelectasis,  effusion,  pneumothorax",val790.jpg
+chest,val791.jpg
+ pneumothorax,val792.jpg
+ pneumothorax,val793.jpg
+" pneumothorax,  consolidation,  chf pleural parenchymal",val794.jpg
+" support devices,  known pneumocystis carinii pneumonia",val795.jpg
+ pneumothorax,val796.jpg
+chest,val797.jpg
+" pulmonary vasculature,  pneumothorax,  bronchiectasis",val798.jpg
+" pneumothorax,  effusion",val799.jpg
+ pneumothorax,val800.jpg
+ effusion,val801.jpg
+" pneumothorax,  pneumonia",val802.jpg
+" pulmonary vasculature,  pneumothorax",val803.jpg
+ pneumothorax,val804.jpg
+ pneumothorax,val805.jpg
+" consolidation,  pneumothorax",val806.jpg
+" pneumonia,  pneumothorax",val807.jpg
+chest,val808.jpg
+" effusion,  pneumothorax",val809.jpg
+" engorged pulmonary vasculature,  cardiomegaly,  atelectasis,  pneumothorax",val810.jpg
+" mediastinal hilar contours,  pneumothorax",val811.jpg
+ pneumothorax,val812.jpg
+ pneumothorax,val813.jpg
+chest,val814.jpg
+" effusion,  atelectasis",val815.jpg
+" atelectasis,  hilar mediastinal contours",val816.jpg
+" engorged pulmonary vasculature,  cardiomegaly,  atelectasis,  pneumothorax",val817.jpg
+chest,val818.jpg
+ lung,val819.jpg
+ pneumothorax,val820.jpg
+ pneumothorax,val821.jpg
+ pneumothorax,val822.jpg
+" effusion,  edema,  pneumothorax",val823.jpg
+" effusion,  consolidation,  pneumothorax",val824.jpg
+ pneumothorax,val825.jpg
+ pneumothorax,val826.jpg
+ pneumothorax,val827.jpg
+" atelectasis,  lung,  mediastinal hilar contours",val828.jpg
+ pneumothorax,val829.jpg
+chest,val830.jpg
+" consolidation,  hilar mediastinal regions,  pneumothorax",val831.jpg
+" edema,  pneumonia",val832.jpg
+" bibasilar retrocardiac atelectasis,  pneumonia,  pneumothorax",val833.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val834.jpg
+chest,val835.jpg
+chest,val836.jpg
+" resection,  pneumonia",val837.jpg
+ vasculature,val838.jpg
+ pneumothorax,val839.jpg
+" bibasilar atelectasis,  calcifications",val840.jpg
+" atelectasis,  infection,  pneumothorax",val841.jpg
+" pneumothorax,  lobar consolidation",val842.jpg
+ pneumothorax,val843.jpg
+ pneumothorax,val844.jpg
+chest,val845.jpg
+ pneumothorax pleural effusion,val846.jpg
+" edema,  atelectasis,  pneumothorax",val847.jpg
+chest,val848.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val849.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val850.jpg
+" consolidation,  nodules",val851.jpg
+" mediastinal hilar contours,  pneumothorax",val852.jpg
+chest,val853.jpg
+" lesions,  lung,  pneumothorax",val854.jpg
+ edema,val855.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val856.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val857.jpg
+" mediastinal hilar contours,  pneumothorax",val858.jpg
+chest,val859.jpg
+" pneumothorax,  pleural",val860.jpg
+ support devices,val861.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val862.jpg
+ pneumothorax,val863.jpg
+" pneumothorax,  fracture",val864.jpg
+ lung,val865.jpg
+" effusion,  pneumothorax",val866.jpg
+ mediastinal hilar contours,val867.jpg
+" consolidation,  effusion,  pneumothorax",val868.jpg
+chest,val869.jpg
+ pneumothorax,val870.jpg
+ emphysema,val871.jpg
+chest,val872.jpg
+ pneumothorax,val873.jpg
+" mediastinal hilar contours,  pneumothorax",val874.jpg
+" effusion,  pneumothorax",val875.jpg
+" mediastinal hilar contours,  atelectasis,  pneumothorax",val876.jpg
+chest,val877.jpg
+chest,val878.jpg
+" pulmonary vasculature,  acute pulmonary parenchymal infiltrates,  pneumothorax",val879.jpg
+ pneumothorax,val880.jpg
+" pneumothorax,  cardiomegaly",val881.jpg
+ pulmonary metastases,val882.jpg
+" effusion,  pneumonia",val883.jpg
+ pneumothorax,val884.jpg
+ pneumothorax,val885.jpg
+ pneumothorax,val886.jpg
+chest,val887.jpg
+ pneumothorax,val888.jpg
+" mid lung atelectasis,  pneumothorax",val889.jpg
+" atelectasis,  consolidation,  pneumothorax",val890.jpg
+ pneumothorax,val891.jpg
+ pneumothorax,val892.jpg
+" mediastinal hilar contours,  pneumothorax",val893.jpg
+" pulmonary opacity,  pneumothorax",val894.jpg
+chest,val895.jpg
+" vasculature,  atelectasis,  mediastinal",val896.jpg
+ pneumothorax,val897.jpg
+ pneumothorax,val898.jpg
+ pneumothorax,val899.jpg
+ pneumothorax,val900.jpg
+chest,val901.jpg
+ pneumothorax,val902.jpg
+ pneumothorax,val903.jpg
+" pneumonia,  fracture",val904.jpg
+" effusion,  pneumothorax",val905.jpg
+" fractures,  pneumothorax",val906.jpg
+chest,val907.jpg
+ pneumothorax,val908.jpg
+" pulmonary vasculature,  pneumothorax,  pulmonary vasculature,  acute pulmonary parenchymal infiltrates",val909.jpg
+ chronic atelectasis,val910.jpg
+ pneumothorax,val911.jpg
+ pneumothorax,val912.jpg
+" pulmonary vasculature,  pneumothorax,  bronchiectasis",val913.jpg
+chest,val914.jpg
+" pneumothorax,  edema",val915.jpg
+ pneumothorax,val916.jpg
+ pneumothorax,val917.jpg
+ pneumothorax,val918.jpg
+chest,val919.jpg
+" mediastinal hilar contours,  granuloma,  pneumothorax",val920.jpg
+" atelectasis,  pneumothorax",val921.jpg
+ pneumothorax,val922.jpg
+chest,val923.jpg
+ pneumothorax,val924.jpg
+chest,val925.jpg
+ pneumothorax,val926.jpg
+" effusion,  pneumothorax",val927.jpg
+" effusion,  pneumothorax",val928.jpg
+ pneumothorax,val929.jpg
+ pneumothorax,val930.jpg
+ pneumothorax,val931.jpg
+ cardiomegaly,val932.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val933.jpg
+" pneumonia,  pulmonary vasculature",val934.jpg
+" pneumonia,  parenchymal lung disease",val935.jpg
+chest,val936.jpg
+" pulmonary vasculature,  acute pulmonary parenchymal infiltrates,  pneumothorax",val937.jpg
+" airway,  pneumothorax",val938.jpg
+" atelectasis,  pneumothorax",val939.jpg
+" mediastinal hilar contours,  pneumothorax",val940.jpg
+chest,val941.jpg
+" pneumonia,  pneumothorax",val942.jpg
+ pneumothorax,val943.jpg
+" effusion,  pneumothorax",val944.jpg
+ atelectasis,val945.jpg
+ pneumothorax,val946.jpg
+" pneumonia,  pneumonia,  effusion",val947.jpg
+" pneumonia,  pneumothorax",val948.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val949.jpg
+chest,val950.jpg
+ pneumothorax,val951.jpg
+ pneumothorax,val952.jpg
+ pneumothorax,val953.jpg
+" fracture,  pulmonary vasculature,  pneumothorax",val954.jpg
+" atelectasis,  pneumothorax,  mediastinal hilar contours",val955.jpg
+chest,val956.jpg
+" support devices,  atelectasis",val957.jpg
+" infection,  atelectasis,  pneumothorax",val958.jpg
+ atelectasis,val959.jpg
+" mediastinal hilar contours,  pneumothorax",val960.jpg
+ pneumothorax,val961.jpg
+chest,val962.jpg
+" hilar,  effusion,  pneumothorax",val963.jpg
+ pneumothorax,val964.jpg
+ pneumothorax pulmonary edema,val965.jpg
+" pulmonary vasculature,  pneumothorax",val966.jpg
+ pneumothorax,val967.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val968.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val969.jpg
+ pneumothorax,val970.jpg
+ atelectasis,val971.jpg
+" effusion,  edema",val972.jpg
+ lower lung opacity,val973.jpg
+" atelectasis,  pneumothorax",val974.jpg
+ pneumothorax,val975.jpg
+ pneumothorax,val976.jpg
+" effusion,  pneumothorax",val977.jpg
+chest,val978.jpg
+chest,val979.jpg
+" effusion,  pneumothorax",val980.jpg
+" mediastinal hilar contours,  pneumothorax",val981.jpg
+" acute pneumonia,  pneumothorax",val982.jpg
+" pulmonary interstitium,  pneumothorax",val983.jpg
+" pneumothorax,  lobar consolidation",val984.jpg
+" effusion,  pneumothorax",val985.jpg
+" mediastinal hilar contours,  atelectasis",val986.jpg
+ pneumothorax,val987.jpg
+ pneumothorax,val988.jpg
+ pneumothorax,val989.jpg
+" pneumonia,  mediastinal hilar contours",val990.jpg
+" pneumonia,  pneumothorax",val991.jpg
+ effusion,val992.jpg
+" bronchovascular atelectasis,  pneumonia,  effusion,  pneumothorax",val993.jpg
+" atelectasis,  infection,  pneumothorax",val994.jpg
+ effusion,val995.jpg
+" atelectasis,  consolidation",val996.jpg
+" atelectasis,  consolidation,  pneumothorax",val997.jpg
+" atelectasis,  lung,  mediastinal hilar contours",val998.jpg
+" infection,  pneumothorax",val999.jpg
+ pneumothorax,val1000.jpg
+ retrocardiac atelectasis,val1001.jpg
+ pneumothorax,val1002.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1003.jpg
+chest,val1004.jpg
+ fracture,val1005.jpg
+" consolidation,  effusion",val1006.jpg
+chest,val1007.jpg
+ pneumothorax pleural effusion,val1008.jpg
+" consolidation,  pneumonia,  retrocardiac atelectasis,  pneumothorax",val1009.jpg
+" atelectasis,  consolidation",val1010.jpg
+" pulmonary vasculature,  thickening,  atelectasis,  pneumothorax",val1011.jpg
+ pneumothorax,val1012.jpg
+ pneumothorax,val1013.jpg
+" consolidation,  pneumothorax,  pulmonary edema pleural effusions",val1014.jpg
+" nodules,  metastatic disease,  pneumothorax",val1015.jpg
+chest,val1016.jpg
+" pneumothorax,  cardiomegaly,  consolidation",val1017.jpg
+ pneumothorax,val1018.jpg
+ pneumothorax,val1019.jpg
+" mediastinal hilar contours,  bilateral hilar lymph,  pulmonary vasculature,  pneumothorax",val1020.jpg
+ pneumothorax,val1021.jpg
+" pneumonia,  lung",val1022.jpg
+chest,val1023.jpg
+ pneumothorax,val1024.jpg
+ pneumothorax,val1025.jpg
+ pneumothorax,val1026.jpg
+" pneumonia,  pneumothorax",val1027.jpg
+" pneumonia,  pneumothorax",val1028.jpg
+" mediastinal hilar contours,  pneumothorax",val1029.jpg
+ pneumothorax,val1030.jpg
+" effusion,  pneumothorax",val1031.jpg
+chest,val1032.jpg
+chest,val1033.jpg
+" infection,  pneumothorax",val1034.jpg
+" effusion,  pneumothorax",val1035.jpg
+" pneumonia,  pneumothorax",val1036.jpg
+" subsegmental atelectasis,  pneumothorax",val1037.jpg
+" effusion,  pneumothorax",val1038.jpg
+chest,val1039.jpg
+" mediastinal hilar contours,  pneumothorax",val1040.jpg
+ pneumothorax,val1041.jpg
+chest,val1042.jpg
+chest,val1043.jpg
+" edema,  atelectasis,  subsegmental atelectasis",val1044.jpg
+ pneumothorax,val1045.jpg
+" mediastinal hilar contours,  pneumothorax,  granuloma",val1046.jpg
+" pulmonary edeam,  pneumothorax",val1047.jpg
+" consolidation,  hilar mediastinal regions,  pneumothorax",val1048.jpg
+ pneumothorax,val1049.jpg
+ pneumothorax,val1050.jpg
+" mediastinal hilar contours,  pneumothorax",val1051.jpg
+ pneumothorax,val1052.jpg
+ pneumothorax,val1053.jpg
+" pneumonia,  hilar mediastinal abnormalities",val1054.jpg
+" pneumothorax,  pulmonary vasculature hilar structures",val1055.jpg
+" edema,  atelectasis,  edema,  pneumothorax",val1056.jpg
+" pulmonary vasculature,  pneumothorax",val1057.jpg
+ pneumothorax,val1058.jpg
+" atelectasis,  pneumonia,  pneumothorax",val1059.jpg
+" atelectasis,  consolidation",val1060.jpg
+" pneumothorax,  fracture",val1061.jpg
+" pulmonary opacity,  pneumothorax",val1062.jpg
+ pneumothorax pleural effusion,val1063.jpg
+ pneumothorax,val1064.jpg
+ suspicious pulmonary nodules,val1065.jpg
+" infection,  pneumothorax",val1066.jpg
+" cardiomegaly,  pneumonia",val1067.jpg
+chest,val1068.jpg
+ effusion,val1069.jpg
+chest,val1070.jpg
+" pneumothorax,  lung",val1071.jpg
+" effusion,  pneumothorax",val1072.jpg
+ pneumothorax,val1073.jpg
+" mediastinal hilar contours,  adenocarcinoma,  pneumothorax",val1074.jpg
+chest,val1075.jpg
+chest,val1076.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1077.jpg
+" consolidation,  lung,  pneumothorax",val1078.jpg
+chest,val1079.jpg
+ pneumothorax,val1080.jpg
+" effusion,  pneumonia",val1081.jpg
+ pneumothorax,val1082.jpg
+" pneumothorax,  fracture",val1083.jpg
+" cardiomegaly,  consolidation,  consolidation",val1084.jpg
+" hilar mediastinal contours,  pneumothorax,  granuloma",val1085.jpg
+ pneumothorax,val1086.jpg
+ pneumothorax,val1087.jpg
+chest,val1088.jpg
+chest,val1089.jpg
+ pneumothorax,val1090.jpg
+" pneumonia,  pneumothorax",val1091.jpg
+ pneumothorax,val1092.jpg
+" pneumothorax,  pneumonia",val1093.jpg
+ pneumothorax,val1094.jpg
+" pneumothorax,  effusion,  consolidation",val1095.jpg
+ pneumothorax,val1096.jpg
+chest,val1097.jpg
+ pneumothorax,val1098.jpg
+" atelectasis,  pneumonia,  pneumothorax",val1099.jpg
+" pneumothorax,  effusion",val1100.jpg
+" pneumothorax,  cardiomegaly",val1101.jpg
+chest,val1102.jpg
+" atelectasis,  acute pneumonia",val1103.jpg
+ pneumothorax,val1104.jpg
+" effusion,  pneumothorax",val1105.jpg
+" emphysema,  pneumonia",val1106.jpg
+chest,val1107.jpg
+" nodule,  lymphadenopathy",val1108.jpg
+ pneumothorax,val1109.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1110.jpg
+ pneumonia,val1111.jpg
+ pneumothorax pleural effusion,val1112.jpg
+" effusion,  pneumonia,  pneumonia,  pneumothorax",val1113.jpg
+chest,val1114.jpg
+ effusion,val1115.jpg
+" pulmonary vasculature,  mediastinal hilar contours",val1116.jpg
+chest,val1117.jpg
+ pneumothorax,val1118.jpg
+chest,val1119.jpg
+ pneumothorax,val1120.jpg
+" lower lung opacity,  pneumonia,  pneumothorax",val1121.jpg
+" pneumothorax,  edema",val1122.jpg
+chest,val1123.jpg
+ pneumothorax pleural effusion,val1124.jpg
+ pneumothorax,val1125.jpg
+ pneumothorax,val1126.jpg
+chest,val1127.jpg
+ pneumothorax,val1128.jpg
+ pulmonary vasculature,val1129.jpg
+" pneumothorax,  consolidation",val1130.jpg
+ pneumothorax,val1131.jpg
+" lobar consolidation,  pneumothorax",val1132.jpg
+ pneumothorax,val1133.jpg
+" pneumothorax,  atelectasis",val1134.jpg
+chest,val1135.jpg
+chest,val1136.jpg
+ pneumothorax,val1137.jpg
+ consolidation,val1138.jpg
+" mediastinal hilar contours,  granuloma,  pneumothorax",val1139.jpg
+ pneumothorax,val1140.jpg
+" tumor,  consolidation,  effusion,  pneumothorax",val1141.jpg
+" atelectasis,  lung,  mediastinal hilar contours",val1142.jpg
+ pneumothorax,val1143.jpg
+" pneumothorax,  fracture",val1144.jpg
+" atelectasis pulmonary edema,  pneumothorax",val1145.jpg
+chest,val1146.jpg
+ pneumothorax,val1147.jpg
+" mediastinal hilar contours,  pneumothorax",val1148.jpg
+chest,val1149.jpg
+" cardiomegaly,  pneumothorax",val1150.jpg
+" effusion,  atelectasis,  lymphadenopathy,  consolidation,  consolidation",val1151.jpg
+chest,val1152.jpg
+ pneumothorax,val1153.jpg
+ pneumothorax,val1154.jpg
+" pneumonia,  pneumothorax",val1155.jpg
+" pneumothorax,  fracture",val1156.jpg
+" atelectasis,  pneumothorax pleural effusion",val1157.jpg
+chest,val1158.jpg
+ mediastinal hilar contours,val1159.jpg
+ effusion,val1160.jpg
+chest,val1161.jpg
+" consolidation,  effusion,  pneumothorax,  fractures",val1162.jpg
+ atelectasis,val1163.jpg
+chest,val1164.jpg
+chest,val1165.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1166.jpg
+ pneumothorax,val1167.jpg
+ pneumonia,val1168.jpg
+chest,val1169.jpg
+ pneumothorax,val1170.jpg
+ pneumothorax,val1171.jpg
+chest,val1172.jpg
+" mediastinal hilar contours,  pneumothorax",val1173.jpg
+ pneumothorax,val1174.jpg
+" pulmonary vasculature,  mediastinal hilar contours",val1175.jpg
+ pneumothorax,val1176.jpg
+" infection,  pneumothorax",val1177.jpg
+chest,val1178.jpg
+" mediastinal hilar contours,  pneumothorax",val1179.jpg
+ pneumothorax,val1180.jpg
+ pneumonia,val1181.jpg
+" pneumonia,  pneumothorax pleural effusion",val1182.jpg
+ pneumothorax,val1183.jpg
+ pneumothorax,val1184.jpg
+chest,val1185.jpg
+ parapneumonic effusion,val1186.jpg
+ pneumothorax,val1187.jpg
+" pulmonary nodules,  effusion,  pneumonia,  edema",val1188.jpg
+chest,val1189.jpg
+ pneumothorax,val1190.jpg
+ pneumothorax,val1191.jpg
+chest,val1192.jpg
+ effusion,val1193.jpg
+ cardiomegaly,val1194.jpg
+" pleural effusion pneumothorax,  pneumonia",val1195.jpg
+" mediastinal hilar contours,  pneumothorax",val1196.jpg
+" emphysema,  pneumonia,  pneumothorax pulmonary edema",val1197.jpg
+" atelectasis,  pneumonia,  pneumothorax",val1198.jpg
+" effusion,  pneumothorax",val1199.jpg
+" consolidation,  effusion",val1200.jpg
+ pneumothorax,val1201.jpg
+" mediastinal hilar contours,  pneumothorax",val1202.jpg
+chest,val1203.jpg
+" effusion,  pneumothorax",val1204.jpg
+" atelectasis,  pneumothorax",val1205.jpg
+ pneumothorax,val1206.jpg
+chest,val1207.jpg
+ pneumothorax,val1208.jpg
+" vasculature,  pneumothorax",val1209.jpg
+" bibasilar atelectasis,  pneumothorax",val1210.jpg
+" pneumothorax,  edema",val1211.jpg
+ effusion,val1212.jpg
+" pneumonia,  pneumothorax",val1213.jpg
+ pneumothorax,val1214.jpg
+ pneumothorax,val1215.jpg
+chest,val1216.jpg
+ pneumothorax,val1217.jpg
+ pneumothorax,val1218.jpg
+" effusion,  pneumonia",val1219.jpg
+chest,val1220.jpg
+ pneumothorax,val1221.jpg
+" effusion,  pneumothorax",val1222.jpg
+chest,val1223.jpg
+" pneumonia,  cavitary lesion,  pneumothorax",val1224.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val1225.jpg
+" edema,  pneumonia",val1226.jpg
+ pneumothorax,val1227.jpg
+" atelectasis,  consolidation",val1228.jpg
+" pneumonia,  hilar",val1229.jpg
+" pneumothorax,  pneumonia",val1230.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1231.jpg
+" infection,  pneumothorax",val1232.jpg
+chest,val1233.jpg
+" mediastinal hilar contours,  atelectasis,  pneumothorax",val1234.jpg
+" fracture,  pulmonary vasculature,  pneumothorax",val1235.jpg
+chest,val1236.jpg
+" consolidation,  bronchiectasis,  pneumonia,  pneumonia,  pneumothorax",val1237.jpg
+ granuloma,val1238.jpg
+ pneumothorax,val1239.jpg
+ pneumothorax,val1240.jpg
+" atelectasis,  consolidation,  fracture",val1241.jpg
+" atelectasis,  pneumothorax",val1242.jpg
+ effusion,val1243.jpg
+" pulmonary vasculature,  mediastinal hilar contours",val1244.jpg
+ pneumothorax,val1245.jpg
+" mediastinal hilar contours,  pneumothorax",val1246.jpg
+chest,val1247.jpg
+chest,val1248.jpg
+" mediastinal hilar contours,  pneumothorax",val1249.jpg
+" consolidation,  effusion",val1250.jpg
+" pneumothorax,  edema",val1251.jpg
+" pneumonia,  edema,  pneumothorax",val1252.jpg
+" pleural parenchymal calcifications,  pneumothorax",val1253.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1254.jpg
+ pneumothorax,val1255.jpg
+ pneumothorax,val1256.jpg
+ pneumothorax,val1257.jpg
+" lung,  effusion,  edema",val1258.jpg
+ pneumothorax,val1259.jpg
+ pneumothorax,val1260.jpg
+ pneumothorax,val1261.jpg
+ effusion,val1262.jpg
+chest,val1263.jpg
+" pneumothorax,  mediastinal lipomatosis",val1264.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1265.jpg
+" pulmonary edeam,  pneumothorax",val1266.jpg
+ pneumothorax,val1267.jpg
+chest,val1268.jpg
+ pneumothorax,val1269.jpg
+" pneumonia,  mediastinal hilar contours,  pneumothorax",val1270.jpg
+ pneumothorax,val1271.jpg
+chest,val1272.jpg
+chest,val1273.jpg
+chest,val1274.jpg
+chest,val1275.jpg
+" bibasilar atelectasis,  calcifications",val1276.jpg
+ pneumothorax,val1277.jpg
+ pneumothorax,val1278.jpg
+" viral infection,  edema,  pneumothorax",val1279.jpg
+ pneumothorax,val1280.jpg
+" pneumothorax,  pneumothorax",val1281.jpg
+chest,val1282.jpg
+" tumor,  consolidation,  effusion,  pneumothorax",val1283.jpg
+ effusion,val1284.jpg
+ pneumothorax,val1285.jpg
+" pneumonia,  aorta hilar vasculature,  consolidation",val1286.jpg
+" granuloma,  effusion,  pneumothorax",val1287.jpg
+" pneumothorax,  pulmonary vasculature",val1288.jpg
+" pneumothorax,  edema",val1289.jpg
+ pneumothorax,val1290.jpg
+ pneumothorax,val1291.jpg
+ pneumothorax,val1292.jpg
+ pneumothorax,val1293.jpg
+chest,val1294.jpg
+" central pulmonary vasculature,  pulmonary pulmonary arteries,  atelectasis,  consolidation,  pneumothorax",val1295.jpg
+ mediastinal hilar contours,val1296.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val1297.jpg
+" pneumothorax,  atelectasis",val1298.jpg
+chest,val1299.jpg
+ pneumothorax,val1300.jpg
+chest,val1301.jpg
+chest,val1302.jpg
+ pneumothorax,val1303.jpg
+" mediastinal hilar contours,  atelectasis",val1304.jpg
+ pneumonia,val1305.jpg
+" atelectasis,  acute pneumonia",val1306.jpg
+" pulmonary vasculature,  pneumothorax,  bronchiectasis",val1307.jpg
+ pneumothorax,val1308.jpg
+ pneumonia,val1309.jpg
+ pneumothorax,val1310.jpg
+" pneumonia,  atelectasis,  pneumonia,  pneumothorax",val1311.jpg
+ pneumothorax,val1312.jpg
+chest,val1313.jpg
+" pneumothorax,  atelectasis",val1314.jpg
+chest,val1315.jpg
+ pneumothorax,val1316.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1317.jpg
+ pneumothorax,val1318.jpg
+" platelike atelectasis,  pneumothorax",val1319.jpg
+chest,val1320.jpg
+chest,val1321.jpg
+ pneumothorax,val1322.jpg
+ pneumothorax,val1323.jpg
+ pneumonia,val1324.jpg
+" consolidation,  pneumonia",val1325.jpg
+" mediastinal hilar contours,  pneumothorax",val1326.jpg
+ pneumothorax,val1327.jpg
+" effusion,  pneumothorax",val1328.jpg
+" mediastinal hilar contours,  pneumothorax",val1329.jpg
+" pulmonary vasculature,  thickening,  atelectasis,  pneumothorax",val1330.jpg
+" effusion,  consolidation,  pneumothorax",val1331.jpg
+" resection,  pneumonia",val1332.jpg
+" pulmonary vasculature,  carcinoma,  consolidation,  pneumonia,  edema,  pneumothorax",val1333.jpg
+ pneumothorax,val1334.jpg
+ pneumothorax,val1335.jpg
+chest,val1336.jpg
+" hilar mediastinal contours,  pneumothorax,  granuloma",val1337.jpg
+" effusion,  pneumothorax",val1338.jpg
+" pneumothorax,  granuloma",val1339.jpg
+" pneumonia,  pneumothorax,  pulmonary vasculature,  mediastinal hilar contours",val1340.jpg
+chest,val1341.jpg
+" pneumothorax,  pneumonia,  edema",val1342.jpg
+chest,val1343.jpg
+" hilar,  lesions,  pneumothorax",val1344.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1345.jpg
+" pneumonia,  pneumothorax",val1346.jpg
+chest,val1347.jpg
+ neoplasm,val1348.jpg
+" pneumonia,  pneumothorax,  effusion",val1349.jpg
+ pneumothorax,val1350.jpg
+ pneumonia,val1351.jpg
+ lung,val1352.jpg
+ pneumothorax,val1353.jpg
+chest,val1354.jpg
+" pulmonary nodules,  effusion,  pneumonia,  edema",val1355.jpg
+chest,val1356.jpg
+" pneumothorax,  effusion",val1357.jpg
+ pneumothorax,val1358.jpg
+chest,val1359.jpg
+ pneumothorax,val1360.jpg
+ pneumothorax,val1361.jpg
+" effusion,  pneumothorax",val1362.jpg
+" pneumonia,  pneumothorax",val1363.jpg
+" effusion,  pneumothorax",val1364.jpg
+ cardiomegaly,val1365.jpg
+ pneumothorax,val1366.jpg
+" pneumothorax,  mediastinal hilar contours",val1367.jpg
+" pulmonary opacifications,  support devices",val1368.jpg
+" mediastinal hilar contours,  pneumothorax",val1369.jpg
+ consolidation,val1370.jpg
+" effusion,  edema",val1371.jpg
+ pneumothorax,val1372.jpg
+chest,val1373.jpg
+" pneumothorax,  pneumonia",val1374.jpg
+chest,val1375.jpg
+ pneumothorax,val1376.jpg
+ pneumothorax,val1377.jpg
+ pneumothorax,val1378.jpg
+chest,val1379.jpg
+ pneumothorax,val1380.jpg
+" pneumonia,  pneumonia,  effusion",val1381.jpg
+ edema,val1382.jpg
+ pneumothorax,val1383.jpg
+ pneumothorax,val1384.jpg
+ pneumonia,val1385.jpg
+chest,val1386.jpg
+" pneumothorax,  pulmonary vasculature",val1387.jpg
+ pneumonia,val1388.jpg
+chest,val1389.jpg
+chest,val1390.jpg
+" atelectasis,  pneumothorax",val1391.jpg
+ chronic pulmonary,val1392.jpg
+" pneumothorax,  effusion,  consolidation",val1393.jpg
+ fracture,val1394.jpg
+" extensive intrathoracic calcifications,  pneumothorax",val1395.jpg
+ pneumothorax,val1396.jpg
+ pneumothorax,val1397.jpg
+chest,val1398.jpg
+ pneumothorax,val1399.jpg
+" effusion,  pneumothorax",val1400.jpg
+chest,val1401.jpg
+chest,val1402.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1403.jpg
+chest,val1404.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1405.jpg
+chest,val1406.jpg
+ pneumothorax,val1407.jpg
+" pneumothorax,  mediastinal hilar structures",val1408.jpg
+" pneumothorax,  tuberculosis",val1409.jpg
+" effusion,  pneumothorax",val1410.jpg
+" pneumothorax,  fracture",val1411.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1412.jpg
+chest,val1413.jpg
+ pneumothorax,val1414.jpg
+ pneumothorax,val1415.jpg
+" cardiomegaly,  pneumothorax,  pneumonia",val1416.jpg
+ atelectasis,val1417.jpg
+chest,val1418.jpg
+ pneumothorax,val1419.jpg
+" consolidation,  pneumothorax",val1420.jpg
+chest,val1421.jpg
+chest,val1422.jpg
+chest,val1423.jpg
+ effusion,val1424.jpg
+" pneumonia,  aorta hilar vasculature,  consolidation",val1425.jpg
+ pneumothorax,val1426.jpg
+ pneumothorax,val1427.jpg
+" pneumothorax,  mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1428.jpg
+" lymphadenopathy,  pneumothorax",val1429.jpg
+chest,val1430.jpg
+" atelectasis,  pneumothorax,  mediastinal hilar contours",val1431.jpg
+" bibasilar atelectasis,  evident pneumothorax pulmonary edema",val1432.jpg
+ pneumothorax,val1433.jpg
+chest,val1434.jpg
+" atelectasis,  pneumothorax",val1435.jpg
+" hilar mediastinal contours,  pneumonia,  pneumothorax",val1436.jpg
+" atelectasis,  pneumothorax",val1437.jpg
+ pneumothorax,val1438.jpg
+" pneumonia,  pneumothorax",val1439.jpg
+ atelectasis,val1440.jpg
+ pneumothorax,val1441.jpg
+" lung,  effusion,  pneumothorax",val1442.jpg
+" pneumothorax,  fracture",val1443.jpg
+ neoplasm,val1444.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1445.jpg
+ pneumothorax,val1446.jpg
+" mediastinal , pleural pulmonary structures,  pneumothorax,  calcifications",val1447.jpg
+" pneumonia,  pneumothorax",val1448.jpg
+chest,val1449.jpg
+" pneumothorax,  edema",val1450.jpg
+chest,val1451.jpg
+" pneumonia,  pneumothorax",val1452.jpg
+chest,val1453.jpg
+" pneumothorax,  fracture",val1454.jpg
+chest,val1455.jpg
+ pneumothorax,val1456.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1457.jpg
+chest,val1458.jpg
+" pulmonary vasculature,  pneumothorax,  bronchiectasis",val1459.jpg
+ pneumothorax,val1460.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1461.jpg
+ pneumothorax,val1462.jpg
+" pneumothorax,  pneumothorax",val1463.jpg
+ emphysema,val1464.jpg
+" consolidation,  effusion,  pneumothorax",val1465.jpg
+ pneumonia,val1466.jpg
+ consolidation,val1467.jpg
+" granuloma,  pneumothorax",val1468.jpg
+ effusion,val1469.jpg
+ pneumothorax,val1470.jpg
+" pneumothorax,  pneumonia,  pulmonary vasculature",val1471.jpg
+ pneumothorax,val1472.jpg
+ pneumothorax,val1473.jpg
+" mediastinal hilar contours,  pulmonary vasculature",val1474.jpg
+ pneumothorax,val1475.jpg
+" pneumothorax,  edema",val1476.jpg
+" effusion,  pneumothorax",val1477.jpg
+" edema,  pneumothorax",val1478.jpg
+ pneumothorax,val1479.jpg
+" lymphadenopathy,  pneumothorax",val1480.jpg
+chest,val1481.jpg
+" atelectasis,  pneumonia,  edema,  pneumothorax",val1482.jpg
+ pneumothorax,val1483.jpg
+ pneumothorax,val1484.jpg
+" atelectasis,  pneumothorax",val1485.jpg
+ consolidation,val1486.jpg
+ pneumothorax,val1487.jpg
+chest,val1488.jpg
+" infection,  aneurysm",val1489.jpg
+chest,val1490.jpg
+chest,val1491.jpg
+ pneumothorax,val1492.jpg
+" mediastinal hilar contours,  pneumothorax",val1493.jpg
+" atelectasis,  pneumothorax pulmonary edema",val1494.jpg
+ pneumothorax,val1495.jpg
+ pneumothorax,val1496.jpg
+" mediastinal hilar contours,  pneumothorax",val1497.jpg
+ pneumothorax,val1498.jpg
+ lobectomy,val1499.jpg
+" mediastinal hilar contours,  calcifications,  pneumothorax",val1500.jpg
+ pneumothorax,val1501.jpg
+" pneumothorax,  fracture",val1502.jpg
+ pneumothorax,val1503.jpg
+ pneumothorax,val1504.jpg
+ mediastinal hilar contours,val1505.jpg
+" consolidation,  pneumothorax,  pulmonary edema pleural effusions",val1506.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1507.jpg
+" pulmonary vasculature,  pneumothorax",val1508.jpg
+chest,val1509.jpg
+ pneumothorax,val1510.jpg
+" mediastinal hilar contours,  atelectasis,  pneumothorax",val1511.jpg
+ pneumothorax,val1512.jpg
+" effusion,  pneumothorax",val1513.jpg
+ bibasilar atelectasis,val1514.jpg
+ mediastinal hilar contours,val1515.jpg
+chest,val1516.jpg
+ abscesses,val1517.jpg
+" pneumothorax,  granuloma",val1518.jpg
+ pneumothorax,val1519.jpg
+ pneumothorax,val1520.jpg
+ pneumothorax,val1521.jpg
+chest,val1522.jpg
+" lung,  pneumonia,  pneumothorax",val1523.jpg
+ pneumothorax,val1524.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1525.jpg
+" pneumothorax,  hilar mediastinal contours",val1526.jpg
+ lesions,val1527.jpg
+ pneumothorax,val1528.jpg
+" pulmonary vasculature,  carcinoma,  consolidation,  pneumonia,  edema,  pneumothorax",val1529.jpg
+ pneumothorax,val1530.jpg
+" pneumothorax,  edema",val1531.jpg
+ pneumothorax,val1532.jpg
+" pneumothorax,  edema",val1533.jpg
+" pneumothorax,  fractures",val1534.jpg
+ pneumonia,val1535.jpg
+ pneumothorax,val1536.jpg
+" pneumonia,  pneumothorax",val1537.jpg
+ pneumothorax,val1538.jpg
+chest,val1539.jpg
+ pneumothorax,val1540.jpg
+ pneumothorax,val1541.jpg
+ pneumonia,val1542.jpg
+" mediastinal hilar contours,  atelectasis,  infection,  pneumothorax",val1543.jpg
+" effusion,  bilateral pulmonary nodules",val1544.jpg
+" vasculature,  pneumothorax",val1545.jpg
+ mediastinal hilar contours,val1546.jpg
+ pneumothorax,val1547.jpg
+" pneumothorax,  pulmonary vasculature",val1548.jpg
+ pneumothorax,val1549.jpg
+ pneumothorax,val1550.jpg
+" emphysema,  hilar mediastinal silhouettes",val1551.jpg
+ pneumothorax,val1552.jpg
+ consolidation,val1553.jpg
+" left lung atelectasis,  consolidation",val1554.jpg
+" pneumothorax,  edema",val1555.jpg
+" hilar,  lesions,  pneumothorax",val1556.jpg
+ pneumothorax,val1557.jpg
+" effusion,  pneumothorax",val1558.jpg
+" hilar mediastinal contours,  pneumothorax",val1559.jpg
+ pneumothorax,val1560.jpg
+ pneumothorax,val1561.jpg
+" atelectasis,  pneumonia",val1562.jpg
+" mediastinal hilar contours,  adenocarcinoma,  pneumothorax",val1563.jpg
+" pneumothorax,  effusion",val1564.jpg
+chest,val1565.jpg
+" pleural parenchymal calcifications,  pneumothorax",val1566.jpg
+" pneumonia,  pneumothorax",val1567.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1568.jpg
+" pneumonia,  pneumothorax",val1569.jpg
+chest,val1570.jpg
+chest,val1571.jpg
+" pneumothorax,  effusion",val1572.jpg
+" effusion,  pneumothorax",val1573.jpg
+chest,val1574.jpg
+ lung,val1575.jpg
+" consolidation,  atelectasis,  consolidation,  mediastinal hilar contours,  pneumothorax",val1576.jpg
+" consolidation,  effusion,  edema",val1577.jpg
+ pneumothorax pleural effusion,val1578.jpg
+ pneumothorax,val1579.jpg
+" mediastinal hilar contours,  pneumothorax,  lymphadenopathy,  sarcoidosis",val1580.jpg
+chest,val1581.jpg
+" emphysema,  atelectasis,  pneumothorax",val1582.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1583.jpg
+" effusion,  pneumothorax",val1584.jpg
+" pneumothorax,  fracture",val1585.jpg
+chest,val1586.jpg
+ pneumothorax,val1587.jpg
+" consolidation,  mediastinal hilar contours",val1588.jpg
+chest,val1589.jpg
+ pneumothorax,val1590.jpg
+ pneumothorax,val1591.jpg
+" atelectasis,  edema,  pneumothorax",val1592.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1593.jpg
+ pneumothorax,val1594.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1595.jpg
+chest,val1596.jpg
+ pneumothorax,val1597.jpg
+chest,val1598.jpg
+" effusion,  pneumothorax",val1599.jpg
+chest,val1600.jpg
+" mediastinal hilar contours,  pneumothorax",val1601.jpg
+" pneumothorax,  fracture",val1602.jpg
+chest,val1603.jpg
+" mediastinal hilar contours,  atelectasis,  effusion,  pneumothorax",val1604.jpg
+" pneumonia,  cavitary lesion,  pneumothorax",val1605.jpg
+ pneumothorax,val1606.jpg
+" consolidation,  effusion,  edema",val1607.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1608.jpg
+" emphysema,  pneumonia,  pneumothorax pulmonary edema",val1609.jpg
+ pneumothorax,val1610.jpg
+" consolidation,  pneumonia,  pneumothorax",val1611.jpg
+" granuloma,  pneumothorax",val1612.jpg
+chest,val1613.jpg
+chest,val1614.jpg
+chest,val1615.jpg
+ pneumothorax,val1616.jpg
+" pneumonia,  pneumothorax",val1617.jpg
+chest,val1618.jpg
+" right lung nodules,  pneumothorax",val1619.jpg
+" mediastinal hilar contours,  widespread pulmonary metastases",val1620.jpg
+" bibasilar atelectasis,  effusion,  pneumothorax",val1621.jpg
+ pneumothorax,val1622.jpg
+chest,val1623.jpg
+ pneumothorax,val1624.jpg
+ multiple bilateral metastatic lung nodules,val1625.jpg
+" effusion,  pneumothorax",val1626.jpg
+" pneumothorax,  fracture",val1627.jpg
+ pneumothorax,val1628.jpg
+chest,val1629.jpg
+" atelectasis,  pneumothorax",val1630.jpg
+" pneumothorax,  effusion",val1631.jpg
+" atelectasis,  pneumothorax",val1632.jpg
+chest,val1633.jpg
+chest,val1634.jpg
+ pneumothorax,val1635.jpg
+" effusion,  pneumothorax",val1636.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1637.jpg
+" pneumothorax,  pneumonia",val1638.jpg
+" effusion,  pneumothorax",val1639.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1640.jpg
+" pneumothorax pulmonary edema,  pleural parenchymal process",val1641.jpg
+" pneumonia,  lung nodules",val1642.jpg
+" mediastinal hilar contours,  pneumothorax",val1643.jpg
+ pneumothorax,val1644.jpg
+ pneumothorax,val1645.jpg
+ pneumothorax,val1646.jpg
+" mediastinal hilar contours,  effusion,  pneumothorax",val1647.jpg
+" pneumothorax,  atelectasis",val1648.jpg
+" vasculature,  pneumothorax",val1649.jpg
+ pneumothorax,val1650.jpg
+ bibasilar atelectasis,val1651.jpg
+" pneumothorax,  pleural parenchymal calcifications",val1652.jpg
+chest,val1653.jpg
+chest,val1654.jpg
+" effusion,  pneumothorax",val1655.jpg
+" mediastinal hilar contours,  adenocarcinoma,  pneumothorax",val1656.jpg
+ pneumothorax,val1657.jpg
+" atelectasis,  pneumonia,  pneumothorax",val1658.jpg
+" atelectasis,  pneumothorax pleural effusion",val1659.jpg
+" effusion,  pneumothorax",val1660.jpg
+chest,val1661.jpg
+ granuloma,val1662.jpg
+ pneumothorax,val1663.jpg
+" mediastinal hilar contours,  pneumothorax",val1664.jpg
+ pneumonia,val1665.jpg
+" effusion,  pneumothorax",val1666.jpg
+" pneumonia,  pneumothorax",val1667.jpg
+" pneumonia,  pneumonia,  effusion",val1668.jpg
+ malignancy,val1669.jpg
+ atelectasis,val1670.jpg
+" pneumothorax,  pulmonary vasculature,  pneumothorax",val1671.jpg
+ pneumothorax,val1672.jpg
+chest,val1673.jpg
+ pneumothorax,val1674.jpg
+" pneumothorax,  effusion",val1675.jpg
+" parenchymal calcifications,  pneumonia",val1676.jpg
+ effusion,val1677.jpg
+ ascites,val1678.jpg
+ pneumothorax,val1679.jpg
+ pneumothorax lungs,val1680.jpg
+" consolidation,  edema,  pneumothorax",val1681.jpg
+ atelectasis,val1682.jpg
+chest,val1683.jpg
+ pneumothorax,val1684.jpg
+ pneumothorax,val1685.jpg
+chest,val1686.jpg
+" consolidation,  pneumonia,  retrocardiac atelectasis,  pneumothorax",val1687.jpg
+" mediastinal hilar contours,  pneumothorax,  pulmonary vasculature",val1688.jpg
+" vasculature,  pneumothorax",val1689.jpg
+" mediastinal hilar contours,  pneumothorax",val1690.jpg
+" pneumothorax,  edema",val1691.jpg
+ granuloma,val1692.jpg
+" pneumothorax,  hilar mediastinal contours",val1693.jpg
+ pneumothorax,val1694.jpg
+ pneumothorax,val1695.jpg
+chest,val1696.jpg
+ pneumothorax,val1697.jpg
+ pneumothorax,val1698.jpg
+ mediastinal hilar contours,val1699.jpg
+" atelectasis,  mediastinal hilar contours,  pneumothorax",val1700.jpg
+" effusion,  pneumothorax",val1701.jpg
+chest,val1702.jpg
+" subsegmental atelectasis,  pneumothorax",val1703.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1704.jpg
+chest,val1705.jpg
+" atelectasis,  pneumothorax,  cardiomegaly",val1706.jpg
+ atelectasis,val1707.jpg
+chest,val1708.jpg
+ pneumocystis carinii pneumonia,val1709.jpg
+ suspicious pulmonary nodules,val1710.jpg
+" pneumothorax,  effusion",val1711.jpg
+" effusion,  pneumothorax",val1712.jpg
+" mediastinal hilar contours,  pneumothorax,  lymphadenopathy,  sarcoidosis",val1713.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1714.jpg
+ pneumothorax,val1715.jpg
+" atelectasis,  pneumothorax",val1716.jpg
+ pneumothorax,val1717.jpg
+ pneumothorax,val1718.jpg
+ pneumothorax,val1719.jpg
+" pneumothorax,  edema",val1720.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1721.jpg
+ pneumothorax,val1722.jpg
+chest,val1723.jpg
+" pneumonia,  hilar mediastinal abnormalities",val1724.jpg
+" effusion,  granuloma,  pneumothorax",val1725.jpg
+" calcifications,  pneumothorax",val1726.jpg
+ pneumothorax,val1727.jpg
+ pneumothorax,val1728.jpg
+" effusion,  pneumonia,  pneumonia,  pneumothorax",val1729.jpg
+" pulmonary vasculature engorgement,  cardiomegaly,  pneumothorax",val1730.jpg
+chest,val1731.jpg
+chest,val1732.jpg
+ pneumothorax,val1733.jpg
+ thickening,val1734.jpg
+" nodules,  pneumothorax",val1735.jpg
+ pneumothorax,val1736.jpg
+" pneumothorax,  hilar mediastinal silhouettes",val1737.jpg
+" effusion,  consolidation,  pneumothorax",val1738.jpg
+ pneumothorax,val1739.jpg
+chest,val1740.jpg
+" pneumonia,  pneumonia,  effusion",val1741.jpg
+" atelectasis,  pneumonia,  pneumothorax",val1742.jpg
+" lung,  bibasilar atelectasis,  atelectasis,  infection",val1743.jpg
+" pneumonia,  pneumothorax",val1744.jpg
+chest,val1745.jpg
+" atelectasis,  consolidation,  pneumothorax",val1746.jpg
+ pneumothorax,val1747.jpg
+ pneumothorax,val1748.jpg
+" effusion,  pneumothorax",val1749.jpg
+" platelike atelectasis,  pneumothorax",val1750.jpg
+ pneumothorax,val1751.jpg
+chest,val1752.jpg
+" mediastinal hilar contours,  pneumothorax",val1753.jpg
+ aneurysm,val1754.jpg
+ pneumothorax,val1755.jpg
+" edema,  pleural parenchymal calcifications,  pneumothorax",val1756.jpg
+ fracture,val1757.jpg
+ pneumothorax,val1758.jpg
+" atelectasis,  consolidation,  pneumothorax,  prior lung resection",val1759.jpg
+chest,val1760.jpg
+ mediastinal hilar contours,val1761.jpg
+ pneumothorax,val1762.jpg
+ fracture,val1763.jpg
+chest,val1764.jpg
+" effusion,  pneumothorax",val1765.jpg
+chest,val1766.jpg
+" effusion,  edema",val1767.jpg
+" atelectasis,  pneumothorax",val1768.jpg
+ pneumonia,val1769.jpg
+" pneumothorax,  fracture",val1770.jpg
+" pneumonia,  pneumothorax",val1771.jpg
+chest,val1772.jpg
+" mediastinal hilar contours,  bilateral hilar lymph,  pulmonary vasculature,  pneumothorax",val1773.jpg
+" mediastinal hilar contours,  pulmonary vasculature",val1774.jpg
+chest,val1775.jpg
+chest,val1776.jpg
+chest,val1777.jpg
+chest,val1778.jpg
+chest,val1779.jpg
+" consolidation,  edema,  effusion,  pneumothorax",val1780.jpg
+ pneumothorax,val1781.jpg
+" tuberculosis,  atelectasis,  pneumothorax",val1782.jpg
+" consolidation,  effusion",val1783.jpg
+ effusion,val1784.jpg
+chest,val1785.jpg
+ pneumothorax,val1786.jpg
+ pneumothorax,val1787.jpg
+" pulmonary vasculature,  pneumothorax,  pulmonary vasculature,  acute pulmonary parenchymal infiltrates",val1788.jpg
+" pneumonia,  mediastinal hilar contours",val1789.jpg
+chest,val1790.jpg
+" lobar consolidation,  pneumothorax",val1791.jpg
+" effusion,  pneumothorax",val1792.jpg
+ pneumothorax,val1793.jpg
+chest,val1794.jpg
+ pneumothorax pleural effusion,val1795.jpg
+chest,val1796.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1797.jpg
+chest,val1798.jpg
+ pneumonia,val1799.jpg
+" atelectasis,  infection",val1800.jpg
+" atelectasis,  pneumonia,  pneumothorax",val1801.jpg
+" pneumothorax,  fracture",val1802.jpg
+chest,val1803.jpg
+" cardiomegaly,  bibasilar atelectasis,  pneumothorax",val1804.jpg
+ pneumonia,val1805.jpg
+ pneumothorax,val1806.jpg
+ pneumothorax,val1807.jpg
+ pneumothorax,val1808.jpg
+" pneumonia,  pneumothorax",val1809.jpg
+ pneumothorax,val1810.jpg
+" effusion,  edema",val1811.jpg
+chest,val1812.jpg
+" atelectasis,  pneumothorax",val1813.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1814.jpg
+ pneumothorax,val1815.jpg
+" pneumothorax,  consolidation",val1816.jpg
+ pneumothorax,val1817.jpg
+chest,val1818.jpg
+ pneumothorax,val1819.jpg
+chest,val1820.jpg
+" consolidation,  edema,  effusion,  pneumothorax",val1821.jpg
+" pneumonia,  pneumothorax",val1822.jpg
+ pneumonia,val1823.jpg
+" effusion,  pneumonia,  pneumonia,  pneumothorax",val1824.jpg
+ pneumothorax,val1825.jpg
+ pneumothorax,val1826.jpg
+" atelectasis,  pneumonia,  hilar",val1827.jpg
+ pneumothorax,val1828.jpg
+ pneumothorax,val1829.jpg
+" pulmonary nodules,  effusion,  pneumonia,  edema",val1830.jpg
+" effusion,  pneumothorax",val1831.jpg
+ pneumothorax,val1832.jpg
+ pneumothorax,val1833.jpg
+" pneumothorax,  pneumonia,  edema",val1834.jpg
+" effusion,  pneumothorax",val1835.jpg
+ pneumothorax,val1836.jpg
+" pneumonia,  mediastinal hilar contours",val1837.jpg
+ pneumothorax,val1838.jpg
+ mediastinal hilar contours,val1839.jpg
+ pneumothorax,val1840.jpg
+" effusion,  pneumothorax",val1841.jpg
+ pneumothorax,val1842.jpg
+ pneumothorax,val1843.jpg
+ pneumothorax,val1844.jpg
+ pneumothorax,val1845.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1846.jpg
+" lung,  cardiomegaly",val1847.jpg
+ pneumothorax,val1848.jpg
+ pneumonia,val1849.jpg
+" mediastinal hilar contours,  pneumothorax",val1850.jpg
+" consolidation,  lung,  pneumothorax",val1851.jpg
+chest,val1852.jpg
+" mediastinal hilar contours,  pneumothorax,  granuloma",val1853.jpg
+" consolidation,  effusion,  pneumothorax,  fractures",val1854.jpg
+" atelectasis,  pneumothorax",val1855.jpg
+" hilar,  pneumothorax",val1856.jpg
+" atelectasis,  mediastinal hilar contours,  lung,  pneumothorax",val1857.jpg
+" pneumonia,  atelectasis,  pneumothorax",val1858.jpg
+ consolidation,val1859.jpg
+chest,val1860.jpg
+" effusion,  edema",val1861.jpg
+ left lung atelectasis,val1862.jpg
+ pneumothorax,val1863.jpg
+ pneumothorax,val1864.jpg
+" hilar,  pneumothorax,  effusion",val1865.jpg
+" pulmonary vasculature,  pneumothorax",val1866.jpg
+" edema,  atelectasis,  subsegmental atelectasis",val1867.jpg
+ pneumothorax,val1868.jpg
+" mediastinal hilar contours,  pneumothorax",val1869.jpg
+ pneumothorax,val1870.jpg
+ pneumothorax,val1871.jpg
+ pneumothorax pleural effusion,val1872.jpg
+ pneumothorax,val1873.jpg
+" multiple pulmonary nodules,  bibasilar atelectasis,  bibasilar consolidation,  pneumothorax",val1874.jpg
+ pneumothorax,val1875.jpg
+" pneumonia,  pneumothorax",val1876.jpg
+ pneumothorax,val1877.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1878.jpg
+ pneumothorax,val1879.jpg
+chest,val1880.jpg
+chest,val1881.jpg
+ pneumothorax,val1882.jpg
+ pneumothorax,val1883.jpg
+chest,val1884.jpg
+" pleural,  pneumothorax",val1885.jpg
+ pneumothorax,val1886.jpg
+" small pulmonary nodules,  pneumothorax",val1887.jpg
+" atelectasis,  focal pulmonary opacity,  pneumothorax",val1888.jpg
+" consolidation,  effusion,  pneumothorax,  fractures",val1889.jpg
+ pneumothorax pleural effusion,val1890.jpg
+" atelectasis,  pneumothorax",val1891.jpg
+ pneumothorax,val1892.jpg
+ pneumothorax,val1893.jpg
+" infection,  pneumothorax",val1894.jpg
+chest,val1895.jpg
+" consolidation,  consolidation,  pneumonia",val1896.jpg
+chest,val1897.jpg
+" hilar mediastinal structures,  pneumonia",val1898.jpg
+ pneumothorax,val1899.jpg
+" effusion,  pneumothorax",val1900.jpg
+ pneumonia,val1901.jpg
+" pneumothorax,  pulmonary vasculature",val1902.jpg
+" consolidation,  pneumothorax",val1903.jpg
+ pneumothorax,val1904.jpg
+" pneumothorax,  effusion",val1905.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1906.jpg
+ pneumothorax,val1907.jpg
+" infection,  pneumothorax",val1908.jpg
+ pneumothorax,val1909.jpg
+" effusion,  edema",val1910.jpg
+ pneumothorax,val1911.jpg
+" lung,  pneumothorax pleural effusion",val1912.jpg
+" pneumonia,  pneumothorax pleural effusion",val1913.jpg
+" pulmonary vasculature,  pneumothorax",val1914.jpg
+ pneumothorax,val1915.jpg
+chest,val1916.jpg
+" pulmonary vasculature,  pneumothorax,  effusion",val1917.jpg
+" pneumonia,  pneumothorax,  granuloma,  previously multiple lung nodules",val1918.jpg
+" pneumothorax,  effusion",val1919.jpg
+ pneumothorax,val1920.jpg
+ pneumothorax,val1921.jpg
+chest,val1922.jpg
+" effusion,  pneumothorax",val1923.jpg
+" infection,  pneumothorax",val1924.jpg
+chest,val1925.jpg
+" effusion,  pneumothorax",val1926.jpg
+chest,val1927.jpg
+" effusion,  pneumothorax",val1928.jpg
+ pneumothorax,val1929.jpg
+ pneumothorax,val1930.jpg
+" granulomas,  lung,  pneumothorax",val1931.jpg
+" consolidation,  pneumothorax",val1932.jpg
+" pneumonia,  edema,  pneumothorax",val1933.jpg
+" edema,  pneumothorax",val1934.jpg
+ pneumothorax,val1935.jpg
+ pneumothorax,val1936.jpg
+" consolidation,  effusion,  pneumothorax,  fractures",val1937.jpg
+" pneumothorax,  pleural",val1938.jpg
+ pneumonia,val1939.jpg
+ metastatic disease,val1940.jpg
+" granuloma,  effusion,  pneumothorax",val1941.jpg
+" cardiomegaly,  pneumothorax",val1942.jpg
+ pneumothorax,val1943.jpg
+" pneumonia,  pneumothorax",val1944.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1945.jpg
+ pneumothorax,val1946.jpg
+chest,val1947.jpg
+" mediastinal hilar contours,  pneumothorax",val1948.jpg
+ pneumothorax,val1949.jpg
+ parenchymal granuloma,val1950.jpg
+" pneumothorax,  pulmonary vasculature",val1951.jpg
+ pneumothorax,val1952.jpg
+ pneumothorax,val1953.jpg
+ pneumothorax,val1954.jpg
+" effusion,  edema",val1955.jpg
+chest,val1956.jpg
+" pneumonia,  pneumothorax",val1957.jpg
+" pneumothorax,  granuloma",val1958.jpg
+ pneumothorax,val1959.jpg
+chest,val1960.jpg
+" effusion,  pneumothorax",val1961.jpg
+ pneumothorax,val1962.jpg
+" consolidation,  tumor,  pneumothorax",val1963.jpg
+ pneumothorax,val1964.jpg
+" pneumothorax,  edema",val1965.jpg
+chest,val1966.jpg
+ pneumothorax pleural effusion,val1967.jpg
+chest,val1968.jpg
+ pneumothorax,val1969.jpg
+" pneumothorax,  pneumonia",val1970.jpg
+" atelectasis,  pneumothorax",val1971.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  atelectasis,  pneumothorax",val1972.jpg
+" multiple pulmonary nodules,  effusion,  pneumothorax",val1973.jpg
+ effusion,val1974.jpg
+ pneumothorax,val1975.jpg
+" tuberculosis,  atelectasis,  pneumothorax",val1976.jpg
+ consolidation,val1977.jpg
+" atelectasis,  pneumothorax",val1978.jpg
+" mediastinal hilar contours,  pneumothorax,  effusion",val1979.jpg
+chest,val1980.jpg
+chest,val1981.jpg
+ pneumothorax,val1982.jpg
+ pneumothorax,val1983.jpg
+" effusion,  edema,  pneumothorax",val1984.jpg
+" infection,  pneumothorax",val1985.jpg
+chest,val1986.jpg
+" pneumothorax,  mediastinal hilar contours",val1987.jpg
+" effusion,  pneumothorax",val1988.jpg
+" mediastinal hilar contours,  atelectasis,  effusion,  pneumothorax",val1989.jpg
+chest,val1990.jpg
+" pneumothorax,  multiple pulmonary lesions",val1991.jpg
+" mediastinal hilar contours,  atelectasis,  pneumothorax",val1992.jpg
+ atelectasis,val1993.jpg
+ pneumothorax,val1994.jpg
+" pneumothorax,  pneumonia",val1995.jpg
+" mediastinal hilar contours,  calcifications,  pneumothorax",val1996.jpg
+" mediastinal hilar contours,  pneumothorax",val1997.jpg
+" pneumothorax,  effusion",val1998.jpg
+ pneumothorax,val1999.jpg
+" pneumothorax,  effusion",val2000.jpg
+ pneumothorax,val2001.jpg
+ emphysema,val2002.jpg
+ acute pneumonia,val2003.jpg
+ possible pneumonia,val2004.jpg
+" edema,  pneumothorax",val2005.jpg
+" effusion,  pneumothorax",val2006.jpg
+ pneumothorax,val2007.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  atelectasis,  pneumothorax",val2008.jpg
+ effusion,val2009.jpg
+" effusion,  pneumonia",val2010.jpg
+chest,val2011.jpg
+ pneumothorax,val2012.jpg
+chest,val2013.jpg
+ pneumothorax,val2014.jpg
+ pneumothorax,val2015.jpg
+ pneumothorax,val2016.jpg
+ pneumothorax,val2017.jpg
+ pneumothorax,val2018.jpg
+" effusion,  pneumothorax",val2019.jpg
+" effusion,  pneumothorax",val2020.jpg
+chest,val2021.jpg
+ pneumothorax,val2022.jpg
+ pneumothorax,val2023.jpg
+" atelectasis,  consolidation",val2024.jpg
+ pneumothorax,val2025.jpg
+ pneumothorax,val2026.jpg
+ malignancy,val2027.jpg
+ pneumothorax,val2028.jpg
+" effusion,  pneumothorax",val2029.jpg
+" lobar consolidation,  pneumothorax",val2030.jpg
+ pneumothorax,val2031.jpg
+ parenchymal granuloma,val2032.jpg
+" bibasilar atelectasis,  mediastinal hilar contours,  pneumothorax",val2033.jpg
+" pneumonia,  pneumothorax",val2034.jpg
+chest,val2035.jpg
+" mediastinal hilar contours,  pneumothorax",val2036.jpg
+ pneumothorax,val2037.jpg
+ pneumothorax,val2038.jpg
+chest,val2039.jpg
+ pneumothorax,val2040.jpg
+" lymphadenopathy,  consolidation,  pneumothorax",val2041.jpg
+ mediastinal hilar contours,val2042.jpg
+" effusion,  pneumothorax",val2043.jpg
+ pneumothorax pleural effusion,val2044.jpg
+chest,val2045.jpg
+" effusion,  pneumothorax",val2046.jpg
+" consolidation,  pancoast tumor",val2047.jpg
+ pneumothorax,val2048.jpg
+chest,val2049.jpg
+ pneumothorax,val2050.jpg
+" hilar mediastinal contours,  pneumonia,  pneumothorax",val2051.jpg
+ mediastinal hilar contours,val2052.jpg
+ pneumothorax pleural effusion,val2053.jpg
+" pneumothorax,  emphysema",val2054.jpg
+ pneumothorax,val2055.jpg
+" hilar mediastinal contours,  consolidation,  pneumothorax,  effusion",val2056.jpg
+chest,val2057.jpg
+ cardiomegaly,val2058.jpg
+ pneumothorax,val2059.jpg
+ pneumocystis carinii pneumonia,val2060.jpg
+" consolidation,  effusion,  edema",val2061.jpg
+" atelectasis,  mediastinal hilar contours,  lung,  pneumothorax",val2062.jpg
+ pneumonia,val2063.jpg
+ pneumothorax,val2064.jpg
+" pneumonia,  effusion,  pneumothorax",val2065.jpg
+chest,val2066.jpg
+ pulmonary metastases,val2067.jpg
+" pneumothorax,  effusion",val2068.jpg
+ pneumothorax,val2069.jpg
+chest,val2070.jpg
+" mediastinal hilar contours,  pneumothorax",val2071.jpg
+ pneumothorax,val2072.jpg
+ pneumothorax,val2073.jpg
+" pneumonia,  pneumothorax",val2074.jpg
+ pneumothorax,val2075.jpg
+" bibasilar atelectasis,  pneumonia,  pneumothorax",val2076.jpg
+ pneumothorax,val2077.jpg
+ pneumothorax,val2078.jpg
+" atelectasis,  pneumothorax",val2079.jpg
+chest,val2080.jpg
+" mediastinal hilar contours,  atelectasis,  pneumothorax",val2081.jpg
+" pneumonia,  pneumothorax",val2082.jpg
+" atelectasis,  pneumothorax",val2083.jpg
+" edema,  pneumothorax",val2084.jpg
+ pneumothorax,val2085.jpg
+" atelectasis,  pneumothorax",val2086.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val2087.jpg
+" atelectasis,  pneumothorax",val2088.jpg
+" atelectasis,  infection,  pneumothorax",val2089.jpg
+ pneumonia,val2090.jpg
+chest,val2091.jpg
+ pneumothorax,val2092.jpg
+" pneumonia,  pneumothorax",val2093.jpg
+ pneumothorax,val2094.jpg
+ chronic atelectasis,val2095.jpg
+ pneumonia,val2096.jpg
+" atelectasis,  pneumonia",val2097.jpg
+" effusion,  pneumothorax",val2098.jpg
+" effusion,  pneumothorax",val2099.jpg
+" atelectasis,  pneumothorax",val2100.jpg

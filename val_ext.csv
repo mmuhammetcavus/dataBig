@@ -1,0 +1,2101 @@
+report,new_path
+" lung volumes,  pneumothorax",val1.jpg
+" apicolateral pneumothorax,  bibasilar atelectasis",val2.jpg
+" lung,  mild pulmonary vascular,  pneumothorax",val3.jpg
+chest,val4.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val5.jpg
+" pleural fluid,  thickening,  large consolidation",val6.jpg
+ fractures,val7.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val8.jpg
+" pleural effusion,  pneumothorax",val9.jpg
+" infection,  pleural effusion,  pneumothorax",val10.jpg
+" pleural effusion,  pneumothorax",val11.jpg
+chest,val12.jpg
+" mild bibasilar atelectasis,  pleural effusion,  pneumothorax",val13.jpg
+" basilar atelectasis,  pleural effusion,  right lung,  pulmonary edema,  pneumothorax",val14.jpg
+ base atelectasis,val15.jpg
+" pleural effusion,  pneumothorax,  osseous structures",val16.jpg
+" granuloma,  pleural effusion,  pneumothorax,  new pulmonary nodule,  pulmonary vasculature,  mediastinal hilar contours",val17.jpg
+" pleural effusion,  pneumothorax",val18.jpg
+" mild pulmonary edema,  pneumothorax",val19.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val20.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema,  normal mediastinal hilar contours",val21.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val22.jpg
+" effusion,  effusion,  pneumonia,  pneumothorax",val23.jpg
+" pleural effusion,  acute focal pneumonia",val24.jpg
+" pulmonary edema,  hilar structures",val25.jpg
+" consolidation,  pneumothorax",val26.jpg
+" focal consolidation pleural effusion currently pneumothorax,  lymphadenopathy",val27.jpg
+chest,val28.jpg
+" pneumothorax,  effusion,  fracture",val29.jpg
+" diffuse bilateral pulmonary nodules,  widespread metastases,  renal cell carcinoma",val30.jpg
+" primary mediastinal abnormality,  hilar,  lesions,  pleural effusion,  pneumothorax",val31.jpg
+" lung volumes,  small pleural effusions,  pneumothorax",val32.jpg
+" right lung,  pleural effusions,  pneumothorax",val33.jpg
+" consolidation,  pneumothorax",val34.jpg
+" atelectasis,  pleural effusion,  pneumothorax,  mild cardiomegaly,  subcutaneous emphysema",val35.jpg
+" lung volumes,  atelectasis,  infection,  pleural effusion,  pneumothorax",val36.jpg
+" normal hilar mediastinal structures,  right lung,  lung nodules,  metastatic disease,  diffuse focal lung parenchymal disease",val37.jpg
+" pulmonary vasculature,  interstitial alveolar edema,  pulmonary vessels,  pneumothorax,  pleural effusions",val38.jpg
+" pleural effusion,  pulmonary edema",val39.jpg
+" likely atelectasis,  pneumothorax,  pulmonary vascularity",val40.jpg
+" effusion,  pneumothorax",val41.jpg
+" pneumonia,  pleural effusion,  pneumothorax,  granuloma,  previously multiple lung nodules,  aortic calcifications",val42.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val43.jpg
+" overt edema,  atherosclerotic calcifications",val44.jpg
+" pneumothorax,  effusion,  consolidation",val45.jpg
+" chronic obstructive pulmonary disease,  pleural effusion,  pneumothorax",val46.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax,  pulmonary vasculature",val47.jpg
+ pneumothorax,val48.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema,  mediastinal hilar structures",val49.jpg
+" mild cardiomegaly,  infection,  atelectasis,  pneumothorax,  pleural effusion",val50.jpg
+" atelectasis,  pleural effusion,  pneumothorax",val51.jpg
+" pulmonary vascular congestion,  consolidation,  nodules",val52.jpg
+ pulmonary vascular congestion,val53.jpg
+" atelectasis,  dominant upper lobe pulmonary nodule,  pneumonia,  pleural effusions,  pneumothorax",val54.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes,  sternal rib fractures",val55.jpg
+" mediastinal hilar contours,  pulmonary vascular,  effusion,  pneumothorax",val56.jpg
+" moderate pleural effusion,  atelectasis,  pleural effusion,  consolidation",val57.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val58.jpg
+" mild cardiomegaly,  pneumothorax",val59.jpg
+" moderate cardiomegaly,  pneumothorax",val60.jpg
+" mild platelike atelectasis,  pneumonia,  pleural effusion,  pneumothorax",val61.jpg
+" atelectasis,  effusion,  pneumonia",val62.jpg
+" upper lobectomy,  cardiomegaly,  pulmonary vasculature,  pleural effusion,  pneumothorax,  acute abnormality intrathoracic malignancy",val63.jpg
+" pleural effusion,  pneumothorax",val64.jpg
+" lung volumes,  pneumothorax,  moderate cardiomegaly",val65.jpg
+" lung volumes,  discrete consolidation,  pleural effusion,  pneumothorax,  pulmonary edema",val66.jpg
+" pulmonary edema , pleural effusion,  pneumothorax",val67.jpg
+" effusion,  pulmonary vascular congestion,  granuloma,  pneumothorax,  osseous structures",val68.jpg
+" pulmonary edema,  pleural effusion,  pneumothorax",val69.jpg
+" pleural effusion,  pneumothorax",val70.jpg
+" right lung,  chronic lung disease,  pulmonary edeam,  pleural effusion,  pneumothorax",val71.jpg
+chest,val72.jpg
+" pleural effusion,  pneumothorax,  lateral rib fractures",val73.jpg
+" pneumothorax,  pleural effusion,  pulmonary edema,  acute rib fracture",val74.jpg
+" pleural effusion,  pneumothorax",val75.jpg
+ mediastinal hilar contours,val76.jpg
+" pneumothorax pleural effusion,  pulmonary vascularity",val77.jpg
+chest,val78.jpg
+" pulmonary edema,  pleural effusion,  pneumothorax,  pneumonia",val79.jpg
+" pneumothorax,  effusion,  fracture",val80.jpg
+ pleural abnormality,val81.jpg
+" pleural effusions,  pneumonia",val82.jpg
+" loculated pleural fluid,  pleural thickening,  right lung,  pleural space",val83.jpg
+" infection,  aneurysm",val84.jpg
+" consolidation,  parenchymal opacification,  pleural effusion,  pneumothorax",val85.jpg
+" pneumonia,  pathologic findings",val86.jpg
+" pneumothorax,  pulmonary vasculature,  acute pulmonary congestion,  pneumothorax",val87.jpg
+" right lung base opacity,  pleural effusion,  pulmonary edema,  emphysema,  hilar mediastinal silhouettes",val88.jpg
+" pulmonary vascularity,  edema,  likely atelectasis",val89.jpg
+" acute intrathoracic process,  mediastinal , pleural pulmonary structures,  pleural effusion,  pneumothorax,  calcifications",val90.jpg
+" pneumothorax,  pleural effusion",val91.jpg
+" atelectasis,  pulmonary edema,  new parenchymal,  pneumonia,  hilar",val92.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pneumothorax pleural effusion",val93.jpg
+" emphysema,  acute fractures",val94.jpg
+" support devices,  substantial effusion",val95.jpg
+" pneumonia,  acute lung,  lung parenchyma,  pulmonary edema,  mediastinum hilar structures",val96.jpg
+" new consolidation,  left lung,  effusion,  atherosclerotic calcifications",val97.jpg
+" normal hilar mediastinal structures,  right lung,  lung nodules,  metastatic disease,  diffuse focal lung parenchymal disease",val98.jpg
+" pulmonary vascular congestion,  pleural effusion,  pneumothorax",val99.jpg
+" mild cardiomegaly,  pulmonary vascularity,  pleural effusion",val100.jpg
+" parenchymal abnormality,  emphysema,  edema,  pleural effusion,  pneumothorax,  mild cardiomegaly",val101.jpg
+chest,val102.jpg
+" small pulmonary nodules,  pleural effusion,  pneumothorax",val103.jpg
+ pneumonia,val104.jpg
+ mediastinal hilar contours,val105.jpg
+" large subpulmonic effusion,  atelectasis,  mediastinal hilar contours,  lung,  pneumothorax",val106.jpg
+" pneumothorax,  pleural effusion",val107.jpg
+" pulmonary edema , pleural effusion,  pneumothorax",val108.jpg
+" lung volume,  pleural effusion,  pneumothorax",val109.jpg
+" pleural effusion,  pneumothorax",val110.jpg
+" pleural effusion,  pneumothorax",val111.jpg
+" pleural effusion,  pneumothorax",val112.jpg
+" effusion,  interstitial lung edema,  moderate cardiomegaly",val113.jpg
+chest,val114.jpg
+" effusion,  consolidation,  pneumothorax",val115.jpg
+" calcifications,  pleural effusion,  pneumothorax",val116.jpg
+" new consolidation,  edema,  large effusion,  pneumothorax",val117.jpg
+" pneumothorax,  moderate pulmonary edema,  stable cardiomegaly",val118.jpg
+" pneumothorax,  pulmonary edema,  stable cardiomegaly",val119.jpg
+" consolidation,  pneumothorax",val120.jpg
+" lung volumes,  significant effusion,  pneumothorax,  pulmonary vasculature",val121.jpg
+chest,val122.jpg
+" pneumothorax pleural effusion,  pulmonary vascularity",val123.jpg
+" pulmonary edema,  pneumothorax,  osseous structures",val124.jpg
+" pneumonia,  atelectasis,  right lung,  pleural abnormality",val125.jpg
+" cardiac , mediastinal hilar contours,  pneumothorax,  lung",val126.jpg
+chest,val127.jpg
+" mediastinal hilar contours,  pulmonary edema,  pneumonia,  pleural effusion,  pneumothorax,  prior resection",val128.jpg
+" pleural effusion,  pneumothorax,  pneumonia,  pulmonary vasculature",val129.jpg
+" pleural effusion,  pneumothorax",val130.jpg
+" moderate pulmonary edema,  small pleural effusions,  pneumothorax",val131.jpg
+" pneumothorax pleural effusion,  pulmonary vascularity",val132.jpg
+ mediastinal hilar contours,val133.jpg
+" lung volumes,  pneumothorax",val134.jpg
+chest,val135.jpg
+" pleural effusion,  pneumothorax",val136.jpg
+" pleural fluid,  atelectasis,  pulmonary vasculature,  pneumothorax",val137.jpg
+" pleural effusion,  pneumothorax",val138.jpg
+chest,val139.jpg
+" lung volumes,  atelectasis,  pleural effusion,  pneumothorax",val140.jpg
+" granuloma,  pleural effusion,  pneumothorax,  new pulmonary nodule,  pulmonary vasculature,  mediastinal hilar contours",val141.jpg
+ pneumothorax,val142.jpg
+" chronic obstructive pulmonary disease,  pleural effusion,  pneumothorax",val143.jpg
+chest,val144.jpg
+" mild bibasilar atelectasis,  pleural effusion,  pneumothorax",val145.jpg
+" pleural effusion,  pneumothorax",val146.jpg
+" mild pulmonary edema,  trace pleural effusions",val147.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val148.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val149.jpg
+" pleural effusion,  pneumothorax",val150.jpg
+ pneumothorax,val151.jpg
+" diffuse bilateral pulmonary nodules,  enlarged heart,  pleural effusion,  pneumothorax",val152.jpg
+" pneumonia,  pleural effusion , pulmonary edema,  pneumothorax",val153.jpg
+" large effusion,  pneumothorax,  osseous structures",val154.jpg
+" pneumothorax pleural effusion,  osseous structures",val155.jpg
+" lung volumes,  mild cardiomegaly,  pneumothorax",val156.jpg
+" atelectasis,  focal pulmonary opacity,  pleural effusion,  pneumothorax,  osseous structures",val157.jpg
+ atelectasis,val158.jpg
+" monitoring devices,  pulmonary vascular congestion,  perihilar edema,  infection,  pleural effusion",val159.jpg
+" pleural effusion,  pneumothorax",val160.jpg
+" pneumonia,  pleural effusion,  pneumothorax,  granuloma,  previously multiple lung nodules,  aortic calcifications",val161.jpg
+" consolidation,  consolidation,  pneumonia,  lung parenchyma,  pleural effusions",val162.jpg
+" pneumonia,  pneumonia,  large effusion,  pneumothorax",val163.jpg
+" pleural effusion,  pneumothorax",val164.jpg
+" right lung,  pleural effusions,  pneumothorax",val165.jpg
+" pulmonary vasculature,  pulmonary vascular congestion,  pneumothorax,  lateral pleural sinuses,  pneumothorax",val166.jpg
+chest,val167.jpg
+" devices,  acute focal pneumonia",val168.jpg
+" lung base,  pneumothorax",val169.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val170.jpg
+" mediastinal hilar contours,  pulmonary edema,  pneumonia,  pleural effusion,  pneumothorax,  prior resection",val171.jpg
+" pleural abnormality,  pneumonia,  mediastinal hilar contours",val172.jpg
+chest,val173.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax,  pulmonary vasculature",val174.jpg
+" atelectasis,  pneumothorax",val175.jpg
+" right lung,  pneumothorax,  rib fracture",val176.jpg
+" unremarkable mediastinal , hilar cardiac contours,  pleural effusion,  pneumothorax",val177.jpg
+ atelectasis,val178.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val179.jpg
+" lung volumes,  pulmonary vascular markings,  acute fractures",val180.jpg
+" asymmetric lower lung opacity,  infection,  right lung,  pneumothorax",val181.jpg
+" pulmonary vascular engorgement,  interstitial edema,  atelectasis,  consolidation",val182.jpg
+" basilar nodule,  effusion,  osseous structures",val183.jpg
+" pleural effusion,  pneumothorax,  mild cardiomegaly,  mediastinal hilar contours",val184.jpg
+" atelectasis,  pneumonia,  pneumothorax",val185.jpg
+" effusion,  mild cardiomegaly",val186.jpg
+" atelectasis,  pulmonary edema,  pneumothorax",val187.jpg
+" effusion,  pneumothorax",val188.jpg
+" pneumothorax,  right lung,  left lung,  biapical pleural scarring,  cardiomegaly",val189.jpg
+" tissue thickening,  lung parenchyma,  pleural,  pneumothorax",val190.jpg
+ atelectasis,val191.jpg
+" pleural effusion,  atelectasis",val192.jpg
+" pleural effusion,  pneumothorax,  chronic pulmonary disease,  active tuberculosis",val193.jpg
+" cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax,  pulmonary vascular congestion",val194.jpg
+" pleural fluid,  thickening,  large consolidation",val195.jpg
+" pleural effusion,  pneumothorax",val196.jpg
+" pleural effusion,  pneumothorax",val197.jpg
+" pulmonary vascularity,  small pleural effusions",val198.jpg
+ consolidation,val199.jpg
+" consolidation,  pleural effusion,  pneumothorax,  sarcoidosis",val200.jpg
+" pleural effusions,  pneumothorax,  hilar lymphadenopathy",val201.jpg
+" hilar mediastinal contours,  pneumothorax,  pleural effusion",val202.jpg
+" pleural effusion,  pneumothorax,  mild biapical pleural thickening",val203.jpg
+" pneumothorax,  cardiomegaly,  aortic calcifications",val204.jpg
+" lung density,  pulmonary vessels",val205.jpg
+chest,val206.jpg
+" mild cardiomegaly,  effusion,  pneumothorax,  osseous structures",val207.jpg
+" effusion,  pneumothorax,  osseous soft tissue structures",val208.jpg
+ pneumothorax,val209.jpg
+" bibasilar atelectasis,  definite fracture",val210.jpg
+" lung volumes,  mild cardiomegaly,  tiny effusion,  pleural thickening,  edema,  pneumothorax",val211.jpg
+" pleural effusion,  pneumothorax,  acute fractures",val212.jpg
+" pulmonary vascularity,  pneumothorax",val213.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val214.jpg
+" pleural abnormality,  pneumonia,  mediastinal hilar contours",val215.jpg
+" lung volumes,  hilar mediastinal contours,  upper lung,  pneumothorax,  pleural effusion,  osseous structures",val216.jpg
+" pneumothorax,  fracture",val217.jpg
+chest,val218.jpg
+" pulmonary edema,  pneumonia",val219.jpg
+" definite consolidation,  pleural effusion,  pneumothorax,  edema",val220.jpg
+" base atelectasis,  pneumothorax",val221.jpg
+" large effusion,  pneumothorax,  mild pulmonary vascular",val222.jpg
+ pulmonary metastases,val223.jpg
+" lung volumes,  mediastinal hilar contours,  atelectasis,  effusion,  pneumothorax",val224.jpg
+" pneumonia,  pleural effusion,  pneumothorax,  pulmonary vasculature,  mediastinal hilar contours,  osseous structures",val225.jpg
+ pulmonary edema,val226.jpg
+" pulmonary edema,  pneumothorax,  osseous structures",val227.jpg
+" pneumonia,  chronic pulmonary disease",val228.jpg
+" lung density,  pulmonary vessels",val229.jpg
+" right hilar,  definite consolidation,  pneumonia,  effusion,  pneumothorax,  overt edema",val230.jpg
+" pleural effusion,  pneumothorax,  fracture",val231.jpg
+" lung volumes,  mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val232.jpg
+chest,val233.jpg
+" pleural effusions,  definite pneumothorax,  right lung",val234.jpg
+" right hilar,  definite consolidation,  pneumonia,  effusion,  pneumothorax,  overt edema",val235.jpg
+" lung volumes,  atelectasis,  early pneumonia,  right lung,  large effusion,  pneumothorax",val236.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val237.jpg
+chest,val238.jpg
+" large effusion,  pneumothorax,  edema",val239.jpg
+ effusion,val240.jpg
+" early interstitial lung disease,  pleural effusion,  pneumothorax",val241.jpg
+" effusion,  atherosclerotic calcifications",val242.jpg
+" pneumonia,  pleural effusion , pulmonary edema,  pneumothorax",val243.jpg
+" consolidation,  pneumothorax,  pleural effusion",val244.jpg
+" left lung,  minimal atelectasis,  pneumothorax,  left lung,  right lung,  old rib fractures,  effusion,  consolidation",val245.jpg
+" effusion,  pneumothorax",val246.jpg
+" cardiomegaly,  bibasilar atelectasis,  pleural effusion,  pneumothorax",val247.jpg
+" pulmonary vascularity,  pneumothorax",val248.jpg
+" low lung,  acute focal pneumonia,  pleural effusion",val249.jpg
+" pleural effusion,  pneumothorax",val250.jpg
+" lung volumes,  pneumothorax,  radiographically apparent esophageal abnormalities",val251.jpg
+chest,val252.jpg
+" moderate cardiomegaly,  mild pulmonary edema",val253.jpg
+" mild cardiomegaly,  interstitial edema,  frank consolidation",val254.jpg
+" upper lobectomy,  definite pleural effusion,  infection,  right lung,  pleural effusion,  pneumothorax",val255.jpg
+" pleural effusion,  pneumothorax",val256.jpg
+" consolidation,  nodules,  pleural effusion,  pneumothorax",val257.jpg
+" lung volumes,  consolidation,  moderate cardiomegaly,  mediastinal hilar contours,  pneumothorax",val258.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes",val259.jpg
+" consolidation,  effusion,  pneumothorax,  fractures",val260.jpg
+" pleural effusion,  pneumothorax",val261.jpg
+" consolidation,  pneumonia,  pleural effusion,  pneumothorax",val262.jpg
+" pleural effusion,  pneumothorax,  fracture",val263.jpg
+ pneumothorax,val264.jpg
+" lung volumes,  pleural effusion,  pneumothorax,  pulmonary hypertension,  mediastinal hilar contours,  mild cardiomegaly",val265.jpg
+" pleural effusion,  pneumothorax",val266.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val267.jpg
+ mediastinal hilar contours,val268.jpg
+" pulmonary edema,  effusion",val269.jpg
+" hilar mediastinal contours,  pneumothorax,  pleural effusion,  granuloma",val270.jpg
+" lung,  effusion,  pneumothorax,  costophrenic pleural thickening",val271.jpg
+" mediastinal hilar contours,  subsegmental atelectasis,  pleural effusion,  pneumothorax",val272.jpg
+chest,val273.jpg
+" pleural scarring,  pleural effusion,  right hilar,  pneumonia",val274.jpg
+" atelectasis,  infection,  pneumothorax",val275.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val276.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val277.jpg
+" lung volumes,  cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax",val278.jpg
+" mediastinal hilar contours,  pneumonia,  pleural effusion,  pneumothorax",val279.jpg
+ osseous structures,val280.jpg
+" pneumothorax,  subsegmental atelectasis,  pulmonary edema",val281.jpg
+" right lung,  consolidation,  tumor,  pleural effusion,  pneumothorax",val282.jpg
+" effusion,  pneumothorax,  osseous structures",val283.jpg
+" nodules,  infection,  bibasilar atelectasis,  pleural effusion,  pneumothorax",val284.jpg
+ acute pneumonia,val285.jpg
+" mild interstitial edema,  atelectasis,  pneumonia,  pleural effusion,  pneumothorax",val286.jpg
+ pneumothorax,val287.jpg
+" tracheal wall,  pneumothorax,  pleural effusion,  consolidation",val288.jpg
+ left pneumothorax,val289.jpg
+" pneumonia,  pneumothorax,  effusion",val290.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val291.jpg
+" lung volumes,  basilar atelectasis,  atherosclerotic calcifications",val292.jpg
+" basal platelike atelectasis,  pneumonia,  edema,  effusion,  pneumothorax",val293.jpg
+" right lung,  pleural effusions,  pneumothorax",val294.jpg
+" pleural effusion,  pneumothorax",val295.jpg
+ left pneumothorax,val296.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes,  pulmonary edema",val297.jpg
+" mild pulmonary edema,  pneumothorax",val298.jpg
+" pneumothorax,  mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val299.jpg
+" consolidation,  lung,  pleural effusion,  pneumothorax",val300.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val301.jpg
+" pleural effusion,  pneumothorax",val302.jpg
+" lung,  effusion,  edema",val303.jpg
+" pleural effusion,  pneumothorax",val304.jpg
+" pneumothorax,  effusion",val305.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val306.jpg
+" atelectasis pulmonary edema,  pneumothorax",val307.jpg
+" pulmonary edema,  pneumothorax",val308.jpg
+" pleural effusion,  pneumothorax",val309.jpg
+" lung volumes,  hilar mediastinal contours,  upper lung,  pneumothorax,  pleural effusion,  osseous structures",val310.jpg
+" pneumonia,  pleural effusions,  pneumothorax",val311.jpg
+" pulmonary vascular markings,  pulmonary edema",val312.jpg
+" lung volumes,  basilar atelectasis,  atherosclerotic calcifications",val313.jpg
+" pleural effusion,  pneumothorax",val314.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val315.jpg
+" focal consolidation pleural effusion currently pneumothorax,  lymphadenopathy",val316.jpg
+" mediastinal hilar contours,  subsegmental atelectasis,  pleural effusion,  pneumothorax",val317.jpg
+" pleural effusion,  pneumothorax",val318.jpg
+" pleural effusion,  pneumothorax,  lower lung",val319.jpg
+" pneumonia,  multiple bilateral pulmonary metastases,  pneumothorax",val320.jpg
+ pneumothorax,val321.jpg
+" mild bibasilar atelectasis,  mediastinal hilar contours,  pleural effusion,  pneumothorax",val322.jpg
+" pneumonia,  fracture",val323.jpg
+" lung volumes,  bronchovascular atelectasis,  pneumonia,  effusion,  pneumothorax",val324.jpg
+" cardiac , mediastinal , hilar contours,  pleural effusion,  pneumothorax",val325.jpg
+" low lung,  vasculature,  pleural effusion,  edema,  pneumothorax,  pneumonia",val326.jpg
+" right lung,  pleural effusion,  consolidation",val327.jpg
+" lung volumes,  left lung,  infection,  pneumothorax",val328.jpg
+ pulmonary edema,val329.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val330.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val331.jpg
+ mild bibasilar atelectasis,val332.jpg
+chest,val333.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes,  pulmonary edema",val334.jpg
+" atelectasis,  pleural abnormalities,  pneumothorax",val335.jpg
+ pneumothorax,val336.jpg
+" right lung nodules,  pleural effusion,  pneumothorax",val337.jpg
+" consolidation,  effusion,  edema",val338.jpg
+" cardiac , mediastinal hilar contours,  cardiac , mediastinal hilar contours,  slight pleural thickening,  pneumothorax,  definite fracture",val339.jpg
+" tiny pleural effursion,  pleural effusion,  pneumothorax,  cardiac , hilar , mediastinal contours",val340.jpg
+" definite pneumothorax,  effusion",val341.jpg
+" upper lobectomy,  consolidation,  postoperative pneumothorax",val342.jpg
+" new consolidation,  edema,  large effusion,  pneumothorax",val343.jpg
+" cardiac , mediastinal hilar contours,  mild pulmonary edema,  pleural effusions,  atelectasis,  infection,  pneumothorax",val344.jpg
+" consolidation,  effusion,  pneumothorax",val345.jpg
+" support devices,  lung volumes,  consolidation,  pneumonia,  pneumothorax",val346.jpg
+ lobectomy,val347.jpg
+" pleural effusions,  pneumothorax",val348.jpg
+" lung volumes,  pneumothorax,  pleural effusion,  pulmonary edema",val349.jpg
+" lung volumes,  pleural effusion,  pneumothorax",val350.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes",val351.jpg
+" lung volumes,  pulmonary edema,  pneumothorax",val352.jpg
+ moderate cardiomegaly,val353.jpg
+" vascular bronchial structures,  pulmonary edema,  pneumonia,  lung nodules",val354.jpg
+" right lung nodules,  pleural effusion,  pneumothorax",val355.jpg
+" lung volumes,  atelectasis,  pneumonia,  pulmonary edema",val356.jpg
+" pneumothorax,  lobar consolidation,  pulmonary edema",val357.jpg
+chest,val358.jpg
+" pleural effusion,  pneumothorax",val359.jpg
+" pleural effusion,  pneumothorax",val360.jpg
+" pleural effusion,  pneumothorax",val361.jpg
+" pleural effusion,  pneumothorax",val362.jpg
+" mediastinal hilar contours,  widespread pulmonary metastases",val363.jpg
+ effusion,val364.jpg
+ pneumothorax,val365.jpg
+" pleural effusion,  pneumothorax",val366.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val367.jpg
+" edema,  infection,  moderate cardiomegaly",val368.jpg
+" lung volumes,  pulmonary edema,  pleural effusion,  pneumothorax",val369.jpg
+" pneumothorax,  osseous structures",val370.jpg
+" mild cardiomegaly,  bibasilar atelectasis,  evident pneumothorax pulmonary edema",val371.jpg
+" right lung,  pneumothorax,  rib fracture",val372.jpg
+" lung volumes,  pleural effusion,  pneumothorax",val373.jpg
+" lung volumes,  pleural effusions,  pneumothorax,  pulmonary vascularity",val374.jpg
+ lung volumes,val375.jpg
+" pleural effusion,  pneumothorax",val376.jpg
+" pleural effusion,  pneumothorax",val377.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val378.jpg
+chest,val379.jpg
+" pleural effusion,  pneumothorax,  edema",val380.jpg
+" pleural effusion,  pneumothorax",val381.jpg
+" edema,  mid lung,  atelectasis,  edema,  pneumothorax",val382.jpg
+chest,val383.jpg
+" large effusion,  pneumothorax,  osseous structures",val384.jpg
+ pneumothorax,val385.jpg
+" lung volumes,  effusion,  pneumothorax,  osseous structures",val386.jpg
+" atelectasis,  likely atelectasis,  consolidation,  previously pneumothorax",val387.jpg
+" multiple pulmonary nodules,  new consolidation,  effusion,  pneumothorax",val388.jpg
+" parenchymal abnormality,  emphysema,  edema,  pleural effusion,  pneumothorax,  mild cardiomegaly",val389.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val390.jpg
+" small pneumothorax,  pericardial effusion",val391.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes,  pulmonary edema",val392.jpg
+ moderate cardiomegaly,val393.jpg
+" lung,  pleural effusion",val394.jpg
+" consolidation,  pneumothorax",val395.jpg
+" pleural effusion,  pneumothorax",val396.jpg
+" pneumonia,  acute lung,  lung parenchyma,  pulmonary edema,  mediastinum hilar structures",val397.jpg
+" bibasilar atelectasis,  pleural effusion,  pneumothorax",val398.jpg
+" pulmonary edema,  edema",val399.jpg
+" definite pleural effusion,  pneumothorax,  fracture",val400.jpg
+" pleural effusion,  pulmonary vascular congestion",val401.jpg
+" lung,  pneumothorax pleural effusion,  pulmonary vascularity",val402.jpg
+" left lung,  lesions",val403.jpg
+" mild interstitial edema,  pulmonary artery,  lung volumes",val404.jpg
+" pleural effusion,  pneumothorax,  possible nondisplaced subacute rib fracture",val405.jpg
+" likely consolidation,  pleural effusion,  pneumothorax",val406.jpg
+" early consolidation,  infection,  pleural effusion,  pneumothorax,  pulmonary edema",val407.jpg
+" small pneumothorax,  effusion,  lung volume",val408.jpg
+ lung volumes,val409.jpg
+" additional nodules,  early pneumonia,  calcified pleural plaque",val410.jpg
+" pleural effusion,  pneumothorax",val411.jpg
+" pulmonary vasculature,  mild pulmonary edema,  pneumothorax,  osseous structures",val412.jpg
+ adjacent atelectasis,val413.jpg
+" pleural effusion,  pneumothorax",val414.jpg
+" intrathoracic neoesophagus,  subcutaneous emphysema,  lung volumes",val415.jpg
+" cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax,  parenchymal abnormalities,  emphysema,  small hyperdense nodules",val416.jpg
+" pleural effusion,  pneumothorax",val417.jpg
+" pleural effusion,  pneumothorax,  small granulomas",val418.jpg
+" lung volumes,  moderate cardiomegaly,  atelectasis,  pneumonia",val419.jpg
+" consolidation,  edema,  pleural effusion,  pneumothorax",val420.jpg
+" consolidation,  effusion,  pneumothorax",val421.jpg
+" atelectasis,  consolidation,  pleural effusion,  mild pulmonary edema",val422.jpg
+" cardiomegaly,  pulmonary arterial,  pneumothorax",val423.jpg
+" mild bibasilar atelectasis,  pneumonia,  pleural effusion,  pneumothorax",val424.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  granuloma,  pleural effusion,  pneumothorax",val425.jpg
+ pleural effusion,val426.jpg
+" right lung,  left lung,  pneumothorax",val427.jpg
+" pneumothorax,  pleural effusion,  pneumothorax",val428.jpg
+ pulmonary vascular cephalization,val429.jpg
+" pulmonary edema,  new consolidation,  pleural effusions,  pneumothorax",val430.jpg
+" additional nodules,  early pneumonia,  calcified pleural plaque",val431.jpg
+" pleural effusion,  pneumothorax",val432.jpg
+" effusion,  pneumothorax,  osseous structures",val433.jpg
+" pleural effusion,  pneumothorax",val434.jpg
+" lymphadenopathy,  pleural effusion,  pneumothorax",val435.jpg
+" pleural effusion,  pneumothorax,  chronic pleural thickening,  small effusion",val436.jpg
+" cardiomegaly,  interstitial edema,  alveolar edema,  consolidation,  pleural effusions,  consolidation",val437.jpg
+" mild pulmonary edema,  bibasilar atelectasis,  pneumothorax",val438.jpg
+" lung volumes,  pulmonary vascular congestion,  mild pulmonary edema,  right lung,  infection,  pleural effusions,  pneumothorax",val439.jpg
+" pleural scarring,  pleural effusion,  right hilar,  pneumonia",val440.jpg
+" pleural effusion,  pneumothorax",val441.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val442.jpg
+" pleural effusion,  pneumothorax,  osseous structures",val443.jpg
+" moderate pleural effusion,  consolidation,  atelectasis,  consolidation,  mediastinal hilar contours,  pneumothorax,  rib fractures",val444.jpg
+" bronchus,  interstitial edema,  pneumothorax",val445.jpg
+" pleural effusion,  pneumothorax",val446.jpg
+" consolidation,  effusion,  edema",val447.jpg
+" pneumonia,  pleural effusions,  pneumothorax",val448.jpg
+" perihilar pneumonia,  minimal retrocardiac atelectasis",val449.jpg
+" pleural effusion,  acute focal pneumonia",val450.jpg
+ pneumothorax,val451.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val452.jpg
+" pulmonary vasculature,  pneumothorax",val453.jpg
+" lung,  effusion,  edema",val454.jpg
+ notably pneumothorax,val455.jpg
+ atelectasis,val456.jpg
+ osseous structures,val457.jpg
+" right effusion,  atelectasis,  pneumonia,  pneumothorax",val458.jpg
+ pneumothorax,val459.jpg
+ diffuse metastatic lung disease,val460.jpg
+" pleural effusion,  pneumothorax,  fracture",val461.jpg
+ right hilar,val462.jpg
+chest,val463.jpg
+" moderate bibasilar atelectasis,  pneumothorax",val464.jpg
+" pleural effusion,  pulmonary edema,  pneumothorax",val465.jpg
+" cardiac , mediastinal hilar contours,  edema,  definite effusion,  pneumothorax",val466.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val467.jpg
+" pleural effusion,  pneumothorax",val468.jpg
+ effusion,val469.jpg
+" pleural effusion,  pneumothorax",val470.jpg
+" mild cardiomegaly,  pulmonary vascular engorgement",val471.jpg
+" cardiac , mediastinal , hilar contours,  pleural effusions,  pneumothorax",val472.jpg
+" multifocal pneumonia atypical infection,  viral infection,  pleural effusion,  edema,  pneumothorax",val473.jpg
+" infection,  atelectasis,  pneumothorax",val474.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val475.jpg
+" effusion,  pneumothorax,  mild cardiomegaly",val476.jpg
+" effusion,  pneumothorax,  small granuloma",val477.jpg
+ secondary bibasilar atelectasis,val478.jpg
+" pleural space,  appreciable pneumothorax",val479.jpg
+" right lung,  consolidation,  tumor,  pleural effusion,  pneumothorax",val480.jpg
+" lung parenchyma,  atelectasis",val481.jpg
+" lung volumes,  effusion,  pneumothorax,  osseous structures",val482.jpg
+" pleural effusion,  pneumothorax,  bibasilar atelectasis",val483.jpg
+" right lung,  calcifications,  pleural effusion,  pneumothorax",val484.jpg
+" right lung,  left lung,  pneumothorax",val485.jpg
+" normal hilar mediastinal structures,  pneumothorax,  pulmonary edema,  lung nodules",val486.jpg
+" pleural effusion,  pneumothorax",val487.jpg
+" pleural effusion,  pneumothorax",val488.jpg
+" pleural effusion,  pneumothorax,  fracture",val489.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  minimal subsegmental atelectasis,  pleural effusion",val490.jpg
+" pleural effusion,  pneumothorax",val491.jpg
+" lung volumes,  atelectasis,  large pleural effusions,  pneumothorax,  calcifications",val492.jpg
+" bilateral diffuse metastatic lung disease,  pneumothorax",val493.jpg
+ consolidation,val494.jpg
+ pleural effusion,val495.jpg
+" small effusion,  right lung base pneumothorax,  apical pneumothorax",val496.jpg
+" vague consolidation,  left lung,  pneumonia,  large effusion,  right lung",val497.jpg
+" right lung,  moderate pulmonary edema,  moderate cardiomegaly,  pneumothorax",val498.jpg
+ pneumothorax,val499.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val500.jpg
+" pulmonary vascularity,  small pleural effusions",val501.jpg
+chest,val502.jpg
+" effusion,  pneumothorax",val503.jpg
+chest,val504.jpg
+" lung volumes,  atelectasis,  large pleural effusions,  pneumothorax,  calcifications",val505.jpg
+" residual pneumonia,  pleural effusion,  pneumothorax",val506.jpg
+ pneumothorax,val507.jpg
+" pulmonary vascularity,  pneumothorax",val508.jpg
+" atelectasis,  pleural effusion,  pneumothorax",val509.jpg
+" pneumothorax,  fracture",val510.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val511.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val512.jpg
+" atelectasis,  atelectasis,  infection",val513.jpg
+" atelectasis,  consolidation,  right lung,  pleural effusion,  fracture",val514.jpg
+" low lung,  atelectasis,  likely pneumonia,  pneumothorax,  effusion,  osseous structures",val515.jpg
+" pleural effusion,  pneumothorax",val516.jpg
+" cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax",val517.jpg
+" large effusion,  pulmonary vascular congestion",val518.jpg
+" adjacent atelectasis,  pneumothorax",val519.jpg
+" mediastinal hilar contours,  pulmonary vascularity",val520.jpg
+" cardiomediastinal silhouette pulmonary vasculature,  pleural effusion,  pneumothorax",val521.jpg
+" moderate cardiomegaly,  mediastinal hilar contours,  pulmonary vascular,  atelectasis,  granuloma,  left lung,  pneumothorax",val522.jpg
+" atelectasis,  pleural effusion,  pneumothorax",val523.jpg
+" left lung,  acute lung abnormality,  pulmonary edema",val524.jpg
+" mild bibasilar atelectasis,  pleural effusion,  pneumothorax,  pulmonary edema",val525.jpg
+" devices,  pulmonary edema,  widespread pneumonia",val526.jpg
+" moderate cardiomegaly,  support devices",val527.jpg
+" pleural effusion,  pneumothorax",val528.jpg
+ secondary bibasilar atelectasis,val529.jpg
+" edema,  moderate cardiomegaly,  pulmonary vasculature",val530.jpg
+" pleural effusion,  pneumothorax,  pneumonia,  pulmonary vasculature",val531.jpg
+" pneumonia,  parenchymal lung disease,  normal hilar",val532.jpg
+" lobar consolidation,  pleural effusion,  pneumothorax,  multiple osseous metastases",val533.jpg
+" pleural effusion,  pneumothorax,  osseous structures",val534.jpg
+" lung parenchyma,  emphysema,  mild edema,  pleural effusion",val535.jpg
+" mild cardiomegaly,  effusion,  pneumothorax,  osseous structures",val536.jpg
+chest,val537.jpg
+" lung volumes,  pleural effusion,  pneumothorax,  rib fracture,  atelectasis",val538.jpg
+" monitoring devices,  persistent pulmonary vascular,  pulmonary edema",val539.jpg
+" pleural effusion,  pneumothorax",val540.jpg
+" pleural effusion,  pneumothorax,  mild biapical pleural thickening",val541.jpg
+" consolidation,  pancoast tumor",val542.jpg
+" unremarkable mediastinal , hilar cardiac contours,  pleural effusion,  pneumothorax",val543.jpg
+" pneumonia,  pleural effusion,  pneumothorax,  granuloma,  previously multiple lung nodules,  aortic calcifications",val544.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val545.jpg
+" lung,  small effusion",val546.jpg
+" lung volumes,  pleural effusion,  pneumothorax",val547.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val548.jpg
+" pulmonary edema,  pneumothorax,  adjacent atelectasis",val549.jpg
+" consolidation,  effusion,  pulmonary vascular",val550.jpg
+" atelectasis,  pleural effusion,  pneumothorax,  mediastinal hilar contours,  pulmonary vascular congestion",val551.jpg
+" lung volumes,  pulmonary parenchyma,  atelectasis,  pneumothorax",val552.jpg
+" pleural effusion,  pneumothorax",val553.jpg
+" cardiac , mediastinal hilar contours,  mild pulmonary edema,  pleural effusions,  atelectasis,  infection,  pneumothorax",val554.jpg
+" devices,  pulmonary edema,  cardiomegaly",val555.jpg
+" lung volumes,  cardiac , mediastinal hilar contours,  stable cardiomegaly,  pleural effusions,  pneumothorax",val556.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val557.jpg
+" moderate cardiomegaly,  lateral pleural sinuses,  pleural effusion,  posteriorly dependent pleural sinuses,  acute pneumonia,  pneumothorax",val558.jpg
+ pleural fluid,val559.jpg
+" pleural effusion,  pneumothorax,  fractures",val560.jpg
+" lung volume,  right atelectasis,  pleural effusion,  left atelectasis",val561.jpg
+" pleural effusion,  pneumothorax,  acute fractures",val562.jpg
+" pulmonary edema,  effusion",val563.jpg
+" atelectasis,  pleural effusion,  pneumothorax",val564.jpg
+" cardiac , hilar mediastinal contours,  pleural abnormality",val565.jpg
+" pleural effusion,  left pneumothorax,  right lung",val566.jpg
+" lung volumes,  mild pulmonary edema mediastinal structures",val567.jpg
+" parenchymal disease,  pleural effusion,  osseous structures,  osseous structures,  pneumothorax",val568.jpg
+" upper lobectomy,  cardiomegaly,  pulmonary vasculature,  pleural effusion,  pneumothorax,  acute abnormality intrathoracic malignancy",val569.jpg
+chest,val570.jpg
+" left lung,  right lung,  moderate cardiomegaly",val571.jpg
+" pulmonary vasculature,  lateral pleural sinuses,  pleural structures",val572.jpg
+" lower lung,  pneumothorax,  atelectasis,  right lung",val573.jpg
+chest,val574.jpg
+ consolidation,val575.jpg
+" cardiomegaly,  bibasilar atelectasis,  pleural effusion,  pneumothorax",val576.jpg
+" pulmonary interstitium,  pleural effusion,  pneumothorax",val577.jpg
+" mild cardiomegaly,  atelectasis,  pulmonary edema,  pleural effusion,  pneumothorax",val578.jpg
+ pneumonia,val579.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val580.jpg
+" pleural effusion,  pneumothorax",val581.jpg
+" pleural effusion,  pneumothorax",val582.jpg
+" moderate cardiomegaly,  pulmonary edema,  pleural effusion,  pneumothorax",val583.jpg
+ pulmonary vessels,val584.jpg
+" mediastinal hilar contours,  pleural effusions,  pneumothorax",val585.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val586.jpg
+" mediastinal hilar contours,  atelectasis,  pleural effusion",val587.jpg
+" new consolidation,  left lung,  effusion,  atherosclerotic calcifications",val588.jpg
+" atelectasis,  consolidation,  mild pulmonary edema,  pneumothorax",val589.jpg
+chest,val590.jpg
+" pleural effusion,  pneumothorax",val591.jpg
+" prior right lung resection,  pleural effusion,  right lung",val592.jpg
+" malignancy,  right lung,  widespread metastatic disease",val593.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val594.jpg
+" acute intrathoracic,  obstructive lung disease,  mediastinum pleural structures,  calcifications,  suspicious osseous lesions",val595.jpg
+" mild cardiomegaly,  infection,  atelectasis,  pneumothorax,  pleural effusion",val596.jpg
+" pneumonia,  mediastinal hilar contours,  pneumothorax",val597.jpg
+" pleural effusion,  pneumothorax",val598.jpg
+" lung volumes,  cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax",val599.jpg
+" chronic obstructive pulmonary disease,  right lower lung granuloma,  pneumothorax",val600.jpg
+ pneumothorax,val601.jpg
+" large effusion,  pulmonary vascular congestion",val602.jpg
+" lung volumes,  cardiac , mediastinal hilar contours,  stable cardiomegaly,  pleural effusions,  pneumothorax",val603.jpg
+" pleural fluid,  pneumothorax",val604.jpg
+" pneumothorax,  cardiomegaly,  effusion,  atelectasis,  hematoma",val605.jpg
+" mediastinal hilar contours,  widespread pulmonary metastases",val606.jpg
+ mediastinal hilar contours,val607.jpg
+" lung volumes,  cardiomegaly,  pleural effusion,  pneumothorax present",val608.jpg
+chest,val609.jpg
+ pleural thickening,val610.jpg
+" pleural effusion,  pneumothorax",val611.jpg
+" effusion,  pneumothorax",val612.jpg
+" effusion,  pneumothorax",val613.jpg
+" vasculature,  atelectasis,  pleural effusion,  mediastinal",val614.jpg
+" pneumothorax,  pulmonary vasculature hilar structures,  osseous structures",val615.jpg
+" pleural effusion,  pneumothorax",val616.jpg
+" effusion,  pneumothorax",val617.jpg
+" vasculature,  pleural effusion,  pneumothorax",val618.jpg
+" pneumothorax,  fracture",val619.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes,  pulmonary edema",val620.jpg
+ osseous structures,val621.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  atelectasis,  pleural effusion,  pneumothorax,  mildly fractures",val622.jpg
+" lung,  atelectasis,  infection",val623.jpg
+" atelectasis,  early pneumonia",val624.jpg
+" pleural effusion,  pneumothorax,  edema,  mild atelectasis",val625.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val626.jpg
+" pulmonary interstitium,  pleural effusion,  pneumothorax",val627.jpg
+" pneumonia,  pneumonia,  large effusion,  pneumothorax",val628.jpg
+" definite consolidation,  mediastinal hilar contours,  pulmonary vasculature,  pleural effusion",val629.jpg
+chest,val630.jpg
+" pleural effusion,  pneumothorax",val631.jpg
+" pleural effusion,  pneumothorax",val632.jpg
+" acute intrathoracic,  obstructive lung disease,  mediastinum pleural structures,  calcifications,  suspicious osseous lesions",val633.jpg
+" moderate pulmonary edema,  pneumothorax,  pulmonary effusion",val634.jpg
+" pleural effusion,  acute focal pneumonia",val635.jpg
+" pneumothorax,  infection,  pleural effusion,  atelectasis,  cardiomegaly",val636.jpg
+" mild interstitial edema,  pulmonary artery,  lung volumes",val637.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val638.jpg
+ pleural effusion,val639.jpg
+" consolidation,  mediastinal hilar contours",val640.jpg
+" pleural effusion,  pneumothorax",val641.jpg
+" mild cardiomegaly,  mild pulmonary edema,  atelectasis,  infection,  pneumothorax,  osseous structures",val642.jpg
+" pulmonary vascularity,  edema,  likely atelectasis",val643.jpg
+" infection,  pleural effusion,  pneumothorax",val644.jpg
+" pulmonary vascularity,  atelectasis,  pneumonia,  pneumothorax",val645.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val646.jpg
+" nodule,  lymphadenopathy,  pulmonary vascular structures,  definite pleural effusion",val647.jpg
+" pneumothorax,  consolidation,  pleural effusion",val648.jpg
+" mediastinal hilar contours,  pneumothorax,  effusion",val649.jpg
+" effusion,  pneumothorax,  osseous structures",val650.jpg
+ pneumothorax lungs,val651.jpg
+" consolidation,  effusion,  edema",val652.jpg
+" pleural effusion,  pneumothorax",val653.jpg
+" effusion,  pneumothorax",val654.jpg
+" persistent bibasilar retrocardiac atelectasis,  lung volumes,  cardiomegaly,  pneumothorax",val655.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val656.jpg
+" diffuse bilateral pulmonary nodules,  adjacent atelectasis,  pleural effusion,  right lung,  pneumothorax",val657.jpg
+" effusion,  right lung,  consolidation,  trace effusion",val658.jpg
+ effusion,val659.jpg
+" substantial cardiomegaly,  frank pneumonia",val660.jpg
+" pleural effusion,  acute pneumonia",val661.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val662.jpg
+" pulmonary vasculature,  pneumonia,  pleural effusion,  pneumothorax",val663.jpg
+" effusion,  pneumothorax,  osseous structures",val664.jpg
+" cardiac , mediastinal , hilar contours,  pneumothorax",val665.jpg
+" pleural effusion,  pneumothorax,  atherosclerotic calcifications,  osseous structures",val666.jpg
+ left pneumothorax,val667.jpg
+" calcifications,  pleural effusion,  pneumothorax",val668.jpg
+ lung volumes,val669.jpg
+" bibasilar atelectasis,  pneumothorax",val670.jpg
+ acute focal pneumonia,val671.jpg
+" consolidation,  pneumonia,  pleural effusion,  pneumothorax",val672.jpg
+" pleural effusion,  pneumothorax",val673.jpg
+" pleural effusion,  pneumothorax",val674.jpg
+" large effusion,  pneumothorax,  consolidation,  edema",val675.jpg
+" pleural effusion pneumothorax,  pneumonia,  pulmonary vascularity",val676.jpg
+" pneumothorax,  pleural effusion",val677.jpg
+ pneumonia,val678.jpg
+" severe cardiomegaly,  pneumothorax,  pleural effusion",val679.jpg
+" pleural effusion,  pneumothorax,  lower lung",val680.jpg
+" lung volumes,  pulmonary vasculature,  moderate cardiomegaly,  pneumonia",val681.jpg
+" interstitial edema,  mid lung atelectasis,  pneumothorax",val682.jpg
+" lung volumes,  basilar atelectasis,  atherosclerotic calcifications",val683.jpg
+" right lung base atelectasis,  pulmonary edema",val684.jpg
+" right lung base opacity,  pleural effusion,  pulmonary edema,  emphysema,  hilar mediastinal silhouettes",val685.jpg
+" pulmonary vascularity,  small pleural effusions",val686.jpg
+" calcifications,  pleural effusion",val687.jpg
+" pleural effusion,  pulmonary edema,  aneurysm",val688.jpg
+" pneumothorax,  bibasilar atelectasis",val689.jpg
+" lymphadenopathy,  consolidation,  pleural effusion,  pneumothorax",val690.jpg
+" pneumothorax,  surgical rib fracture",val691.jpg
+" pulmonary edema,  atelectasis,  pneumonia,  pneumothorax",val692.jpg
+" lung volume,  right atelectasis,  pleural effusion,  left atelectasis",val693.jpg
+" lung,  cardiomegaly",val694.jpg
+" effusion,  atelectasis,  lymphadenopathy,  consolidation,  consolidation",val695.jpg
+" lung volumes,  moderate cardiomegaly,  atelectasis,  mediastinal veins",val696.jpg
+" lung volumes,  overt edema,  pleural effusion,  pneumothorax",val697.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val698.jpg
+" pleural effusion,  pulmonary congestion,  pneumothorax",val699.jpg
+ pneumothorax,val700.jpg
+" pneumonia,  left lung,  pneumothorax pleural effusion",val701.jpg
+" right lung,  left lung,  pneumothorax",val702.jpg
+" consolidation,  pleural effusion,  pneumothorax,  sarcoidosis",val703.jpg
+" pulmonary edema,  pneumothorax",val704.jpg
+" right lung,  left lung,  pneumothorax",val705.jpg
+" mediastinal hilar contours,  pneumonia,  pleural effusion,  pneumothorax",val706.jpg
+" hilar mediastinal contours,  consolidation,  pneumothorax,  effusion",val707.jpg
+" pleural effusion,  pneumothorax",val708.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val709.jpg
+" moderate cardiomegaly,  mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val710.jpg
+" pleural effusion,  pneumothorax",val711.jpg
+" right lung,  support devices,  left lung",val712.jpg
+" pneumothorax,  pleural effusion,  consolidation",val713.jpg
+" right effusion,  atelectasis,  pneumonia,  pneumothorax",val714.jpg
+" pleural effusion,  pneumothorax",val715.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val716.jpg
+" tissue thickening,  lung parenchyma,  pleural,  pneumothorax",val717.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val718.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val719.jpg
+chest,val720.jpg
+chest,val721.jpg
+" new effusion,  pneumothorax",val722.jpg
+" emphysema,  acute fractures",val723.jpg
+ osseous soft tissue structures,val724.jpg
+chest,val725.jpg
+" cardiomegaly,  pulmonary vascular markings,  atelectasis",val726.jpg
+" basal platelike atelectasis,  pneumonia,  edema,  effusion,  pneumothorax",val727.jpg
+" basilar atelectasis,  pleural effusion,  pneumothorax",val728.jpg
+" upper lung opacity,  pneumonia,  large effusion,  pneumothorax",val729.jpg
+chest,val730.jpg
+" effusion,  pneumothorax,  osseous structures",val731.jpg
+" diaphragmatic flattening mediastinal shift,  mid rib fractures",val732.jpg
+" mediastinal hilar contours,  bilateral hilar lymph,  pulmonary vasculature,  pneumothorax",val733.jpg
+" consolidation,  pneumothorax,  pulmonary edema pleural effusions",val734.jpg
+" mediastinal hilar contours,  malignancy status,  atelectasis,  infection,  pleural effusion,  pneumothorax,  pulmonary vascular congestion",val735.jpg
+" mild bibasilar atelectasis,  mediastinal hilar contours,  pleural effusion,  pneumothorax",val736.jpg
+" pleural scarring,  pleural effusion,  right hilar,  pneumonia",val737.jpg
+" effusion,  right lung,  consolidation,  trace effusion",val738.jpg
+" atelectasis,  consolidation,  pleural effusion,  mild pulmonary edema",val739.jpg
+" mild cardiomegaly,  interstitial edema,  frank consolidation",val740.jpg
+" atelectasis,  pneumothorax",val741.jpg
+" pneumothorax,  pleural effusion,  edema",val742.jpg
+" mediastinal hilar contours,  subsegmental atelectasis,  pleural effusion,  pneumothorax",val743.jpg
+chest,val744.jpg
+" effusion,  pneumothorax,  pulmonary vascular congestion,  rib fractures",val745.jpg
+" pleural effusion,  pneumothorax",val746.jpg
+chest,val747.jpg
+" consolidation,  lung,  pleural effusion,  pneumothorax",val748.jpg
+" pleural effusion,  pneumothorax,  granuloma",val749.jpg
+" cardiac , mediastinal , hilar contours,  lung volumes,  atelectasis,  vasculature",val750.jpg
+" lung volumes,  pleural effusion,  pulmonary vascular congestion,  pneumothorax",val751.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  basilar atelectasis,  left lung,  pneumothorax",val752.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val753.jpg
+ pneumothorax pleural effusion,val754.jpg
+" lung volumes,  effusion,  pneumothorax,  hilar mediastinal silhouettes,  pulmonary edema",val755.jpg
+" pneumothorax,  cardiomegaly,  interstitial alveolar edema,  pleural fluid,  consolidation",val756.jpg
+" bibasilar atelectasis,  pleural effusion,  pneumothorax",val757.jpg
+" pleural effusion,  pneumothorax,  pneumonia,  pulmonary vasculature",val758.jpg
+" pleural effusion,  pneumothorax",val759.jpg
+" effusion,  osseous soft tissue structures",val760.jpg
+" consolidation,  bronchiectasis,  pneumonia,  left lung,  pneumonia,  multiple granulomas,  pleural effusion,  pneumothorax",val761.jpg
+ effusion,val762.jpg
+chest,val763.jpg
+" pulmonary vasculature,  lateral pleural sinuses,  pneumothorax",val764.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val765.jpg
+ pneumothorax,val766.jpg
+" lung volumes,  hilar,  effusion,  pneumothorax",val767.jpg
+ acute pulmonary edema,val768.jpg
+" pleural effusion,  pneumothorax",val769.jpg
+" pneumonia,  pneumothorax",val770.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val771.jpg
+chest,val772.jpg
+" lung volumes,  pleural effusion,  pulmonary vascular congestion,  pneumothorax",val773.jpg
+" lung volumes,  pulmonary vasculature,  pneumothorax,  effusion,  pulmonary vascularity",val774.jpg
+" moderate cardiomegaly,  moderate pulmonary edema",val775.jpg
+" pneumothorax,  pleural effusion,  consolidation",val776.jpg
+" pleural effusion,  pneumothorax",val777.jpg
+" effusion,  pneumothorax",val778.jpg
+ lung parenchyma,val779.jpg
+" lobar consolidation,  pleural effusion,  pneumothorax,  multiple osseous metastases",val780.jpg
+ right lung,val781.jpg
+" granuloma,  effusion,  pneumothorax",val782.jpg
+" lung,  mild pulmonary vascular,  pneumothorax",val783.jpg
+" notably pneumothorax,  basal atelectasis",val784.jpg
+" pleural effusion,  pneumothorax",val785.jpg
+" pneumothorax,  effusion",val786.jpg
+ pulmonary vessels,val787.jpg
+" atelectasis,  pleural effusion,  pneumothorax",val788.jpg
+ support devices,val789.jpg
+" bibasilar atelectasis,  effusion,  pneumothorax,  atherosclerotic calcifications",val790.jpg
+chest,val791.jpg
+" pleural effusion,  pneumothorax",val792.jpg
+" pleural effusion,  pneumothorax,  pulmonary vascular congestion",val793.jpg
+" pneumothorax,  probable cardiomegaly,  consolidation,  chf pleural parenchymal",val794.jpg
+" support devices,  known pneumocystis carinii pneumonia",val795.jpg
+" pleural effusion,  pneumothorax",val796.jpg
+chest,val797.jpg
+" pulmonary vasculature,  pleural effusion,  pneumothorax,  bronchiectasis",val798.jpg
+" pulmonary vascular congestion,  pulmonary edema,  pneumothorax,  effusion",val799.jpg
+" pleural effusion,  pneumothorax",val800.jpg
+" effusion,  mild cardiomegaly",val801.jpg
+" pneumothorax,  pneumonia,  pleural effusion",val802.jpg
+" pulmonary vasculature,  pneumothorax",val803.jpg
+" pleural effusion,  pulmonary edema,  pneumothorax",val804.jpg
+" left lung,  left lung,  right lung,  pneumothorax,  pulmonary edema",val805.jpg
+" consolidation,  pleural effusion,  pneumothorax",val806.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val807.jpg
+chest,val808.jpg
+" effusion,  pneumothorax",val809.jpg
+" engorged pulmonary vasculature,  cardiomegaly,  moderate pulmonary edema,  left lung,  atelectasis,  pneumothorax",val810.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val811.jpg
+" pleural effusion,  pneumothorax,  hilar structures",val812.jpg
+ pneumothorax,val813.jpg
+" low lung,  acute focal pneumonia,  pleural effusion",val814.jpg
+" effusion,  atelectasis",val815.jpg
+" left lung,  atelectasis,  hilar mediastinal contours",val816.jpg
+" engorged pulmonary vasculature,  cardiomegaly,  moderate pulmonary edema,  atelectasis,  pneumothorax",val817.jpg
+chest,val818.jpg
+" lung,  pleural effusion",val819.jpg
+" early interstitial lung disease,  pleural effusion,  pneumothorax",val820.jpg
+ pneumothorax,val821.jpg
+" moderate pulmonary edema,  pneumothorax",val822.jpg
+" effusion,  edema,  pneumothorax",val823.jpg
+" effusion,  pulmonary edema,  consolidation,  pneumothorax,  small granuloma,  mild calcifications",val824.jpg
+ pneumothorax,val825.jpg
+" right lung,  pleural effusions,  pneumothorax",val826.jpg
+" pleural effusion,  pneumothorax",val827.jpg
+" atelectasis,  lung,  pulmonary edema,  pleural effusion,  mediastinal hilar contours",val828.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val829.jpg
+ pleural effusion,val830.jpg
+" consolidation,  hilar mediastinal regions,  pleural effusion,  pneumothorax",val831.jpg
+" edema,  pneumonia",val832.jpg
+" bibasilar retrocardiac atelectasis,  pneumonia,  left lung,  pneumothorax",val833.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes",val834.jpg
+ osseous structures,val835.jpg
+ acute focal pneumonia,val836.jpg
+" resection,  lung parenchyma,  pneumonia,  pulmonary edema,  normal hilar",val837.jpg
+" pleural effusions,  vasculature",val838.jpg
+ pneumothorax,val839.jpg
+" lung volumes,  bibasilar atelectasis,  hilar congestion,  mild pulmonary edema,  calcifications",val840.jpg
+" mild cardiomegaly,  mild pulmonary edema,  atelectasis,  infection,  pneumothorax,  osseous structures",val841.jpg
+" pneumothorax,  lobar consolidation,  pulmonary edema",val842.jpg
+" pulmonary vascular congestion,  pleural effusion,  pneumothorax",val843.jpg
+" pleural effusion,  pneumothorax",val844.jpg
+chest,val845.jpg
+" pneumothorax pleural effusion,  osseous structures",val846.jpg
+" lung volumes,  edema,  atelectasis,  pneumothorax",val847.jpg
+chest,val848.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val849.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val850.jpg
+" pulmonary vascular congestion,  consolidation,  nodules",val851.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val852.jpg
+" right atelectasis,  left lung",val853.jpg
+" lesions,  left retrocardiac atelectasis,  lung,  pulmonary edema,  moderate cardiomegaly,  pneumothorax",val854.jpg
+" edema,  pleural effusion",val855.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes,  pulmonary edema",val856.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val857.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pulmonary edema,  pleural effusion,  pneumothorax",val858.jpg
+" left lung,  right lung",val859.jpg
+" lung parenchyma,  pneumothorax,  pleural,  normal hilar",val860.jpg
+ support devices,val861.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val862.jpg
+" mild lower lung atelectasis,  large effusion,  pneumothorax",val863.jpg
+" pleural effusion,  pneumothorax,  fracture",val864.jpg
+" right lung,  lung,  upper lobectomy",val865.jpg
+" effusion,  pneumothorax,  osseous soft tissue structures",val866.jpg
+" mediastinal hilar contours,  pleural effusion",val867.jpg
+" consolidation,  effusion,  pneumothorax",val868.jpg
+chest,val869.jpg
+" biapical pleural thickening,  pleural effusion,  pneumothorax,  rib fracture",val870.jpg
+" emphysema,  pleural effusion",val871.jpg
+" pleural effusion,  acute focal pneumonia",val872.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val873.jpg
+" mediastinal hilar contours,  pneumothorax",val874.jpg
+" effusion,  pneumothorax,  small granuloma",val875.jpg
+" lung volumes,  mediastinal hilar contours,  atelectasis,  pleural effusion,  pneumothorax,  osseous structures",val876.jpg
+ lung volumes,val877.jpg
+chest,val878.jpg
+" pulmonary vasculature,  interstitial alveolar edema,  acute pulmonary parenchymal infiltrates,  pneumothorax",val879.jpg
+" pneumothorax,  pleural effusion,  pulmonary edema",val880.jpg
+" pleural effusion,  lobe atelectasis,  small effusion,  pneumothorax,  cardiomegaly",val881.jpg
+ pulmonary metastases,val882.jpg
+" pulmonary vascularity,  left lung,  low lung,  effusion,  pneumonia",val883.jpg
+" pleural effusion,  pneumothorax,  prior fractures",val884.jpg
+" pleural effusion,  pneumothorax",val885.jpg
+" lung volumes,  pulmonary vascular congestion,  pleural effusion,  pneumothorax",val886.jpg
+ pleural effusion,val887.jpg
+" pleural effusions,  pneumothorax",val888.jpg
+" interstitial edema,  mid lung atelectasis,  pneumothorax",val889.jpg
+" atelectasis,  consolidation,  mild pulmonary edema,  pneumothorax",val890.jpg
+" pleural effusion,  pneumothorax",val891.jpg
+" pleural effusion,  pneumothorax",val892.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val893.jpg
+" pulmonary opacity,  chronic obstructive pulmonary disease,  pleural effusion,  pneumothorax",val894.jpg
+chest,val895.jpg
+" vasculature,  atelectasis,  pleural effusion,  mediastinal",val896.jpg
+ pneumothorax,val897.jpg
+" pneumothorax,  minimal lung,  pulmonary vessel",val898.jpg
+" lower lung,  pleural effusion,  pneumothorax,  rib fracture",val899.jpg
+" cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax",val900.jpg
+ lung volumes,val901.jpg
+" pleural effusion,  pneumothorax,  osseous abnormality",val902.jpg
+" diffuse bilateral pulmonary nodules,  adjacent atelectasis,  pleural effusion,  right lung,  pneumothorax",val903.jpg
+" pneumonia,  fracture",val904.jpg
+" effusion,  pneumothorax,  mild cardiomegaly",val905.jpg
+" left effusion,  fractures,  pneumothorax",val906.jpg
+chest,val907.jpg
+" pleural effusion,  pneumothorax",val908.jpg
+" pulmonary vasculature,  pneumothorax,  pulmonary vasculature,  acute pulmonary parenchymal infiltrates",val909.jpg
+" chronic atelectasis,  previously pulmonary edema,  mild cardiomegaly",val910.jpg
+" lung volumes,  pleural effusion,  pneumothorax",val911.jpg
+" pleural effusion,  pneumothorax",val912.jpg
+" pulmonary vasculature,  pleural effusion,  pneumothorax,  bronchiectasis",val913.jpg
+ pulmonary vascular cephalization,val914.jpg
+" lung volumes,  pleural effusion,  pneumothorax,  edema",val915.jpg
+" pleural effusion,  pneumothorax",val916.jpg
+" pleural effusion,  pneumothorax",val917.jpg
+ pneumothorax,val918.jpg
+chest,val919.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  granuloma,  pleural effusion,  pneumothorax",val920.jpg
+" atelectasis,  pleural abnormalities,  pneumothorax",val921.jpg
+" chronic obstructive pulmonary disease,  right lower lung granuloma,  pneumothorax",val922.jpg
+chest,val923.jpg
+" pulmonary edema,  pneumothorax",val924.jpg
+ pleural thickening,val925.jpg
+" pleural effusion,  pneumothorax",val926.jpg
+" effusion,  pneumothorax,  osseous structures",val927.jpg
+" effusion,  pneumothorax",val928.jpg
+" lung volumes,  cardiac , mediastinal hilar contours,  stable cardiomegaly,  pleural effusions,  pneumothorax",val929.jpg
+" pleural effusion,  pneumothorax",val930.jpg
+ pneumothorax,val931.jpg
+" pleural effusion,  cardiomegaly",val932.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val933.jpg
+" lung volumes,  pneumonia,  pulmonary vasculature",val934.jpg
+" pneumonia,  parenchymal lung disease,  normal hilar",val935.jpg
+ acute focal pneumonia,val936.jpg
+" pulmonary vasculature,  interstitial alveolar edema,  acute pulmonary parenchymal infiltrates,  pneumothorax",val937.jpg
+" airway,  tracheal deviation,  basal atelectasis,  pleural effusion,  pneumothorax,  mild cardiomegaly",val938.jpg
+" atelectasis,  pneumothorax",val939.jpg
+" left lung,  mediastinal hilar contours,  pulmonary edema,  pneumothorax",val940.jpg
+chest,val941.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val942.jpg
+" pleural effusion,  pneumothorax",val943.jpg
+" effusion,  pneumothorax,  osseous structures",val944.jpg
+" new pulmonary vascular cephalization,  atelectasis,  substantial pneumothorax,  mild cardiomegaly",val945.jpg
+" pleural effusion,  pulmonary congestion,  pneumothorax",val946.jpg
+" extensive consolidation,  pneumonia,  pneumonia,  large pneumothorax,  effusion",val947.jpg
+" pneumonia,  pleural effusion,  pneumothorax,  osseous abnormality",val948.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes,  pulmonary edema",val949.jpg
+chest,val950.jpg
+" lung volumes,  overt edema,  pleural effusion,  pneumothorax",val951.jpg
+" pleural effusion,  pneumothorax",val952.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema,  normal mediastinal hilar contours",val953.jpg
+" fracture,  pulmonary vasculature,  pleural effusion,  pneumothorax",val954.jpg
+" atelectasis,  pleural effusion,  pneumothorax,  mediastinal hilar contours,  pulmonary vascular congestion",val955.jpg
+chest,val956.jpg
+" support devices,  pleural effusion,  atelectasis",val957.jpg
+" mild cardiomegaly,  infection,  atelectasis,  pneumothorax,  pleural effusion",val958.jpg
+ atelectasis,val959.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax,  rib fracture",val960.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val961.jpg
+chest,val962.jpg
+" lung volumes,  hilar,  effusion,  pneumothorax",val963.jpg
+" pulmonary edema,  pneumothorax",val964.jpg
+ pneumothorax pulmonary edema,val965.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val966.jpg
+" pleural effusion,  pneumothorax",val967.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val968.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val969.jpg
+" pleural effusion,  pneumothorax",val970.jpg
+" atelectasis,  early pneumonia",val971.jpg
+" effusion,  edema",val972.jpg
+ lower lung opacity,val973.jpg
+" lung volumes,  pulmonary artery,  atelectasis,  pneumothorax",val974.jpg
+" pneumothorax,  pleural effusion,  pulmonary vascularity",val975.jpg
+" lung volumes,  overt edema,  pleural effusion,  pneumothorax",val976.jpg
+" effusion,  pneumothorax",val977.jpg
+" cardiac , hilar mediastinal contours,  pleural abnormality",val978.jpg
+ right hilar,val979.jpg
+" effusion,  pneumothorax,  osseous soft tissue structures",val980.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val981.jpg
+" moderate cardiomegaly,  lateral pleural sinuses,  pleural effusion,  posteriorly dependent pleural sinuses,  acute pneumonia,  pneumothorax",val982.jpg
+" pulmonary interstitium,  pleural effusion,  pneumothorax",val983.jpg
+" pneumothorax,  lobar consolidation,  pulmonary edema",val984.jpg
+" effusion,  pneumothorax",val985.jpg
+" mediastinal hilar contours,  atelectasis,  pleural effusion",val986.jpg
+" particular pneumonia,  pulmonary edema,  pneumothorax",val987.jpg
+" mild bibasilar atelectasis,  pleural effusion,  pneumothorax",val988.jpg
+" pleural effusion,  pneumothorax",val989.jpg
+" pleural abnormality,  pneumonia,  mediastinal hilar contours",val990.jpg
+" pneumonia,  pneumothorax",val991.jpg
+" new consolidation,  left lung,  effusion,  atherosclerotic calcifications",val992.jpg
+" lung volumes,  bronchovascular atelectasis,  pneumonia,  effusion,  pneumothorax",val993.jpg
+" lung volumes,  atelectasis,  infection,  pleural effusion,  pneumothorax",val994.jpg
+ effusion,val995.jpg
+" atelectasis,  consolidation",val996.jpg
+" atelectasis,  consolidation,  pneumothorax",val997.jpg
+" atelectasis,  lung,  pulmonary edema,  pleural effusion,  mediastinal hilar contours",val998.jpg
+" lung volumes,  pulmonary vascular congestion,  mild pulmonary edema,  right lung,  infection,  pleural effusions,  pneumothorax",val999.jpg
+" pleural effusion,  pneumothorax",val1000.jpg
+" pulmonary vascularity,  retrocardiac atelectasis",val1001.jpg
+" pleural effusion,  pneumothorax",val1002.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1003.jpg
+" right pneumothorax,  right effusion,  left effusion",val1004.jpg
+" unremarkable mediastinal hilar contours,  lung volumes,  mild bibasilar atelectasis,  mild pleural thickening,  fracture",val1005.jpg
+" consolidation,  effusion,  pulmonary vascular",val1006.jpg
+" cardiac , hilar mediastinal contours,  pleural abnormality",val1007.jpg
+" pneumothorax pleural effusion,  osseous structures",val1008.jpg
+" consolidation,  pneumonia,  retrocardiac atelectasis,  pneumothorax,  pulmonary edema,  right granuloma",val1009.jpg
+" atelectasis,  consolidation",val1010.jpg
+" pulmonary vasculature,  mild pulmonary edema,  thickening,  atelectasis,  pneumothorax",val1011.jpg
+" pulmonary vascularity,  pneumothorax",val1012.jpg
+" diffuse bilateral pulmonary nodules,  pneumothorax",val1013.jpg
+" consolidation,  pneumothorax,  pulmonary edema pleural effusions",val1014.jpg
+" adjacent atelectasis,  nodules,  metastatic disease,  pneumothorax",val1015.jpg
+chest,val1016.jpg
+" pneumothorax,  cardiomegaly,  interstitial alveolar edema,  pleural fluid,  consolidation",val1017.jpg
+" cardiomediastinal silhouette pulmonary vasculature,  pleural effusion,  pneumothorax",val1018.jpg
+" pleural effusion,  pneumothorax",val1019.jpg
+" mediastinal hilar contours,  bilateral hilar lymph,  pulmonary vasculature,  pneumothorax",val1020.jpg
+" right subpulmonic effusion,  pulmonary edema,  pneumothorax",val1021.jpg
+" pneumonia,  lung",val1022.jpg
+chest,val1023.jpg
+" lung volumes,  pneumothorax",val1024.jpg
+" pleural effusion,  pneumothorax",val1025.jpg
+" pleural effusions,  pneumothorax",val1026.jpg
+" pneumonia,  pulmonary edema,  abnormal hilar,  pneumothorax",val1027.jpg
+" mild bibasilar atelectasis,  pneumonia,  pleural effusion,  pneumothorax",val1028.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val1029.jpg
+" pneumothorax,  pleural effusion",val1030.jpg
+" effusion,  pneumothorax",val1031.jpg
+ osseous structures,val1032.jpg
+" mild cardiomegaly,  pulmonary vascularity,  pleural effusion",val1033.jpg
+" lung volumes,  pulmonary vascular congestion,  mild pulmonary edema,  right lung,  infection,  pleural effusions,  pneumothorax",val1034.jpg
+" effusion,  pneumothorax,  osseous structures",val1035.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val1036.jpg
+" subsegmental atelectasis,  frank consolidation,  gross effusion,  pneumothorax",val1037.jpg
+" effusion,  pneumothorax",val1038.jpg
+chest,val1039.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val1040.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1041.jpg
+chest,val1042.jpg
+ mild bibasilar atelectasis,val1043.jpg
+" edema,  atelectasis,  possibly consolidation,  subsegmental atelectasis",val1044.jpg
+" pleural effusion,  pneumothorax",val1045.jpg
+" moderate cardiomegaly,  mediastinal hilar contours,  pleural effusion,  pneumothorax,  granuloma",val1046.jpg
+" right lung,  chronic lung disease,  pulmonary edeam,  pleural effusion,  pneumothorax",val1047.jpg
+" consolidation,  hilar mediastinal regions,  pleural effusion,  pneumothorax",val1048.jpg
+" moderate pulmonary edema,  pneumothorax,  pulmonary effusion",val1049.jpg
+" pleural effusion,  pneumothorax",val1050.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1051.jpg
+" pleural effusion,  pneumothorax,  osseous abnormality",val1052.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema,  minimal atelectasis",val1053.jpg
+" parenchymal abnormality,  pneumonia,  pulmonary edema,  hilar mediastinal abnormalities",val1054.jpg
+" pneumothorax,  pulmonary vasculature hilar structures,  osseous structures",val1055.jpg
+" edema,  mid lung,  atelectasis,  edema,  pneumothorax",val1056.jpg
+" pulmonary vasculature,  interstitial alveolar edema,  pulmonary vessels,  pneumothorax,  pleural effusions",val1057.jpg
+" chronic obstructive pulmonary disease,  pleural effusion,  pneumothorax",val1058.jpg
+" atelectasis,  pneumonia,  pulmonary edema,  pleural effusion,  pneumothorax",val1059.jpg
+" moderate pleural effusion,  atelectasis,  pleural effusion,  consolidation",val1060.jpg
+" definite pleural effusion,  pneumothorax,  fracture",val1061.jpg
+" pulmonary opacity,  chronic obstructive pulmonary disease,  pleural effusion,  pneumothorax",val1062.jpg
+" left lung,  pneumothorax pleural effusion,  pulmonary edema",val1063.jpg
+" pleural effusion,  pneumothorax",val1064.jpg
+" suspicious pulmonary nodules,  pleural abnormalities",val1065.jpg
+" early consolidation,  infection,  pleural effusion,  pneumothorax,  pulmonary edema",val1066.jpg
+" devices,  pulmonary edema,  cardiomegaly,  pneumonia",val1067.jpg
+" cardiac , hilar mediastinal contours,  pleural abnormality",val1068.jpg
+ effusion,val1069.jpg
+" pleural effusion,  significant pulmonary edema",val1070.jpg
+" cardiac , mediastinal hilar contours,  pneumothorax,  lung",val1071.jpg
+" effusion,  pneumothorax,  osseous structures",val1072.jpg
+" pleural effusion,  pneumothorax",val1073.jpg
+" mediastinal hilar contours,  adenocarcinoma,  pleural effusion,  pneumothorax",val1074.jpg
+chest,val1075.jpg
+chest,val1076.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1077.jpg
+" consolidation,  lung,  pleural effusion,  pneumothorax",val1078.jpg
+chest,val1079.jpg
+" large effusion,  pneumothorax",val1080.jpg
+" effusion,  pulmonary vascular congestion,  pneumonia",val1081.jpg
+" mild interstitial edema,  severe cardiomegaly,  pneumothorax",val1082.jpg
+" pleural effusion,  pneumothorax,  fracture",val1083.jpg
+" cardiomegaly,  interstitial edema,  alveolar edema,  consolidation,  pleural effusions,  consolidation",val1084.jpg
+" hilar mediastinal contours,  pneumothorax,  pleural effusion,  granuloma",val1085.jpg
+" pleural effusion,  pneumothorax",val1086.jpg
+" pleural effusion,  pneumothorax",val1087.jpg
+chest,val1088.jpg
+ pulmonary edema,val1089.jpg
+" pleural effusion,  pneumothorax",val1090.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val1091.jpg
+" pleural effusion,  pneumothorax",val1092.jpg
+" pneumothorax,  pulmonary edema,  pneumonia,  pleural effusion",val1093.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1094.jpg
+" pneumothorax,  effusion,  consolidation",val1095.jpg
+" pleural effusion,  pneumothorax",val1096.jpg
+ lung volumes,val1097.jpg
+ pneumothorax,val1098.jpg
+" mild interstitial edema,  atelectasis,  pneumonia,  pleural effusion,  pneumothorax",val1099.jpg
+" moderate cardiomegaly,  pneumothorax,  effusion",val1100.jpg
+" pneumothorax,  cardiomegaly,  aortic calcifications",val1101.jpg
+chest,val1102.jpg
+" atelectasis,  acute pneumonia",val1103.jpg
+" pleural effusion,  pneumothorax",val1104.jpg
+" effusion,  pneumothorax,  small granuloma",val1105.jpg
+" left lung,  right lung,  emphysema,  left lung,  pneumonia",val1106.jpg
+chest,val1107.jpg
+" nodule,  lymphadenopathy,  pulmonary vascular structures,  definite pleural effusion",val1108.jpg
+" pleural effusion,  pneumothorax",val1109.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1110.jpg
+ pneumonia,val1111.jpg
+" pneumothorax pleural effusion,  osseous structures",val1112.jpg
+" effusion,  pneumonia,  right lung,  pneumonia,  pneumothorax",val1113.jpg
+chest,val1114.jpg
+" pulmonary edema,  effusion",val1115.jpg
+" early pneumonia,  pleural effusion,  pulmonary vasculature,  mediastinal hilar contours",val1116.jpg
+ pulmonary edema,val1117.jpg
+" pleural effusion,  pneumothorax",val1118.jpg
+chest,val1119.jpg
+" cardiac , mediastinal hilar contours,  cardiac , mediastinal hilar contours,  slight pleural thickening,  pneumothorax,  definite fracture",val1120.jpg
+" lung volumes,  lower lung opacity,  pneumonia,  pulmonary vascular congestion,  mild pulmonary edema,  pleural effusions,  pneumothorax",val1121.jpg
+" pleural effusion,  pneumothorax,  edema",val1122.jpg
+chest,val1123.jpg
+" pneumothorax pleural effusion,  pulmonary vascularity",val1124.jpg
+ pneumothorax,val1125.jpg
+ pneumothorax,val1126.jpg
+ pleural effusion,val1127.jpg
+" pleural effusion,  pneumothorax",val1128.jpg
+" pulmonary vasculature,  lateral pleural sinuses,  pleural structures",val1129.jpg
+" tracheal wall,  pneumothorax,  pleural effusion,  consolidation",val1130.jpg
+" minimal interstitial edema,  pleural effusion,  pneumothorax",val1131.jpg
+" right lung,  left lung,  chronic lung disease,  atypical infection,  lobar consolidation,  pneumothorax",val1132.jpg
+" pulmonary edema,  pleural effusion,  pneumothorax",val1133.jpg
+" lower lung,  pneumothorax,  atelectasis,  right lung",val1134.jpg
+chest,val1135.jpg
+chest,val1136.jpg
+" pleural effusion,  pneumothorax,  osseous structures",val1137.jpg
+ consolidation,val1138.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  granuloma,  pleural effusion,  pneumothorax",val1139.jpg
+" pleural effusion,  pneumothorax",val1140.jpg
+" tumor,  consolidation,  effusion,  pneumothorax,  acute fractures",val1141.jpg
+" atelectasis,  lung,  pulmonary edema,  pleural effusion,  mediastinal hilar contours",val1142.jpg
+ pneumothorax,val1143.jpg
+" pneumothorax,  fracture",val1144.jpg
+" atelectasis pulmonary edema,  pneumothorax",val1145.jpg
+" pleural effusions,  definite pneumothorax,  right lung",val1146.jpg
+" pleural effusion,  pneumothorax",val1147.jpg
+" mediastinal hilar contours,  pneumothorax,  osseous structures",val1148.jpg
+chest,val1149.jpg
+" cardiomegaly,  pulmonary arterial,  pneumothorax",val1150.jpg
+" effusion,  atelectasis,  lymphadenopathy,  consolidation,  consolidation",val1151.jpg
+" large cavitary lesion,  moderate cardiomegaly,  larger pleural effusions",val1152.jpg
+" pleural effusion,  pneumothorax",val1153.jpg
+ pneumothorax,val1154.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val1155.jpg
+" pneumothorax,  fracture",val1156.jpg
+" atelectasis,  pulmonary edema,  pneumothorax pleural effusion",val1157.jpg
+" lung volumes,  previously right peribronchial consolidation,  new edema,  pleural effusion",val1158.jpg
+ mediastinal hilar contours,val1159.jpg
+" effusion,  osseous soft tissue structures",val1160.jpg
+" lung volumes,  pulmonary vascular markings,  acute fractures",val1161.jpg
+" consolidation,  effusion,  pneumothorax,  fractures",val1162.jpg
+ atelectasis,val1163.jpg
+chest,val1164.jpg
+chest,val1165.jpg
+" mediastinal hilar contours,  atherosclerotic calcifications,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1166.jpg
+" pleural effusion,  pneumothorax",val1167.jpg
+" pneumonia,  chronic pulmonary disease",val1168.jpg
+ pulmonary edema,val1169.jpg
+ pneumothorax,val1170.jpg
+" probable atelectasis,  focal parenchymal,  pneumothorax",val1171.jpg
+ mild bibasilar atelectasis,val1172.jpg
+" mediastinal hilar contours,  mild bibasilar atelectasis,  pneumothorax",val1173.jpg
+ pneumothorax,val1174.jpg
+" early pneumonia,  pleural effusion,  pulmonary vasculature,  mediastinal hilar contours",val1175.jpg
+" pleural effusion,  pneumothorax",val1176.jpg
+" infection,  pulmonary vascular congestion,  pneumothorax,  pleural effusion",val1177.jpg
+chest,val1178.jpg
+" mediastinal hilar contours,  pneumothorax",val1179.jpg
+" chronic obstructive pulmonary disease,  pleural effusion,  pneumothorax",val1180.jpg
+ pneumonia,val1181.jpg
+" pneumonia,  left lung,  pneumothorax pleural effusion",val1182.jpg
+" pleural effusion,  pneumothorax",val1183.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1184.jpg
+ moderate cardiomegaly,val1185.jpg
+" parapneumonic effusion,  interstitial edema,  pleural effusion",val1186.jpg
+" pleural effusion,  pneumothorax,  hilar structures",val1187.jpg
+" pulmonary nodules,  effusion,  pneumonia,  edema",val1188.jpg
+ pleural effusion,val1189.jpg
+ pneumothorax,val1190.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1191.jpg
+chest,val1192.jpg
+ effusion,val1193.jpg
+" lobe atelectasis,  cardiomegaly",val1194.jpg
+" pleural effusion pneumothorax,  pneumonia,  pulmonary vascularity",val1195.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val1196.jpg
+" emphysema,  pneumonia,  pneumothorax pulmonary edema",val1197.jpg
+" atelectasis,  dominant upper lobe pulmonary nodule,  pneumonia,  pleural effusions,  pneumothorax",val1198.jpg
+" effusion,  pneumothorax",val1199.jpg
+" consolidation,  effusion",val1200.jpg
+" pleural effusion,  pneumothorax",val1201.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val1202.jpg
+chest,val1203.jpg
+" effusion,  pneumothorax,  osseous structures",val1204.jpg
+" atelectasis,  pulmonary edema,  pneumothorax",val1205.jpg
+" pulmonary edema,  pneumothorax",val1206.jpg
+chest,val1207.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val1208.jpg
+" vasculature,  pleural effusion,  pneumothorax",val1209.jpg
+" bibasilar atelectasis,  pleural effusions,  pneumothorax",val1210.jpg
+" pleural effusion,  pneumothorax,  edema",val1211.jpg
+" effusion,  osseous soft tissue structures",val1212.jpg
+" pneumonia,  pleural effusions,  pneumothorax",val1213.jpg
+" pleural effusion,  pneumothorax",val1214.jpg
+" pneumothorax,  pleural effusion",val1215.jpg
+chest,val1216.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1217.jpg
+" pleural effusion,  pneumothorax",val1218.jpg
+" effusion,  pulmonary vascular congestion,  pneumonia",val1219.jpg
+" overt edema,  atherosclerotic calcifications",val1220.jpg
+" pleural effusion,  pneumothorax",val1221.jpg
+" effusion,  pneumothorax",val1222.jpg
+chest,val1223.jpg
+" pneumonia,  cavitary lesion,  pleural effusion,  pneumothorax",val1224.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes,  pulmonary edema",val1225.jpg
+" edema,  pneumonia",val1226.jpg
+" severe cardiomegaly,  pneumothorax,  pleural effusion",val1227.jpg
+" atelectasis,  consolidation",val1228.jpg
+" left lung,  pneumonia,  pulmonary edema,  pleural effusions,  hilar,  mediastinal changes",val1229.jpg
+" pneumothorax,  pulmonary edema,  pneumonia,  pleural effusion",val1230.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1231.jpg
+" infection,  pneumothorax",val1232.jpg
+chest,val1233.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  atelectasis,  pleural effusion,  pneumothorax,  mildly fractures",val1234.jpg
+" fracture,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1235.jpg
+chest,val1236.jpg
+" consolidation,  bronchiectasis,  pneumonia,  left lung,  pneumonia,  multiple granulomas,  pleural effusion,  pneumothorax",val1237.jpg
+ granuloma,val1238.jpg
+" probable atelectasis,  focal parenchymal,  pneumothorax",val1239.jpg
+" pleural effusion,  pneumothorax",val1240.jpg
+" atelectasis,  consolidation,  right lung,  pleural effusion,  fracture",val1241.jpg
+" atelectasis,  pleural effusion,  pneumothorax",val1242.jpg
+ effusion,val1243.jpg
+" early pneumonia,  pleural effusion,  pulmonary vasculature,  mediastinal hilar contours",val1244.jpg
+" pleural effusion,  pneumothorax",val1245.jpg
+" mediastinal hilar contours,  pleural effusions,  pneumothorax",val1246.jpg
+chest,val1247.jpg
+ pleural fluid,val1248.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val1249.jpg
+" consolidation,  effusion,  pulmonary vascular",val1250.jpg
+" pleural effusion,  pneumothorax,  edema",val1251.jpg
+" minimal atelectasis,  pneumonia,  edema,  large effusion,  pneumothorax,  osseous structures",val1252.jpg
+" bilateral lung parenchyma,  pulmonary vascular congestion,  moderate pulmonary edema,  pleural parenchymal calcifications,  pneumothorax",val1253.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1254.jpg
+" pleural effusion,  pneumothorax",val1255.jpg
+" chronic obstructive pulmonary disease,  pleural effusion,  pneumothorax",val1256.jpg
+" pleural effusion,  pulmonary edema,  pneumothorax",val1257.jpg
+" lung,  effusion,  edema",val1258.jpg
+ pneumothorax,val1259.jpg
+" pneumothorax,  pulmonary edema",val1260.jpg
+" pleural effusion,  pneumothorax,  lower lung",val1261.jpg
+" effusion,  atherosclerotic calcifications",val1262.jpg
+ pleural effusion,val1263.jpg
+" moderate cardiomegaly,  moderate pulmonary edema,  pleural effusion,  pneumothorax,  mediastinal lymphadenopathy,  mediastinal lipomatosis",val1264.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1265.jpg
+" right lung,  chronic lung disease,  pulmonary edeam,  pleural effusion,  pneumothorax",val1266.jpg
+" pleural effusion,  pneumothorax",val1267.jpg
+" small effusion,  right lung base pneumothorax,  apical pneumothorax",val1268.jpg
+" pneumothorax,  surgical rib fracture",val1269.jpg
+" pneumonia,  mediastinal hilar contours,  pneumothorax",val1270.jpg
+" pleural effusion,  pneumothorax",val1271.jpg
+chest,val1272.jpg
+ pulmonary edema,val1273.jpg
+chest,val1274.jpg
+ interstitial edema,val1275.jpg
+" lung volumes,  bibasilar atelectasis,  hilar congestion,  mild pulmonary edema,  calcifications",val1276.jpg
+" pleural effusion,  pneumothorax",val1277.jpg
+" pleural effusion,  pneumothorax",val1278.jpg
+" multifocal pneumonia atypical infection,  viral infection,  pleural effusion,  edema,  pneumothorax",val1279.jpg
+" moderate cardiomegaly,  pneumothorax",val1280.jpg
+" pneumothorax,  minimal bibasilar atelectasis,  pleural effusion,  pneumothorax",val1281.jpg
+ pulmonary vascularity,val1282.jpg
+" tumor,  consolidation,  effusion,  pneumothorax,  acute fractures",val1283.jpg
+" effusion,  osseous soft tissue structures",val1284.jpg
+" pleural effusion,  pneumothorax",val1285.jpg
+" right lung,  pneumonia,  aorta hilar vasculature,  consolidation,  atherosclerotic calcifications",val1286.jpg
+" granuloma,  effusion,  pneumothorax",val1287.jpg
+" lung volumes,  significant effusion,  pneumothorax,  pulmonary vasculature",val1288.jpg
+" pneumothorax,  pleural effusion,  edema",val1289.jpg
+" pleural effusion,  pneumothorax",val1290.jpg
+" cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax",val1291.jpg
+" lung volumes,  cardiac , mediastinal hilar contours,  stable cardiomegaly,  pleural effusions,  pneumothorax",val1292.jpg
+" pleural surface,  pneumothorax,  pleural effusion",val1293.jpg
+ pleural abnormality,val1294.jpg
+" central pulmonary vasculature,  pulmonary pulmonary arteries,  pulmonary arterial hypertension,  atelectasis,  consolidation,  pneumothorax",val1295.jpg
+ mediastinal hilar contours,val1296.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes",val1297.jpg
+" pneumothorax,  atelectasis,  gross effusion,  right lung",val1298.jpg
+ pleural effusion,val1299.jpg
+" pleural effusion,  pneumothorax",val1300.jpg
+" pulmonary edema,  acute focal pneumonia pleural effusion",val1301.jpg
+ left lung,val1302.jpg
+" right lung,  pneumothorax",val1303.jpg
+" mediastinal hilar contours,  atelectasis",val1304.jpg
+" calcified pleural plaque,  multiple bilateral pulmonary nodules,  pneumonia",val1305.jpg
+" atelectasis,  acute pneumonia",val1306.jpg
+" pulmonary vasculature,  pleural effusion,  pneumothorax,  bronchiectasis",val1307.jpg
+" cardiac , mediastinal , hilar contours,  pneumothorax",val1308.jpg
+" lung volumes,  pneumonia",val1309.jpg
+" large effusion,  pneumothorax,  mild pulmonary vascular",val1310.jpg
+" pneumonia,  atelectasis,  pneumonia,  pneumothorax",val1311.jpg
+" pleural effusion,  pneumothorax",val1312.jpg
+chest,val1313.jpg
+" left effusion,  pneumothorax,  atelectasis",val1314.jpg
+chest,val1315.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema,  minimal atelectasis",val1316.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1317.jpg
+" pleural effusion,  pneumothorax",val1318.jpg
+" lung volumes,  pleural effusion,  platelike atelectasis,  pneumothorax",val1319.jpg
+" cardiac , hilar mediastinal contours,  pleural abnormality",val1320.jpg
+chest,val1321.jpg
+" pleural effusion,  pneumothorax",val1322.jpg
+" pleural effusion,  pneumothorax",val1323.jpg
+" pulmonary vascular congestion,  pneumonia",val1324.jpg
+" consolidation,  pneumonia",val1325.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1326.jpg
+" pleural effusion,  pneumothorax",val1327.jpg
+" effusion,  pneumothorax",val1328.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val1329.jpg
+" pulmonary vasculature,  mild pulmonary edema,  thickening,  atelectasis,  pneumothorax",val1330.jpg
+" effusion,  pulmonary edema,  consolidation,  pneumothorax,  small granuloma,  mild calcifications",val1331.jpg
+" resection,  lung parenchyma,  pneumonia,  pulmonary edema,  normal hilar",val1332.jpg
+" pulmonary vasculature,  carcinoma,  consolidation,  pneumonia,  edema,  pleural effusion,  pneumothorax",val1333.jpg
+" pleural effusion,  pneumothorax,  osseous structures",val1334.jpg
+" upper lobectomy,  left lung base opacity,  lung ventilation,  pneumothorax",val1335.jpg
+ pulmonary vascularity,val1336.jpg
+" hilar mediastinal contours,  pneumothorax,  pleural effusion,  granuloma",val1337.jpg
+" effusion,  pneumothorax",val1338.jpg
+" pleural effusion,  pneumothorax,  granuloma",val1339.jpg
+" pneumonia,  pleural effusion,  pneumothorax,  pulmonary vasculature,  mediastinal hilar contours,  osseous structures",val1340.jpg
+chest,val1341.jpg
+" large effusion,  pneumothorax,  pneumonia,  edema,  osseous structures",val1342.jpg
+chest,val1343.jpg
+" primary mediastinal abnormality,  hilar,  lesions,  pleural effusion,  pneumothorax",val1344.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1345.jpg
+" pneumonia,  pleural effusion,  pneumothorax,  osseous abnormality",val1346.jpg
+" small effusion,  right lung base pneumothorax,  apical pneumothorax",val1347.jpg
+ neoplasm,val1348.jpg
+" pneumonia,  pneumothorax,  effusion",val1349.jpg
+" pleural effusion,  pneumothorax",val1350.jpg
+" lung volumes,  pneumonia",val1351.jpg
+" right lung,  lung,  upper lobectomy",val1352.jpg
+" pleural effusion,  pneumothorax",val1353.jpg
+" pulmonary vascular,  mild cardiomegaly",val1354.jpg
+" pulmonary nodules,  effusion,  pneumonia,  edema",val1355.jpg
+" large effusion,  pulmonary vascular congestion",val1356.jpg
+" pneumothorax,  effusion",val1357.jpg
+" cardiomediastinal silhouette pulmonary vasculature,  pleural effusion,  pneumothorax",val1358.jpg
+" pleural effusion,  significant pulmonary edema",val1359.jpg
+ pneumothorax,val1360.jpg
+" pneumothorax,  osseous structures",val1361.jpg
+" effusion,  pneumothorax",val1362.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val1363.jpg
+" effusion,  pneumothorax,  pulmonary edema,  osseous structures",val1364.jpg
+" mild bibasilar atelectasis,  pulmonary edema,  cardiomegaly",val1365.jpg
+" lung volumes,  pleural effusion,  pneumothorax",val1366.jpg
+" lung volumes,  pneumothorax,  mediastinal hilar contours",val1367.jpg
+" pulmonary opacifications,  support devices",val1368.jpg
+" mediastinal hilar contours,  pneumothorax,  osseous structures",val1369.jpg
+ consolidation,val1370.jpg
+" obvious consolidation,  effusion,  edema",val1371.jpg
+" pleural effusion,  pneumothorax",val1372.jpg
+" moderate pleural effusion,  right lung",val1373.jpg
+" pulmonary edema,  pleural effusion,  pneumothorax,  pneumonia",val1374.jpg
+chest,val1375.jpg
+" pleural effusion,  pneumothorax",val1376.jpg
+" pleural effusion,  pneumothorax",val1377.jpg
+" lung volumes,  discrete consolidation,  pleural effusion,  pneumothorax,  pulmonary edema",val1378.jpg
+chest,val1379.jpg
+" pleural effusion,  pneumothorax",val1380.jpg
+" extensive consolidation,  pneumonia,  pneumonia,  large pneumothorax,  effusion",val1381.jpg
+" edema,  pleural effusion",val1382.jpg
+" right lung,  left lung,  pneumothorax",val1383.jpg
+" pleural effusion,  pneumothorax",val1384.jpg
+ pneumonia,val1385.jpg
+" monitoring devices,  adjacent retrocardiac atelectasis",val1386.jpg
+" pleural effusion,  pneumothorax,  pulmonary vasculature",val1387.jpg
+ pneumonia,val1388.jpg
+ left lung,val1389.jpg
+chest,val1390.jpg
+" atelectasis,  pneumothorax",val1391.jpg
+" acute focal pneumonia,  right apical pleural parenchymal abnormalities,  previous infection,  chronic pulmonary,  acute focal pneumonia",val1392.jpg
+" left lung,  minimal atelectasis,  pneumothorax,  left lung,  right lung,  old rib fractures,  effusion,  consolidation",val1393.jpg
+" pleural abnormalities,  fracture",val1394.jpg
+" extensive intrathoracic calcifications,  bilateral pulmonary parenchymal opacities,  left lung,  pneumothorax",val1395.jpg
+" mild pulmonary edema,  moderate cardiomegaly,  pneumothorax",val1396.jpg
+" pulmonary vascularity,  pneumothorax",val1397.jpg
+" moderate cardiomegaly,  mild pulmonary edema",val1398.jpg
+" pleural effusion,  pneumothorax",val1399.jpg
+" effusion,  pneumothorax",val1400.jpg
+ moderate pulmonary edema,val1401.jpg
+chest,val1402.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1403.jpg
+ base atelectasis,val1404.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pneumothorax",val1405.jpg
+chest,val1406.jpg
+" lung volumes,  pneumothorax,  moderate cardiomegaly",val1407.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema,  mediastinal hilar structures",val1408.jpg
+" pneumothorax,  tuberculosis",val1409.jpg
+" effusion,  pneumothorax",val1410.jpg
+" hyperinflated chronic obstructive pulmonary disease,  pleural effusion,  pneumothorax,  fracture",val1411.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1412.jpg
+ pulmonary edema,val1413.jpg
+" pleural effusion,  pneumothorax",val1414.jpg
+" pleural effusion,  pneumothorax,  osseous abnormality",val1415.jpg
+" cardiomegaly,  frank edema,  large effusion,  pneumothorax,  pneumonia",val1416.jpg
+" moderate pleural effusion,  atelectasis",val1417.jpg
+ adjacent atelectasis,val1418.jpg
+" pulmonary edema,  mild bibasilar atelectasis,  pneumothorax",val1419.jpg
+" consolidation,  pleural effusion,  pneumothorax,  rib fractures",val1420.jpg
+" chronic pulmonary changes,  acute pneumonia , vascular congestion,  pleural effusion",val1421.jpg
+" definite consolidation,  acute pulmonary edema",val1422.jpg
+ pleural effusion,val1423.jpg
+" basilar nodule,  effusion,  osseous structures",val1424.jpg
+" right lung,  pneumonia,  aorta hilar vasculature,  consolidation,  atherosclerotic calcifications",val1425.jpg
+" pleural effusion,  pneumothorax,  prior fractures",val1426.jpg
+" pleural effusion,  pneumothorax,  prior fractures",val1427.jpg
+" pneumothorax,  mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1428.jpg
+" lymphadenopathy,  pleural effusion,  pneumothorax",val1429.jpg
+" pleural effusion,  merely atelectasis,  pulmonary vessels",val1430.jpg
+" atelectasis,  pleural effusion,  pneumothorax,  mediastinal hilar contours,  pulmonary vascular congestion",val1431.jpg
+" mild cardiomegaly,  bibasilar atelectasis,  evident pneumothorax pulmonary edema",val1432.jpg
+" pleural effusion,  pneumothorax",val1433.jpg
+" lung volumes,  newly retrocardiac atelectasis,  pulmonary edema",val1434.jpg
+" devices,  atelectasis,  pneumothorax",val1435.jpg
+" hilar mediastinal contours,  pneumonia,  pleural effusion,  pneumothorax",val1436.jpg
+" lung volumes,  pulmonary artery,  atelectasis,  pneumothorax",val1437.jpg
+ pneumothorax,val1438.jpg
+" moderate cardiomegaly,  pneumonia,  minimal atelectasis,  larger pleural effusions,  pneumothorax",val1439.jpg
+ atelectasis,val1440.jpg
+" pleural effusion,  pneumothorax",val1441.jpg
+" lung,  effusion,  pneumothorax,  costophrenic pleural thickening",val1442.jpg
+" pneumothorax,  fracture",val1443.jpg
+ neoplasm,val1444.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1445.jpg
+" pleural effusion,  pneumothorax",val1446.jpg
+" acute intrathoracic process,  mediastinal , pleural pulmonary structures,  pleural effusion,  pneumothorax,  calcifications",val1447.jpg
+" lung volumes,  pneumonia,  large effusion,  pneumothorax",val1448.jpg
+chest,val1449.jpg
+" pleural thickening,  pneumothorax,  edema",val1450.jpg
+ pulmonary vascular congestion,val1451.jpg
+" pneumonia,  interstitial thickening,  left lung,  pleural effusion,  pneumothorax",val1452.jpg
+chest,val1453.jpg
+" pleural effusion,  pneumothorax,  fracture",val1454.jpg
+chest,val1455.jpg
+" pleural effusion,  pneumothorax",val1456.jpg
+" moderate cardiomegaly,  mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1457.jpg
+" pulmonary vascular congestion,  mild pulmonary edema,  bone findings",val1458.jpg
+" pulmonary vasculature,  pleural effusion,  pneumothorax,  bronchiectasis",val1459.jpg
+" pleural effusion,  pneumothorax",val1460.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1461.jpg
+" pleural effusion,  pneumothorax",val1462.jpg
+" pneumothorax,  pleural effusion,  pneumothorax",val1463.jpg
+" emphysema,  acute fractures",val1464.jpg
+" consolidation,  effusion,  pneumothorax",val1465.jpg
+" pneumonia,  pleural effusion",val1466.jpg
+ consolidation,val1467.jpg
+" granuloma,  large effusion,  pneumothorax",val1468.jpg
+ effusion,val1469.jpg
+" right subpulmonic effusion,  pulmonary edema,  pneumothorax",val1470.jpg
+" pleural effusion,  pneumothorax,  pneumonia,  pulmonary vasculature",val1471.jpg
+" pneumothorax,  moderate pleural effusion,  pulmonary vascular congestion,  stable cardiomegaly",val1472.jpg
+" pleural effusion,  pneumothorax",val1473.jpg
+" definite consolidation,  mediastinal hilar contours,  pulmonary vasculature,  pleural effusion",val1474.jpg
+" pleural effusion,  pneumothorax",val1475.jpg
+" pleural effusion,  pneumothorax,  edema",val1476.jpg
+" effusion,  pneumothorax,  osseous structures",val1477.jpg
+" cardiac , mediastinal hilar contours,  edema,  definite effusion,  pneumothorax",val1478.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val1479.jpg
+" lymphadenopathy,  pleural effusion,  pneumothorax",val1480.jpg
+chest,val1481.jpg
+" atelectasis,  pneumonia,  edema,  pneumothorax",val1482.jpg
+ pneumothorax,val1483.jpg
+" lung volume,  pleural effusion,  pneumothorax",val1484.jpg
+" atelectasis,  pleural effusion,  pneumothorax",val1485.jpg
+" consolidation,  small effusion",val1486.jpg
+" pneumothorax,  moderate cardiomegaly",val1487.jpg
+ moderate cardiomegaly,val1488.jpg
+" infection,  aneurysm",val1489.jpg
+ pleural effusion,val1490.jpg
+chest,val1491.jpg
+ pneumothorax,val1492.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pulmonary edema,  pleural effusion,  pneumothorax",val1493.jpg
+" atelectasis,  pneumothorax pulmonary edema",val1494.jpg
+" pleural effusion,  pneumothorax",val1495.jpg
+" appreciable pleural effusion,  pneumothorax",val1496.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1497.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val1498.jpg
+ lobectomy,val1499.jpg
+" mediastinal hilar contours,  calcifications,  pleural effusions,  pneumothorax",val1500.jpg
+" moderate pulmonary edema,  pneumothorax",val1501.jpg
+" pleural effusion,  pneumothorax,  fracture",val1502.jpg
+" pneumothorax,  moderate pulmonary edema,  stable cardiomegaly",val1503.jpg
+" pleural effusion,  pneumothorax",val1504.jpg
+ mediastinal hilar contours,val1505.jpg
+" consolidation,  pneumothorax,  pulmonary edema pleural effusions",val1506.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1507.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1508.jpg
+ pulmonary vascular pattern,val1509.jpg
+" lung volumes,  small pleural effusions,  pneumothorax",val1510.jpg
+" lung volumes,  mediastinal hilar contours,  atelectasis,  pleural effusion,  pneumothorax,  osseous structures",val1511.jpg
+" pleural effusion,  pneumothorax",val1512.jpg
+" effusion,  pneumothorax",val1513.jpg
+ bibasilar atelectasis,val1514.jpg
+" mediastinal hilar contours,  pulmonary vascularity",val1515.jpg
+chest,val1516.jpg
+ abscesses,val1517.jpg
+" pleural effusion,  pneumothorax,  granuloma",val1518.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val1519.jpg
+" upper lobectomy,  left lung base opacity,  lung ventilation,  pneumothorax",val1520.jpg
+" mild bibasilar atelectasis,  pleural effusion,  pneumothorax",val1521.jpg
+chest,val1522.jpg
+" lung,  pneumonia,  lung volumes,  pneumothorax",val1523.jpg
+" lung volumes,  pneumothorax",val1524.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1525.jpg
+" mild cardiomegaly,  pleural effusions,  pneumothorax,  hilar mediastinal contours",val1526.jpg
+" left lung,  lesions",val1527.jpg
+" pleural effusion,  pneumothorax",val1528.jpg
+" pulmonary vasculature,  carcinoma,  consolidation,  pneumonia,  edema,  pleural effusion,  pneumothorax",val1529.jpg
+" pleural effusion,  pneumothorax",val1530.jpg
+" pleural effusions,  pneumothorax,  edema",val1531.jpg
+" pleural effusion,  pneumothorax",val1532.jpg
+" pleural effusion,  pneumothorax,  edema,  mild atelectasis",val1533.jpg
+" pleural effusion,  pneumothorax,  fractures",val1534.jpg
+ pneumonia,val1535.jpg
+" pleural effusion,  pneumothorax",val1536.jpg
+" moderate cardiomegaly,  pneumonia,  minimal atelectasis,  larger pleural effusions,  pneumothorax",val1537.jpg
+" pleural effusion,  pneumothorax",val1538.jpg
+chest,val1539.jpg
+" right lung,  pneumothorax,  rib fracture",val1540.jpg
+" cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax,  pulmonary vascular congestion",val1541.jpg
+" pneumonia,  chronic pulmonary disease",val1542.jpg
+" mediastinal hilar contours,  malignancy status,  atelectasis,  infection,  pleural effusion,  pneumothorax,  pulmonary vascular congestion",val1543.jpg
+" left pleural,  effusion,  pleural effusion,  bilateral pulmonary nodules,  appreciable pneumothorax",val1544.jpg
+" vasculature,  pleural effusion,  pneumothorax",val1545.jpg
+ mediastinal hilar contours,val1546.jpg
+" pneumothorax,  pulmonary edema",val1547.jpg
+" pleural effusion,  pneumothorax,  pulmonary vasculature",val1548.jpg
+" concurrent pneumonia,  pneumothorax",val1549.jpg
+" pneumothorax,  likely atelectasis",val1550.jpg
+" right lung base opacity,  pleural effusion,  pulmonary edema,  emphysema,  hilar mediastinal silhouettes",val1551.jpg
+" diffuse bilateral pulmonary nodules,  pneumothorax",val1552.jpg
+" consolidation,  mediastinal mass,  osseous structures,  osseous structures",val1553.jpg
+" left lung atelectasis,  concomitant pleural effusions,  consolidation,  right lung",val1554.jpg
+" pleural effusion,  pneumothorax,  edema",val1555.jpg
+" primary mediastinal abnormality,  hilar,  lesions,  pleural effusion,  pneumothorax",val1556.jpg
+" right lung,  pneumothorax,  small effusion,  pleural thickening,  osseous structures",val1557.jpg
+" effusion,  pneumothorax,  minimal basilar atelectasis",val1558.jpg
+" hilar mediastinal contours,  pneumothorax,  pleural effusion",val1559.jpg
+" pleural effusion,  pneumothorax",val1560.jpg
+" pleural effusion,  pneumothorax",val1561.jpg
+" pulmonary edema,  atelectasis,  pneumonia",val1562.jpg
+" mediastinal hilar contours,  adenocarcinoma,  pleural effusion,  pneumothorax",val1563.jpg
+" pulmonary vascular congestion,  pneumothorax,  effusion",val1564.jpg
+ apical pneumothorax,val1565.jpg
+" bilateral lung parenchyma,  pulmonary vascular congestion,  moderate pulmonary edema,  pleural parenchymal calcifications,  pneumothorax",val1566.jpg
+" pneumonia,  pneumothorax",val1567.jpg
+" mediastinal hilar contours,  atherosclerotic calcifications,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1568.jpg
+" pneumonia,  pulmonary edema,  abnormal hilar,  pneumothorax",val1569.jpg
+ pleural effusion,val1570.jpg
+ notably pneumothorax,val1571.jpg
+" pneumothorax,  effusion",val1572.jpg
+" effusion,  pneumothorax",val1573.jpg
+" right lung,  pleural effusion",val1574.jpg
+" right lung,  lung,  upper lobectomy",val1575.jpg
+" moderate pleural effusion,  consolidation,  atelectasis,  consolidation,  mediastinal hilar contours,  pneumothorax,  rib fractures",val1576.jpg
+" consolidation,  effusion,  edema",val1577.jpg
+" pneumothorax pleural effusion,  pulmonary edema",val1578.jpg
+" stable cardiomegaly,  pulmonary vascular congestion,  mild pulmonary edema,  pleural effusions,  pneumothorax",val1579.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax,  lymphadenopathy,  parenchymal interstitial disease,  sarcoidosis",val1580.jpg
+ pleural effusion,val1581.jpg
+" atherosclerotic calcifications,  pulmonary hypertension,  emphysema,  atelectasis,  pleural effusion,  pneumothorax",val1582.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1583.jpg
+" effusion,  pneumothorax",val1584.jpg
+" pleural effusion,  pneumothorax,  fracture",val1585.jpg
+ osseous soft tissue structures,val1586.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val1587.jpg
+" consolidation,  mediastinal hilar contours",val1588.jpg
+" low lung,  acute focal pneumonia,  pleural effusion",val1589.jpg
+" pleural effusion,  pneumothorax",val1590.jpg
+" pleural effusion,  pneumothorax",val1591.jpg
+" lung volumes,  moderate pulmonary edema,  severe pulmonary vascular,  atelectasis,  edema,  concurrent infection,  pneumothorax",val1592.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1593.jpg
+ pneumothorax,val1594.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1595.jpg
+ moderate cardiomegaly,val1596.jpg
+" lung volumes,  pneumothorax",val1597.jpg
+" monitoring devices,  pulmonary edema",val1598.jpg
+" effusion,  pneumothorax,  osseous structures",val1599.jpg
+ osseous soft tissue structures,val1600.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax,  small ossification",val1601.jpg
+" pulmonary edema,  pleural effusion,  pneumothorax,  fracture",val1602.jpg
+ right hilar,val1603.jpg
+" lung volumes,  mediastinal hilar contours,  atelectasis,  effusion,  pneumothorax",val1604.jpg
+" pneumonia,  cavitary lesion,  pleural effusion,  pneumothorax",val1605.jpg
+" probable atelectasis,  focal parenchymal,  pneumothorax",val1606.jpg
+" consolidation,  effusion,  edema",val1607.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1608.jpg
+" emphysema,  pneumonia,  pneumothorax pulmonary edema",val1609.jpg
+" pleural surface,  pneumothorax,  pleural effusion",val1610.jpg
+" consolidation,  pneumonia,  pleural effusion,  pneumothorax",val1611.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  granuloma,  pleural effusion,  pneumothorax",val1612.jpg
+ pulmonary vascular congestion,val1613.jpg
+chest,val1614.jpg
+" alveolar edema,  pleural effusion",val1615.jpg
+" cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax",val1616.jpg
+" moderate cardiomegaly,  pneumonia,  pleural effusion,  pneumothorax",val1617.jpg
+" right lung base atelectasis,  pulmonary edema",val1618.jpg
+" right lung nodules,  pleural effusion,  pneumothorax",val1619.jpg
+" mediastinal hilar contours,  widespread pulmonary metastases",val1620.jpg
+" bibasilar atelectasis,  effusion,  pneumothorax,  atherosclerotic calcifications",val1621.jpg
+" pulmonary vascularity,  pneumothorax",val1622.jpg
+ interstitial edema,val1623.jpg
+" pneumothorax,  pleural effusion",val1624.jpg
+" pleural effusion,  multiple bilateral metastatic lung nodules,  small effusion",val1625.jpg
+" effusion,  pneumothorax",val1626.jpg
+" pneumothorax,  fracture",val1627.jpg
+" cardiomediastinal silhouette pulmonary vasculature,  pleural effusion,  pneumothorax",val1628.jpg
+" right lung,  pleural effusion",val1629.jpg
+" lung volumes,  atelectasis,  early pneumonia,  right lung,  large effusion,  pneumothorax",val1630.jpg
+" pneumothorax,  effusion",val1631.jpg
+" atelectasis,  pleural effusion,  pneumothorax",val1632.jpg
+" pulmonary vascular congestion,  moderate pulmonary edema,  small pleural effusions",val1633.jpg
+chest,val1634.jpg
+ pneumothorax,val1635.jpg
+" effusion,  pneumothorax",val1636.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1637.jpg
+" large effusion,  pneumothorax,  pneumonia",val1638.jpg
+" effusion,  pneumothorax,  osseous structures",val1639.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1640.jpg
+" pneumothorax pulmonary edema,  pleural parenchymal process",val1641.jpg
+" vascular bronchial structures,  pulmonary edema,  pneumonia,  lung nodules",val1642.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1643.jpg
+" pleural effusion,  pneumothorax",val1644.jpg
+" pulmonary vascularity,  pneumothorax",val1645.jpg
+" stable cardiomegaly,  pulmonary vascular congestion,  mild pulmonary edema,  pleural effusions,  pneumothorax",val1646.jpg
+" mediastinal hilar contours,  pulmonary vascular,  effusion,  pneumothorax",val1647.jpg
+" lung volumes,  pleural effusion,  pneumothorax,  rib fracture,  atelectasis",val1648.jpg
+" vasculature,  pleural effusion,  pneumothorax",val1649.jpg
+ pneumothorax,val1650.jpg
+" bibasilar atelectasis,  definite fracture",val1651.jpg
+" moderate pulmonary edema,  pneumothorax,  calcified lymph nodes,  pleural parenchymal calcifications",val1652.jpg
+chest,val1653.jpg
+ mild cardiomegaly,val1654.jpg
+" effusion,  pneumothorax,  pulmonary vascular congestion,  rib fractures",val1655.jpg
+" mediastinal hilar contours,  adenocarcinoma,  pleural effusion,  pneumothorax",val1656.jpg
+" lung volumes,  pleural effusion,  pneumothorax",val1657.jpg
+" atelectasis,  pneumonia,  pneumothorax",val1658.jpg
+" left lung,  atelectasis,  osseous abnormality,  pneumothorax pleural effusion",val1659.jpg
+" effusion,  pneumothorax,  osseous structures",val1660.jpg
+chest,val1661.jpg
+ granuloma,val1662.jpg
+" mild cardiomegaly,  pneumothorax",val1663.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax,  rib fracture",val1664.jpg
+" pneumonia,  pathologic findings",val1665.jpg
+" effusion,  pneumothorax,  osseous structures",val1666.jpg
+" pneumonia,  pleural effusion,  pneumothorax,  mild cardiomegaly",val1667.jpg
+" extensive consolidation,  pneumonia,  pneumonia,  large pneumothorax,  effusion",val1668.jpg
+" malignancy,  right lung,  widespread metastatic disease",val1669.jpg
+" pulmonary vascular markings,  atelectasis",val1670.jpg
+" pneumothorax,  pulmonary vasculature,  acute pulmonary congestion,  pneumothorax",val1671.jpg
+" pleural effusion,  pneumothorax",val1672.jpg
+chest,val1673.jpg
+" pleural effusion,  pulmonary edema,  pneumothorax",val1674.jpg
+" moderate cardiomegaly,  pneumothorax,  effusion",val1675.jpg
+" parenchymal calcifications,  diffuse infiltrative parenchymal,  pulmonary edema,  pneumonia",val1676.jpg
+ effusion,val1677.jpg
+" devices,  ascites",val1678.jpg
+" pneumothorax,  pleural effusion,  pulmonary vascularity",val1679.jpg
+ pneumothorax lungs,val1680.jpg
+" consolidation,  edema,  pleural effusion,  pneumothorax",val1681.jpg
+ atelectasis,val1682.jpg
+chest,val1683.jpg
+ pneumothorax,val1684.jpg
+" pleural effusion,  pneumothorax,  lateral rib fractures",val1685.jpg
+chest,val1686.jpg
+" consolidation,  pneumonia,  retrocardiac atelectasis,  pneumothorax,  pulmonary edema,  right granuloma",val1687.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax,  pulmonary vasculature",val1688.jpg
+" vasculature,  pleural effusion,  pneumothorax",val1689.jpg
+" mild bibasilar atelectasis,  mediastinal hilar contours,  pleural effusion,  pneumothorax",val1690.jpg
+" definite consolidation,  pleural effusion,  pneumothorax,  edema",val1691.jpg
+" lymph nodes,  granuloma",val1692.jpg
+" mild cardiomegaly,  pleural effusions,  pneumothorax,  hilar mediastinal contours",val1693.jpg
+" pleural effusion,  pneumothorax",val1694.jpg
+" pleural effusion,  pneumothorax",val1695.jpg
+chest,val1696.jpg
+" pleural effusion,  pneumothorax",val1697.jpg
+" pleural effusion,  pneumothorax",val1698.jpg
+" concurrent infection,  diffuse pulmonary,  mediastinal hilar contours",val1699.jpg
+" atelectasis,  mediastinal hilar contours,  pneumothorax",val1700.jpg
+" effusion,  pneumothorax",val1701.jpg
+ low lung,val1702.jpg
+" subsegmental atelectasis,  frank consolidation,  gross effusion,  pneumothorax",val1703.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1704.jpg
+chest,val1705.jpg
+" atelectasis,  pneumothorax,  cardiomegaly",val1706.jpg
+" devices,  atelectasis",val1707.jpg
+chest,val1708.jpg
+ pneumocystis carinii pneumonia,val1709.jpg
+" suspicious pulmonary nodules,  pleural abnormalities",val1710.jpg
+" upper lobectomy,  lung volumes,  left lung,  upper lobectomy,  pneumothorax,  effusion",val1711.jpg
+" effusion,  pneumothorax,  pulmonary edema,  osseous structures",val1712.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax,  lymphadenopathy,  parenchymal interstitial disease,  sarcoidosis",val1713.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1714.jpg
+" pleural effusion,  pneumothorax,  possible nondisplaced subacute rib fracture",val1715.jpg
+" atelectasis,  pleural effusion,  pneumothorax,  mild cardiomegaly,  subcutaneous emphysema",val1716.jpg
+" pleural effusion,  pneumothorax",val1717.jpg
+" pleural effusion,  pneumothorax",val1718.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val1719.jpg
+" pleural thickening,  pneumothorax,  edema",val1720.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1721.jpg
+" pleural effusion,  pneumothorax",val1722.jpg
+ mild pulmonary vascular,val1723.jpg
+" parenchymal abnormality,  pneumonia,  pulmonary edema,  hilar mediastinal abnormalities",val1724.jpg
+" effusion,  pulmonary vascular congestion,  granuloma,  pneumothorax,  osseous structures",val1725.jpg
+" right lung,  calcifications,  pleural effusion,  pneumothorax",val1726.jpg
+" pleural effusion,  pneumothorax",val1727.jpg
+" tiny pleural effursion,  pleural effusion,  pneumothorax,  cardiac , hilar , mediastinal contours",val1728.jpg
+" effusion,  pneumonia,  right lung,  pneumonia,  pneumothorax",val1729.jpg
+" pulmonary vasculature engorgement,  cardiomegaly,  moderate pulmonary edema,  pneumothorax",val1730.jpg
+chest,val1731.jpg
+chest,val1732.jpg
+" extensive consolidation,  right lung,  left lung,  pneumothorax",val1733.jpg
+" pleural fluid,  thickening,  large consolidation",val1734.jpg
+" nodules,  pneumothorax",val1735.jpg
+" pneumothorax,  pleural effusion,  pulmonary edema,  acute rib fracture",val1736.jpg
+" pleural effusion,  pneumothorax,  hilar mediastinal silhouettes",val1737.jpg
+" effusion,  consolidation,  pneumothorax",val1738.jpg
+" pleural effusion,  pneumothorax",val1739.jpg
+ interstitial edema,val1740.jpg
+" extensive consolidation,  pneumonia,  pneumonia,  large pneumothorax,  effusion",val1741.jpg
+" atelectasis,  pneumonia,  pulmonary edema,  pleural effusion,  pneumothorax",val1742.jpg
+" lung,  bibasilar atelectasis,  atelectasis,  infection",val1743.jpg
+" pneumonia,  pleural effusions,  pneumothorax",val1744.jpg
+chest,val1745.jpg
+" atelectasis,  consolidation,  pneumothorax",val1746.jpg
+" pneumothorax,  pleural effusion",val1747.jpg
+ pneumothorax,val1748.jpg
+" effusion,  pneumothorax,  osseous structures",val1749.jpg
+" lung volumes,  pleural effusion,  platelike atelectasis,  pneumothorax",val1750.jpg
+" lung volumes,  mild pulmonary vascular,  pleural effusion,  pneumothorax",val1751.jpg
+chest,val1752.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val1753.jpg
+" pleural effusion,  pulmonary edema,  aneurysm",val1754.jpg
+" large effusion,  pneumothorax",val1755.jpg
+" pulmonary vascular congestion,  edema,  left lung,  pleural parenchymal calcifications,  pneumothorax",val1756.jpg
+" pleural abnormalities,  fracture",val1757.jpg
+ pneumothorax,val1758.jpg
+" atelectasis,  left lung,  pleural effusion,  consolidation,  pneumothorax,  prior right lung resection,  prior lung resection",val1759.jpg
+ osseous soft tissue structures,val1760.jpg
+ mediastinal hilar contours,val1761.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1762.jpg
+" unremarkable mediastinal hilar contours,  lung volumes,  mild bibasilar atelectasis,  mild pleural thickening,  fracture",val1763.jpg
+ old fracture,val1764.jpg
+" effusion,  pneumothorax",val1765.jpg
+ pulmonary vascular congestion,val1766.jpg
+" obvious consolidation,  effusion,  edema",val1767.jpg
+" atelectasis,  pneumothorax",val1768.jpg
+" pneumonia,  chronic pulmonary disease",val1769.jpg
+" pleural effusion,  pneumothorax,  fracture",val1770.jpg
+" mild platelike atelectasis,  pneumonia,  pleural effusion,  pneumothorax",val1771.jpg
+chest,val1772.jpg
+" mediastinal hilar contours,  bilateral hilar lymph,  pulmonary vasculature,  pneumothorax",val1773.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  minimal subsegmental atelectasis,  pleural effusion",val1774.jpg
+chest,val1775.jpg
+ base atelectasis,val1776.jpg
+ pulmonary edema,val1777.jpg
+chest,val1778.jpg
+chest,val1779.jpg
+" consolidation,  edema,  effusion,  pneumothorax,  osseous structures",val1780.jpg
+" pleural effusion,  pneumothorax",val1781.jpg
+" low lung,  tuberculosis,  atelectasis,  pleural effusion,  pneumothorax",val1782.jpg
+" consolidation,  effusion",val1783.jpg
+ effusion,val1784.jpg
+ pulmonary vascular congestion,val1785.jpg
+" lung volumes,  pleural effusion,  pulmonary vascular congestion,  pneumothorax",val1786.jpg
+" lung volumes,  pleural effusion,  pneumothorax",val1787.jpg
+" pulmonary vasculature,  pneumothorax,  pulmonary vasculature,  acute pulmonary parenchymal infiltrates",val1788.jpg
+" lung volumes,  pneumonia,  mediastinal hilar contours",val1789.jpg
+chest,val1790.jpg
+" right lung,  left lung,  chronic lung disease,  atypical infection,  lobar consolidation,  pneumothorax",val1791.jpg
+" effusion,  pneumothorax,  mild peribronchial thickening,  osseous structures",val1792.jpg
+ pneumothorax,val1793.jpg
+chest,val1794.jpg
+" pneumothorax pleural effusion,  osseous structures",val1795.jpg
+" diaphragmatic flattening mediastinal shift,  mid rib fractures",val1796.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1797.jpg
+ acute pulmonary edema,val1798.jpg
+ pneumonia,val1799.jpg
+" mild interstitial edema,  atelectasis,  infection",val1800.jpg
+" atelectasis,  pneumonia,  pulmonary edema,  pleural effusion,  pneumothorax",val1801.jpg
+" hyperinflated chronic obstructive pulmonary disease,  pleural effusion,  pneumothorax,  fracture",val1802.jpg
+ moderate cardiomegaly,val1803.jpg
+" cardiomegaly,  bibasilar atelectasis,  pleural effusion,  pneumothorax",val1804.jpg
+" pleural scarring,  pleural effusion,  right hilar,  pneumonia",val1805.jpg
+" pleural effusion,  pneumothorax",val1806.jpg
+" pleural effusion,  pneumothorax",val1807.jpg
+" subcutaneous emphysema,  pneumothorax",val1808.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val1809.jpg
+" pneumothorax,  pleural effusion",val1810.jpg
+" effusion,  edema",val1811.jpg
+ mild pulmonary edema,val1812.jpg
+" adjacent atelectasis,  atelectasis,  pneumothorax",val1813.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1814.jpg
+" chronic obstructive pulmonary disease,  pneumothorax",val1815.jpg
+" pneumothorax,  pleural effusion,  consolidation",val1816.jpg
+" mild pulmonary edema,  lung volumes,  minimal bibasilar atelectasis,  pleural effusion,  pneumothorax",val1817.jpg
+chest,val1818.jpg
+" likely consolidation,  pleural effusion,  pneumothorax",val1819.jpg
+chest,val1820.jpg
+" consolidation,  edema,  effusion,  pneumothorax,  osseous structures",val1821.jpg
+" upper lung opacity,  pneumonia,  large effusion,  pneumothorax",val1822.jpg
+" devices,  pulmonary edema,  pneumonia",val1823.jpg
+" effusion,  pneumonia,  right lung,  pneumonia,  pneumothorax",val1824.jpg
+" minimal interstitial edema,  pleural effusion,  pneumothorax",val1825.jpg
+" pleural effusion,  pneumothorax,  lower lung",val1826.jpg
+" atelectasis,  pulmonary edema,  new parenchymal,  pneumonia,  hilar",val1827.jpg
+" cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax",val1828.jpg
+" adjacent atelectasis,  pneumothorax",val1829.jpg
+" pulmonary nodules,  effusion,  pneumonia,  edema",val1830.jpg
+" effusion,  pneumothorax",val1831.jpg
+" pneumothorax,  left lung",val1832.jpg
+" lower lung,  pleural effusion,  pneumothorax,  rib fracture",val1833.jpg
+" large effusion,  pneumothorax,  pneumonia,  edema,  osseous structures",val1834.jpg
+" effusion,  pneumothorax,  osseous structures",val1835.jpg
+" pleural effusion,  pneumothorax",val1836.jpg
+" lung volumes,  pneumonia,  mediastinal hilar contours",val1837.jpg
+" pleural effusion,  pneumothorax",val1838.jpg
+" mediastinal hilar contours,  pleural effusion",val1839.jpg
+" pleural effusion,  pneumothorax",val1840.jpg
+" effusion,  pneumothorax",val1841.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val1842.jpg
+" pleural effusion,  pneumothorax",val1843.jpg
+" pleural effusion,  pneumothorax,  chronic pleural thickening,  small effusion",val1844.jpg
+" pleural effusion,  pneumothorax",val1845.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1846.jpg
+" lung,  cardiomegaly",val1847.jpg
+" pleural effusion,  pneumothorax",val1848.jpg
+" pneumonia,  chronic pulmonary disease",val1849.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1850.jpg
+" consolidation,  lung,  pleural effusion,  pneumothorax",val1851.jpg
+chest,val1852.jpg
+" moderate cardiomegaly,  mediastinal hilar contours,  pleural effusion,  pneumothorax,  granuloma",val1853.jpg
+" consolidation,  effusion,  pneumothorax,  fractures",val1854.jpg
+" lung volume,  atelectasis,  pulmonary vascular congestion,  pneumothorax",val1855.jpg
+" hilar,  pneumothorax,  pleural effusion",val1856.jpg
+" large subpulmonic effusion,  atelectasis,  mediastinal hilar contours,  lung,  pneumothorax",val1857.jpg
+" lung volumes,  pneumonia,  atelectasis,  definite pleural effusion,  moderate pleural effusion,  pneumothorax",val1858.jpg
+" right lung,  pleural effusion,  consolidation",val1859.jpg
+" mild pulmonary edema,  trace pleural effusions",val1860.jpg
+" effusion,  edema",val1861.jpg
+ left lung atelectasis,val1862.jpg
+" lung volumes,  pleural effusion,  pneumothorax",val1863.jpg
+" lung volume,  pleural effusion,  pneumothorax",val1864.jpg
+" hilar,  pneumothorax,  effusion,  pulmonary vascularity",val1865.jpg
+" pulmonary vasculature,  new discrete pulmonary parenchymal,  lateral pleural sinuses,  pneumothorax",val1866.jpg
+" edema,  atelectasis,  possibly consolidation,  subsegmental atelectasis",val1867.jpg
+" pleural effusion,  pneumothorax,  chronic pulmonary disease,  active tuberculosis",val1868.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val1869.jpg
+" pleural effusion,  pneumothorax",val1870.jpg
+" pleural effusion,  pneumothorax",val1871.jpg
+" pulmonary vascular congestion,  pneumothorax pleural effusion",val1872.jpg
+" pleural effusion,  pneumothorax,  known bilateral extensive pulmonary nodules",val1873.jpg
+" multiple pulmonary nodules,  lymph nodes,  bibasilar atelectasis,  bibasilar consolidation,  pneumothorax",val1874.jpg
+" pleural effusion,  pneumothorax,  atherosclerotic calcifications,  osseous structures",val1875.jpg
+" pneumonia,  pleural effusion,  pneumothorax",val1876.jpg
+" likely consolidation,  pleural effusion,  pneumothorax",val1877.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1878.jpg
+" pneumothorax,  pleural effusion,  pulmonary edema,  acute rib fracture",val1879.jpg
+ pleural effusion,val1880.jpg
+chest,val1881.jpg
+" pleural effusion,  pneumothorax",val1882.jpg
+ pneumothorax,val1883.jpg
+ lung volumes,val1884.jpg
+" tissue thickening,  lung parenchyma,  pleural,  pneumothorax",val1885.jpg
+" cardiomediastinal silhouette pulmonary vasculature,  pleural effusion,  pneumothorax",val1886.jpg
+" small pulmonary nodules,  pleural effusion,  pneumothorax",val1887.jpg
+" atelectasis,  focal pulmonary opacity,  pleural effusion,  pneumothorax,  osseous structures",val1888.jpg
+" consolidation,  effusion,  pneumothorax,  fractures",val1889.jpg
+" pneumothorax pleural effusion,  osseous structures",val1890.jpg
+" atelectasis,  pneumothorax,  pleural effusion,  pulmonary edema",val1891.jpg
+" pleural effusion,  pneumothorax",val1892.jpg
+" pleural effusion,  pneumothorax",val1893.jpg
+" lung volumes,  pulmonary vascular congestion,  mild pulmonary edema,  right lung,  infection,  pleural effusions,  pneumothorax",val1894.jpg
+chest,val1895.jpg
+" consolidation,  consolidation,  pneumonia,  lung parenchyma,  pleural effusions",val1896.jpg
+" right pneumothorax,  right effusion,  left effusion",val1897.jpg
+" moderate cardiomegaly,  pleural effusions , interstitial abnormalities,  hilar mediastinal structures,  pneumonia",val1898.jpg
+" cardiac , mediastinal , hilar contours,  pleural effusions,  pneumothorax",val1899.jpg
+" effusion,  pneumothorax,  osseous structures",val1900.jpg
+" lung volumes,  pneumonia",val1901.jpg
+" pleural effusion,  pneumothorax,  pulmonary vasculature",val1902.jpg
+" consolidation,  pleural effusion,  pneumothorax,  right apical parenchymal pleural scarring",val1903.jpg
+" pulmonary edema,  pneumothorax",val1904.jpg
+" pneumothorax,  effusion",val1905.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  basilar atelectasis,  left lung,  pneumothorax",val1906.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val1907.jpg
+" early consolidation,  infection,  pleural effusion,  pneumothorax,  pulmonary edema",val1908.jpg
+" pleural effusion,  pneumothorax",val1909.jpg
+" effusion,  edema",val1910.jpg
+ pneumothorax,val1911.jpg
+" lung,  pneumothorax pleural effusion,  pulmonary vascularity",val1912.jpg
+" pneumonia,  left lung,  pneumothorax pleural effusion",val1913.jpg
+" pulmonary vasculature,  stable cardiomegaly,  pleural effusions,  pneumothorax",val1914.jpg
+" pleural effusion,  pneumothorax,  pulmonary edema",val1915.jpg
+chest,val1916.jpg
+" lung volumes,  pulmonary vasculature,  pneumothorax,  effusion,  pulmonary vascularity",val1917.jpg
+" pneumonia,  pleural effusion,  pneumothorax,  granuloma,  previously multiple lung nodules,  aortic calcifications",val1918.jpg
+" pulmonary vascular congestion,  pneumothorax,  effusion",val1919.jpg
+" chronic obstructive pulmonary disease,  pleural effusion,  pneumothorax",val1920.jpg
+" right lung,  pneumothorax,  small effusion,  pleural thickening,  osseous structures",val1921.jpg
+chest,val1922.jpg
+" effusion,  pneumothorax,  osseous structures",val1923.jpg
+" upper lobectomy,  definite pleural effusion,  infection,  right lung,  pleural effusion,  pneumothorax",val1924.jpg
+" chronic pulmonary changes,  acute pneumonia , vascular congestion,  pleural effusion",val1925.jpg
+" effusion,  pneumothorax",val1926.jpg
+chest,val1927.jpg
+" effusion,  pneumothorax,  mild cardiomegaly",val1928.jpg
+ pneumothorax,val1929.jpg
+" pulmonary edema,  mild bibasilar atelectasis,  pneumothorax",val1930.jpg
+" granulomas,  lung,  atelectasis , likely pneumonia,  pleural effusion,  pneumothorax",val1931.jpg
+" consolidation,  pleural effusion,  pneumothorax",val1932.jpg
+" minimal atelectasis,  pneumonia,  edema,  large effusion,  pneumothorax,  osseous structures",val1933.jpg
+" cardiac , mediastinal hilar contours,  edema,  definite effusion,  pneumothorax",val1934.jpg
+" pleural effusion,  pneumothorax",val1935.jpg
+ pneumothorax,val1936.jpg
+" consolidation,  effusion,  pneumothorax,  fractures",val1937.jpg
+" lung parenchyma,  pneumothorax,  pleural,  normal hilar",val1938.jpg
+" vague consolidation,  left lung,  pneumonia,  large effusion,  right lung",val1939.jpg
+ metastatic disease,val1940.jpg
+" granuloma,  effusion,  pneumothorax",val1941.jpg
+" cardiomegaly,  pulmonary arterial,  pneumothorax",val1942.jpg
+" pleural effusion,  pneumothorax",val1943.jpg
+" pneumonia,  pleural effusion,  pneumothorax,  mild cardiomegaly",val1944.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val1945.jpg
+" right lung,  pleural effusions,  pneumothorax",val1946.jpg
+" lung volumes,  newly retrocardiac atelectasis,  pulmonary edema",val1947.jpg
+" mediastinal hilar contours,  pleural effusion,  pneumothorax",val1948.jpg
+" pleural effusions,  pneumothorax",val1949.jpg
+" cardiac , mediastinal hilar contours,  mild atelectasis,  parenchymal granuloma,  mild pleural thickening,  pleural effusion",val1950.jpg
+" pleural effusion,  pneumothorax,  pulmonary vasculature",val1951.jpg
+" pleural effusion,  pneumothorax",val1952.jpg
+" tiny pleural effursion,  pleural effusion,  pneumothorax,  cardiac , hilar , mediastinal contours",val1953.jpg
+" pleural effusion,  pneumothorax",val1954.jpg
+" obvious consolidation,  effusion,  edema",val1955.jpg
+" cardiac , hilar , mediastinal contours",val1956.jpg
+" pneumonia,  likely atelectasis,  pneumothorax",val1957.jpg
+" pleural effusion,  pneumothorax,  granuloma",val1958.jpg
+" pulmonary edema,  pneumothorax,  adjacent atelectasis",val1959.jpg
+chest,val1960.jpg
+" effusion,  pneumothorax,  osseous structures",val1961.jpg
+" interstitial edema,  pneumothorax",val1962.jpg
+" right lung,  consolidation,  tumor,  pleural effusion,  pneumothorax",val1963.jpg
+" basilar atelectasis,  pneumothorax",val1964.jpg
+" definite consolidation,  pleural effusion,  pneumothorax,  edema",val1965.jpg
+chest,val1966.jpg
+" cardiac , mediastinal hilar contours,  pulmonary vascularity,  pneumothorax pleural effusion",val1967.jpg
+ pulmonary vascularity,val1968.jpg
+" residual pneumonia,  pleural effusion,  pneumothorax",val1969.jpg
+" large effusion,  pneumothorax,  pneumonia",val1970.jpg
+" atelectasis,  pneumothorax,  pleural effusion,  pulmonary edema",val1971.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  atelectasis,  right lung,  pneumothorax,  anterior rib fracture,  acutely fractures",val1972.jpg
+" multiple pulmonary nodules,  new consolidation,  effusion,  pneumothorax",val1973.jpg
+ effusion,val1974.jpg
+" mild bibasilar atelectasis,  pleural effusion,  pneumothorax",val1975.jpg
+" low lung,  tuberculosis,  atelectasis,  pleural effusion,  pneumothorax",val1976.jpg
+" consolidation,  mediastinal mass,  osseous structures,  osseous structures",val1977.jpg
+" mild cardiomegaly,  atelectasis,  pulmonary edema,  pleural effusion,  pneumothorax",val1978.jpg
+" mediastinal hilar contours,  pneumothorax,  effusion",val1979.jpg
+chest,val1980.jpg
+chest,val1981.jpg
+" pneumothorax,  pleural effusion",val1982.jpg
+ pneumothorax,val1983.jpg
+" effusion,  edema,  pneumothorax",val1984.jpg
+" infection,  pneumothorax",val1985.jpg
+ secondary bibasilar atelectasis,val1986.jpg
+" lung volumes,  pleural effusion,  pneumothorax,  pulmonary hypertension,  mediastinal hilar contours,  mild cardiomegaly",val1987.jpg
+" effusion,  pneumothorax",val1988.jpg
+" lung volumes,  mediastinal hilar contours,  atelectasis,  effusion,  pneumothorax",val1989.jpg
+" pleural effusion,  acute focal pneumonia",val1990.jpg
+" pneumothorax,  multiple pulmonary lesions",val1991.jpg
+" lung volumes,  low lung,  mediastinal hilar contours,  pulmonary edema,  atelectasis,  pleural effusion,  pneumothorax",val1992.jpg
+" moderate pleural effusion,  atelectasis",val1993.jpg
+" pleural effusion,  pneumothorax",val1994.jpg
+" pneumothorax,  pulmonary edema,  pneumonia,  pleural effusion",val1995.jpg
+" mediastinal hilar contours,  calcifications,  pleural effusions,  pneumothorax",val1996.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val1997.jpg
+" pneumothorax,  effusion",val1998.jpg
+" pulmonary edema,  pneumothorax",val1999.jpg
+" pulmonary vascular congestion,  pulmonary edema,  pneumothorax,  effusion",val2000.jpg
+" moderate cardiomegaly,  pulmonary edema,  pleural effusion,  pneumothorax",val2001.jpg
+" lung parenchyma,  emphysema,  mild edema,  pleural effusion",val2002.jpg
+" pleural effusion,  acute pneumonia",val2003.jpg
+" devices,  pulmonary edema,  possible pneumonia",val2004.jpg
+" cardiac , mediastinal hilar contours,  edema,  definite effusion,  pneumothorax",val2005.jpg
+" effusion,  pneumothorax,  osseous structures",val2006.jpg
+" pleural effusions,  pneumothorax,  hilar lymphadenopathy",val2007.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  atelectasis,  right lung,  pneumothorax,  anterior rib fracture,  acutely fractures",val2008.jpg
+" lung volumes,  large effusion,  effusion",val2009.jpg
+" pulmonary vascularity,  left lung,  low lung,  effusion,  pneumonia",val2010.jpg
+chest,val2011.jpg
+" large effusion,  pneumothorax,  mild pulmonary vascular",val2012.jpg
+" congestive pulmonary vascular pattern,  pulmonary edema,  hilar level",val2013.jpg
+" large effusion,  pneumothorax",val2014.jpg
+" pleural effusion,  pneumothorax",val2015.jpg
+" pleural effusion,  right lung,  pneumothorax",val2016.jpg
+ pneumothorax,val2017.jpg
+" pneumothorax,  pleural fluid",val2018.jpg
+" effusion,  pneumothorax,  osseous structures",val2019.jpg
+" effusion,  pneumothorax,  osseous structures",val2020.jpg
+" overt edema,  atherosclerotic calcifications",val2021.jpg
+" pleural effusion,  pneumothorax",val2022.jpg
+" diffuse bilateral pulmonary nodules,  enlarged heart,  pleural effusion,  pneumothorax",val2023.jpg
+" atelectasis,  likely atelectasis,  consolidation,  previously pneumothorax",val2024.jpg
+" pleural effusion,  pneumothorax",val2025.jpg
+" chronic obstructive pulmonary disease,  pneumothorax",val2026.jpg
+" malignancy,  right lung,  widespread metastatic disease",val2027.jpg
+" pleural effusion,  pneumothorax",val2028.jpg
+" effusion,  pneumothorax,  osseous structures",val2029.jpg
+" lobar consolidation,  pleural effusion,  pneumothorax,  multiple osseous metastases",val2030.jpg
+" cardiac , mediastinal , hilar contours,  pleural effusions,  pneumothorax",val2031.jpg
+" cardiac , mediastinal hilar contours,  mild atelectasis,  parenchymal granuloma,  mild pleural thickening,  pleural effusion",val2032.jpg
+" bibasilar atelectasis,  mediastinal hilar contours,  pneumothorax,  appreciable pleural effusion",val2033.jpg
+" lung volumes,  pneumonia,  large effusion,  pneumothorax",val2034.jpg
+" pleural effusion,  pulmonary edema",val2035.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val2036.jpg
+" pleural effusion,  pneumothorax",val2037.jpg
+" pleural densities,  pneumothorax",val2038.jpg
+" loculated pleural fluid,  pleural thickening,  right lung,  pleural space",val2039.jpg
+" left lung,  left lung,  right lung,  pneumothorax,  pulmonary edema",val2040.jpg
+" lymphadenopathy,  consolidation,  pleural effusion,  pneumothorax",val2041.jpg
+" mediastinal hilar contours,  pleural effusion",val2042.jpg
+" effusion,  pneumothorax",val2043.jpg
+" pneumothorax pleural effusion,  osseous structures",val2044.jpg
+" low lung,  acute focal pneumonia,  pleural effusion",val2045.jpg
+" effusion,  pneumothorax",val2046.jpg
+" consolidation,  pancoast tumor",val2047.jpg
+" pleural effusion,  pneumothorax",val2048.jpg
+ pleural effusion,val2049.jpg
+" pleural effusion,  pneumothorax",val2050.jpg
+" hilar mediastinal contours,  pneumonia,  pleural effusion,  pneumothorax",val2051.jpg
+ mediastinal hilar contours,val2052.jpg
+" pulmonary vascular congestion,  pneumothorax pleural effusion",val2053.jpg
+" cardiac , mediastinal hilar contours,  pleural effusion,  pneumothorax,  parenchymal abnormalities,  emphysema,  small hyperdense nodules",val2054.jpg
+" lung volumes,  pneumothorax,  radiographically apparent esophageal abnormalities",val2055.jpg
+" hilar mediastinal contours,  consolidation,  pneumothorax,  effusion",val2056.jpg
+" cardiac , hilar mediastinal contours,  pleural abnormality",val2057.jpg
+" mild bibasilar atelectasis,  pulmonary edema,  cardiomegaly",val2058.jpg
+" pneumothorax,  left lung",val2059.jpg
+ pneumocystis carinii pneumonia,val2060.jpg
+" consolidation,  effusion,  edema",val2061.jpg
+" large subpulmonic effusion,  atelectasis,  mediastinal hilar contours,  lung,  pneumothorax",val2062.jpg
+" pneumonia,  pleural effusion",val2063.jpg
+" pleural effusion,  pneumothorax,  osseous structures",val2064.jpg
+" right hilar,  definite consolidation,  pneumonia,  effusion,  pneumothorax,  overt edema",val2065.jpg
+" cardiac , hilar , mediastinal contours",val2066.jpg
+ pulmonary metastases,val2067.jpg
+" pneumothorax,  effusion",val2068.jpg
+" mild bibasilar atelectasis,  pleural effusion,  pneumothorax,  pulmonary edema",val2069.jpg
+chest,val2070.jpg
+" mediastinal hilar contours,  pulmonary vascularity,  pleural effusion,  pneumothorax",val2071.jpg
+ pneumothorax,val2072.jpg
+" right lung,  pneumothorax,  small effusion,  pleural thickening,  osseous structures",val2073.jpg
+" moderate cardiomegaly,  pneumonia,  pleural effusion,  pneumothorax",val2074.jpg
+" pleural effusion,  pneumothorax",val2075.jpg
+" interstitial pulmonary edema,  bibasilar atelectasis,  pneumonia,  pneumothorax",val2076.jpg
+" pleural effusion,  pneumothorax",val2077.jpg
+" pleural effusion,  pneumothorax",val2078.jpg
+" lung volumes,  pulmonary artery,  atelectasis,  pneumothorax",val2079.jpg
+" left lung,  acute lung abnormality,  pulmonary edema",val2080.jpg
+" lung volumes,  low lung,  mediastinal hilar contours,  pulmonary edema,  atelectasis,  pleural effusion,  pneumothorax",val2081.jpg
+" mild cardiomegaly,  pulmonary edema,  pneumonia,  pneumothorax",val2082.jpg
+" devices,  atelectasis,  pneumothorax",val2083.jpg
+" lung volumes,  mild cardiomegaly,  tiny effusion,  pleural thickening,  edema,  pneumothorax",val2084.jpg
+" pulmonary edema,  pneumothorax",val2085.jpg
+" atelectasis,  pneumothorax,  pleural effusion,  pulmonary edema",val2086.jpg
+" mediastinal hilar contours,  pulmonary vasculature,  pleural effusion,  pneumothorax",val2087.jpg
+" mild cardiomegaly,  atelectasis,  pulmonary edema,  pleural effusion,  pneumothorax",val2088.jpg
+" cardiac , mediastinal hilar contours,  mild pulmonary edema,  pleural effusions,  atelectasis,  infection,  pneumothorax",val2089.jpg
+ pneumonia,val2090.jpg
+chest,val2091.jpg
+" pleural effusion,  pneumothorax",val2092.jpg
+" pneumonia,  pneumothorax,  dispalced rib fractures",val2093.jpg
+" pleural effusion,  pneumothorax,  osseous structures",val2094.jpg
+" chronic atelectasis,  previously pulmonary edema,  mild cardiomegaly",val2095.jpg
+" right lung,  right lung,  pulmonary edema,  pneumonia",val2096.jpg
+" pulmonary edema,  atelectasis,  pneumonia",val2097.jpg
+" effusion,  pneumothorax,  osseous structures",val2098.jpg
+" effusion,  pneumothorax,  osseous structures",val2099.jpg
+" lung volumes,  pulmonary parenchyma,  atelectasis,  pneumothorax",val2100.jpg
